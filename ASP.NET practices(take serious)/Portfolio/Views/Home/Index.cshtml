@@ -1,0 +1,33 @@
+﻿@model IEnumerable<SampleWork>
+@{
+    ViewData["Title"] = "Home Page";
+}
+@section SEO{
+
+}
+<!-- One -->
+<section id="one">
+    <header class="major">
+        <h2>
+            @ViewBag.Header
+        </h2>
+    </header>
+    <p>
+        @ViewData["Info"]
+    </p>
+</section>
+<!-- Two -->
+<section id="two">
+    <h2>کارهای اخیر</h2>
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <article class="6u 12u$(xsmall) work-item">
+                <a href="~/@item.PhotoPath" class="image fit thumb"><img src="~/@item.PhotoPath" alt="" /></a>
+                <h3>@item.Title</h3>
+                <p>@item.Description</p>
+            </article>
+        }
+    </div>
+</section>
+

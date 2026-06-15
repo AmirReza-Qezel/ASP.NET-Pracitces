@@ -1,0 +1,177 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Portfolio\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Portfolio.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Portfolio.2quiuhkwyf.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Portfolio\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Portfolio\\wwwroot\\css\\ie\\PIE.htc",
+      "PackagePath": "staticwebassets\\css\\ie\\PIE.htc"
+    },
+    {
+      "Id": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Portfolio\\wwwroot\\css\\ie\\backgroundsize.min.htc",
+      "PackagePath": "staticwebassets\\css\\ie\\backgroundsize.min.htc"
+    },
+    {
+      "Id": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Portfolio\\wwwroot\\css\\ie\\html5shiv.js",
+      "PackagePath": "staticwebassets\\css\\ie\\html5shiv.js"
+    },
+    {
+      "Id": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Portfolio\\wwwroot\\css\\ie\\v8.css",
+      "PackagePath": "staticwebassets\\css\\ie\\v8.css"
+    },
+    {
+      "Id": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Portfolio\\wwwroot\\css\\images\\overlay.png",
+      "PackagePath": "staticwebassets\\css\\images\\overlay.png"
+    },
+    {
+      "Id": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Portfolio\\wwwroot\\css\\skel.css",
+      "PackagePath": "staticwebassets\\css\\skel.css"
+    },
+    {
+      "Id": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Portfolio\\wwwroot\\css\\style-large.css",
+      "PackagePath": "staticwebassets\\css\\style-large.css"
+    },
+    {
+      "Id": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Portfolio\\wwwroot\\css\\style-medium.css",
+      "PackagePath": "staticwebassets\\css\\style-medium.css"
+    },
+    {
+      "Id": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Portfolio\\wwwroot\\css\\style-small.css",
+      "PackagePath": "staticwebassets\\css\\style-small.css"
+    },
+    {
+      "Id": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Portfolio\\wwwroot\\css\\style-xlarge.css",
+      "PackagePath": "staticwebassets\\css\\style-xlarge.css"
+    },
+    {
+      "Id": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Portfolio\\wwwroot\\css\\style-xsmall.css",
+      "PackagePath": "staticwebassets\\css\\style-xsmall.css"
+    },
+    {
+      "Id": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Portfolio\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Portfolio\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Portfolio\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Portfolio\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Portfolio\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Portfolio\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Portfolio\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Portfolio\\wwwroot\\images\\avatar.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Portfolio\\wwwroot\\images\\bg.jpg",
+      "PackagePath": "staticwebassets\\images\\bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Portfolio\\wwwroot\\images\\fulls\\01.jpg",
+      "PackagePath": "staticwebassets\\images\\fulls\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Portfolio\\wwwroot\\images\\fulls\\02.jpg",
+      "PackagePath": "staticwebassets\\images\\fulls\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Portfolio\\wwwroot\\images\\fulls\\03.jpg",
+      "PackagePath": "staticwebassets\\images\\fulls\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Portfolio\\wwwroot\\images\\fulls\\04.jpg",
+      "PackagePath": "staticwebassets\\images\\fulls\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Portfolio\\wwwroot\\images\\fulls\\05.jpg",
+      "PackagePath": "staticwebassets\\images\\fulls\\05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Portfolio\\wwwroot\\images\\fulls\\06.jpg",
+      "PackagePath": "staticwebassets\\images\\fulls\\06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Portfolio\\wwwroot\\images\\thumbs\\01.jpg",
+      "PackagePath": "staticwebassets\\images\\thumbs\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Portfolio\\wwwroot\\images\\thumbs\\02.jpg",
+      "PackagePath": "staticwebassets\\images\\thumbs\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Portfolio\\wwwroot\\images\\thumbs\\03.jpg",
+      "PackagePath": "staticwebassets\\images\\thumbs\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Portfolio\\wwwroot\\images\\thumbs\\04.jpg",
+      "PackagePath": "staticwebassets\\images\\thumbs\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Portfolio\\wwwroot\\images\\thumbs\\05.jpg",
+      "PackagePath": "staticwebassets\\images\\thumbs\\05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Portfolio\\wwwroot\\images\\thumbs\\06.jpg",
+      "PackagePath": "staticwebassets\\images\\thumbs\\06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Portfolio\\wwwroot\\js\\init.js",
+      "PackagePath": "staticwebassets\\js\\init.js"
+    },
+    {
+      "Id": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Portfolio\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Portfolio\\wwwroot\\js\\jquery.poptrox.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.poptrox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Portfolio\\wwwroot\\js\\skel.min.js",
+      "PackagePath": "staticwebassets\\js\\skel.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Portfolio.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Portfolio.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.Portfolio.props",
+      "PackagePath": "build\\Portfolio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.Portfolio.props",
+      "PackagePath": "buildMultiTargeting\\Portfolio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.Portfolio.props",
+      "PackagePath": "buildTransitive\\Portfolio.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

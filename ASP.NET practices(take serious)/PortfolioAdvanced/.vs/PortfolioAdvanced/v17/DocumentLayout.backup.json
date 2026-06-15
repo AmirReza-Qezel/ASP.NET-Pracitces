@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\PortfolioAdvanced\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB7ED98-218A-4EAA-B3AC-9F03BFB5E3AD}|PortfolioAdvanced.csproj|c:\\users\\technolife\\desktop\\asp.net practices(take serious)\\portfolioadvanced\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB7ED98-218A-4EAA-B3AC-9F03BFB5E3AD}|PortfolioAdvanced.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB7ED98-218A-4EAA-B3AC-9F03BFB5E3AD}|PortfolioAdvanced.csproj|c:\\users\\technolife\\desktop\\asp.net practices(take serious)\\portfolioadvanced\\data\\projectstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB7ED98-218A-4EAA-B3AC-9F03BFB5E3AD}|PortfolioAdvanced.csproj|solutionrelative:data\\projectstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB7ED98-218A-4EAA-B3AC-9F03BFB5E3AD}|PortfolioAdvanced.csproj|c:\\users\\technolife\\desktop\\asp.net practices(take serious)\\portfolioadvanced\\views\\home\\projectdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAB7ED98-218A-4EAA-B3AC-9F03BFB5E3AD}|PortfolioAdvanced.csproj|solutionrelative:views\\home\\projectdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB7ED98-218A-4EAA-B3AC-9F03BFB5E3AD}|PortfolioAdvanced.csproj|c:\\users\\technolife\\desktop\\asp.net practices(take serious)\\portfolioadvanced\\views\\home\\components\\specialarticles\\_specialarticles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAB7ED98-218A-4EAA-B3AC-9F03BFB5E3AD}|PortfolioAdvanced.csproj|solutionrelative:views\\home\\components\\specialarticles\\_specialarticles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_SpecialArticles.cshtml",
+              "DocumentMoniker": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\PortfolioAdvanced\\Views\\Home\\Components\\SpecialArticles\\_SpecialArticles.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Components\\SpecialArticles\\_SpecialArticles.cshtml",
+              "ToolTip": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\PortfolioAdvanced\\Views\\Home\\Components\\SpecialArticles\\_SpecialArticles.cshtml",
+              "RelativeToolTip": "Views\\Home\\Components\\SpecialArticles\\_SpecialArticles.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-21T19:57:51.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjectDetail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\PortfolioAdvanced\\Views\\Home\\ProjectDetail.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\ProjectDetail.cshtml",
+              "ToolTip": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\PortfolioAdvanced\\Views\\Home\\ProjectDetail.cshtml",
+              "RelativeToolTip": "Views\\Home\\ProjectDetail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-21T18:54:09.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\PortfolioAdvanced\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\PortfolioAdvanced\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "Controllers\\HomeController.cs*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwBQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T18:39:28.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjectStore.cs",
+              "DocumentMoniker": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\PortfolioAdvanced\\Data\\ProjectStore.cs",
+              "RelativeDocumentMoniker": "Data\\ProjectStore.cs",
+              "ToolTip": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\PortfolioAdvanced\\Data\\ProjectStore.cs*",
+              "RelativeToolTip": "Data\\ProjectStore.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T18:17:36.508Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

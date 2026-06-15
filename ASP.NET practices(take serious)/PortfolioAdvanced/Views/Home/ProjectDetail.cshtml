@@ -1,0 +1,26 @@
+﻿@model PortfolioAdvanced.Models.SpecialArticle
+
+@if (Model != null)
+{
+    <div class="col-sm-6">
+        <div class="single_event media">
+            <img src="~/images/project/@Model.PhotoPath" class="align-self-center" alt="...">
+            <div class="tricker">10 مهر</div>
+            <div class="media-body align-self-center">
+                <h5 class="mt-0">@Model.Title</h5>
+                <p>@Model.Description</p>
+                <ul>
+                    <li><span id="days"></span>روز</li>
+                    <li><span id="hours"></span>ساعت</li>
+                    <li><span id="minutes"></span>دقیقه</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+}
+else
+{
+    <div class="alert alert-danger">
+        Project not found
+    </div>
+}

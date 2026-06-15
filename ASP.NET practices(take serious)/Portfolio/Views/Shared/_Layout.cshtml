@@ -1,0 +1,56 @@
+﻿<!DOCTYPE HTML>
+<html>
+
+<head>
+    <title></title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    @RenderSection(name:"SEO",required:true)
+    <link href="~/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="~/css/skel.css" rel="stylesheet" />
+    <link href="~/css/style.css" rel="stylesheet" />
+    <link href="~/css/style-xlarge.css" rel="stylesheet" />
+
+</head>
+
+<body class="is-preload">
+
+    <!-- Header -->
+    <header id="header">
+        <div class="inner">
+            <a href="#" class="image avatar"><img src="images/avatar.jpg" alt="" /></a>
+            <h1>
+                <strong>نمونه کار من <br /></strong>اولین پروژه از دوره ASP.NET Core MVC که توسط من نوشته شده است.<br />
+                <a href="@Url.Action("Index","Home")">صفحه اصلی</a>
+                <a asp-action="Index" asp-controller="Contact">تماس با من</a>
+            </h1>
+        </div>
+    </header>
+
+    <!-- Main -->
+    <div id="main">
+        @RenderBody();
+    </div>
+    <!-- Footer -->
+        <footer id="footer">
+            <div class="inner">
+                <ul class="icons">
+                    <li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+                    <li><a href="#" class="icon brands fa-github"><span class="label">Github</span></a></li>
+                    <li><a href="#" class="icon brands fa-dribbble"><span class="label">Dribbble</span></a></li>
+                    <li><a href="#" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+                </ul>
+                <ul class="copyright">
+                    <li>&copy;</li>
+                    <li>کلیه حقوق این وب سایت متعلق به منه.</li>
+                </ul>
+            </div>
+        </footer>
+</body>
+<!-- Scripts -->
+<script src="~/js/jquery.min.js"></script>
+<script src="~/js/jquery.poptrox.min.js"></script>
+<script src="~/js/skel.min.js"></script>
+<script src="~/js/init.js"></script>
+@await RenderSectionAsync(name:"scripts",required:false)
+</html>

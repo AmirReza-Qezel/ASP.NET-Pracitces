@@ -1,0 +1,14 @@
+C:\Users\Technolife\Desktop\ASP.NET practices(take serious)\ConsoleGameApp\bin\Debug\net9.0\ConsoleGameApp.exe
+C:\Users\Technolife\Desktop\ASP.NET practices(take serious)\ConsoleGameApp\bin\Debug\net9.0\ConsoleGameApp.deps.json
+C:\Users\Technolife\Desktop\ASP.NET practices(take serious)\ConsoleGameApp\bin\Debug\net9.0\ConsoleGameApp.runtimeconfig.json
+C:\Users\Technolife\Desktop\ASP.NET practices(take serious)\ConsoleGameApp\bin\Debug\net9.0\ConsoleGameApp.dll
+C:\Users\Technolife\Desktop\ASP.NET practices(take serious)\ConsoleGameApp\bin\Debug\net9.0\ConsoleGameApp.pdb
+C:\Users\Technolife\Desktop\ASP.NET practices(take serious)\ConsoleGameApp\obj\Debug\net9.0\ConsoleGameApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Technolife\Desktop\ASP.NET practices(take serious)\ConsoleGameApp\obj\Debug\net9.0\ConsoleGameApp.AssemblyInfoInputs.cache
+C:\Users\Technolife\Desktop\ASP.NET practices(take serious)\ConsoleGameApp\obj\Debug\net9.0\ConsoleGameApp.AssemblyInfo.cs
+C:\Users\Technolife\Desktop\ASP.NET practices(take serious)\ConsoleGameApp\obj\Debug\net9.0\ConsoleGameApp.csproj.CoreCompileInputs.cache
+C:\Users\Technolife\Desktop\ASP.NET practices(take serious)\ConsoleGameApp\obj\Debug\net9.0\ConsoleGameApp.dll
+C:\Users\Technolife\Desktop\ASP.NET practices(take serious)\ConsoleGameApp\obj\Debug\net9.0\refint\ConsoleGameApp.dll
+C:\Users\Technolife\Desktop\ASP.NET practices(take serious)\ConsoleGameApp\obj\Debug\net9.0\ConsoleGameApp.pdb
+C:\Users\Technolife\Desktop\ASP.NET practices(take serious)\ConsoleGameApp\obj\Debug\net9.0\ConsoleGameApp.genruntimeconfig.cache
+C:\Users\Technolife\Desktop\ASP.NET practices(take serious)\ConsoleGameApp\obj\Debug\net9.0\ref\ConsoleGameApp.dll

@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Practice1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47A76F21-D2E5-4AFC-AC81-FC7292F45515}|Practice1.csproj|c:\\users\\technolife\\desktop\\asp.net practices(take serious)\\practice1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47A76F21-D2E5-4AFC-AC81-FC7292F45515}|Practice1.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A76F21-D2E5-4AFC-AC81-FC7292F45515}|Practice1.csproj|c:\\users\\technolife\\desktop\\asp.net practices(take serious)\\practice1\\practice1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{47A76F21-D2E5-4AFC-AC81-FC7292F45515}|Practice1.csproj|solutionrelative:practice1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A76F21-D2E5-4AFC-AC81-FC7292F45515}|Practice1.csproj|c:\\users\\technolife\\desktop\\asp.net practices(take serious)\\practice1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47A76F21-D2E5-4AFC-AC81-FC7292F45515}|Practice1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A76F21-D2E5-4AFC-AC81-FC7292F45515}|Practice1.csproj|c:\\users\\technolife\\desktop\\asp.net practices(take serious)\\practice1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47A76F21-D2E5-4AFC-AC81-FC7292F45515}|Practice1.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A76F21-D2E5-4AFC-AC81-FC7292F45515}|Practice1.csproj|c:\\users\\technolife\\desktop\\asp.net practices(take serious)\\practice1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{47A76F21-D2E5-4AFC-AC81-FC7292F45515}|Practice1.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A76F21-D2E5-4AFC-AC81-FC7292F45515}|Practice1.csproj|c:\\users\\technolife\\desktop\\asp.net practices(take serious)\\practice1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47A76F21-D2E5-4AFC-AC81-FC7292F45515}|Practice1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A76F21-D2E5-4AFC-AC81-FC7292F45515}|Practice1.csproj|c:\\users\\technolife\\desktop\\asp.net practices(take serious)\\practice1\\views\\test\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47A76F21-D2E5-4AFC-AC81-FC7292F45515}|Practice1.csproj|solutionrelative:views\\test\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A76F21-D2E5-4AFC-AC81-FC7292F45515}|Practice1.csproj|c:\\users\\technolife\\desktop\\asp.net practices(take serious)\\practice1\\views\\target\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47A76F21-D2E5-4AFC-AC81-FC7292F45515}|Practice1.csproj|solutionrelative:views\\target\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A76F21-D2E5-4AFC-AC81-FC7292F45515}|Practice1.csproj|c:\\users\\technolife\\desktop\\asp.net practices(take serious)\\practice1\\controllers\\targetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47A76F21-D2E5-4AFC-AC81-FC7292F45515}|Practice1.csproj|solutionrelative:controllers\\targetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A76F21-D2E5-4AFC-AC81-FC7292F45515}|Practice1.csproj|c:\\users\\technolife\\desktop\\asp.net practices(take serious)\\practice1\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47A76F21-D2E5-4AFC-AC81-FC7292F45515}|Practice1.csproj|solutionrelative:controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A76F21-D2E5-4AFC-AC81-FC7292F45515}|Practice1.csproj|c:\\users\\technolife\\desktop\\asp.net practices(take serious)\\practice1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47A76F21-D2E5-4AFC-AC81-FC7292F45515}|Practice1.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Practice1",
+              "DocumentMoniker": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Practice1\\Practice1.csproj",
+              "RelativeDocumentMoniker": "Practice1.csproj",
+              "ToolTip": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Practice1\\Practice1.csproj",
+              "RelativeToolTip": "Practice1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-15T05:08:42.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Practice1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Practice1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T05:07:09.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Practice1\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Practice1\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-15T05:05:16.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Practice1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Practice1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-15T05:01:15.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Practice1\\Views\\Target\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Target\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Practice1\\Views\\Target\\Index.cshtml",
+              "RelativeToolTip": "Views\\Target\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-15T04:49:21.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Practice1\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Practice1\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-14T16:49:56.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Practice1\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Practice1\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T05:26:54.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TargetController.cs",
+              "DocumentMoniker": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Practice1\\Controllers\\TargetController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TargetController.cs",
+              "ToolTip": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Practice1\\Controllers\\TargetController.cs",
+              "RelativeToolTip": "Controllers\\TargetController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T04:43:05.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Practice1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Practice1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-14T16:49:52.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Practice1\\Views\\Test\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Test\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Practice1\\Views\\Test\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Test\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-14T15:11:33.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Practice1\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TestController.cs",
+              "ToolTip": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\Practice1\\Controllers\\TestController.cs",
+              "RelativeToolTip": "Controllers\\TestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T12:54:55.802Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

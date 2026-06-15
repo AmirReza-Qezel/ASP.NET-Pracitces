@@ -1,0 +1,34 @@
+﻿@model Contact
+@{
+    ViewData["Title"] = "Contact us";
+}
+@section SEO{
+
+}
+<section id="one">
+    <header class="major">
+        <h2>
+            تماس با من
+        </h2>
+    </header>
+</section>
+
+<section id="two">
+    <div class="row">
+        <table>
+            <tr>
+                <td>پست الکترونیک : </td>
+                <td>@Model.Email</td>
+            </tr>
+            <tr>
+                <td>موبایل : </td>
+                <td>@Model.PhoneNumber</td>
+            </tr>
+            <tr>
+                <td>گیت هاب : </td>
+                <td>@Model.Github</td>
+            </tr>
+        </table>
+    </div>
+</section>
+

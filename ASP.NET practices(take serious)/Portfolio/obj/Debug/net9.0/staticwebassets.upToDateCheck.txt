@@ -1,0 +1,56 @@
+C:\Users\Technolife\Desktop\ASP.NET practices(take serious)\Portfolio\wwwroot\js\init.js
+C:\Users\Technolife\Desktop\ASP.NET practices(take serious)\Portfolio\wwwroot\css\ie\PIE.htc
+C:\Users\Technolife\Desktop\ASP.NET practices(take serious)\Portfolio\wwwroot\css\ie\html5shiv.js
+C:\Users\Technolife\Desktop\ASP.NET practices(take serious)\Portfolio\wwwroot\css\ie\backgroundsize.min.htc
+C:\Users\Technolife\Desktop\ASP.NET practices(take serious)\Portfolio\wwwroot\fonts\fontawesome-webfont.svg
+C:\Users\Technolife\Desktop\ASP.NET practices(take serious)\Portfolio\wwwroot\js\skel.min.js
+C:\Users\Technolife\Desktop\ASP.NET practices(take serious)\Portfolio\wwwroot\css\font-awesome.min.css
+C:\Users\Technolife\Desktop\ASP.NET practices(take serious)\Portfolio\wwwroot\css\style-xsmall.css
+C:\Users\Technolife\Desktop\ASP.NET practices(take serious)\Portfolio\wwwroot\css\style-medium.css
+C:\Users\Technolife\Desktop\ASP.NET practices(take serious)\Portfolio\wwwroot\favicon.ico
+C:\Users\Technolife\Desktop\ASP.NET practices(take serious)\Portfolio\wwwroot\css\style-xlarge.css
+C:\Users\Technolife\Desktop\ASP.NET practices(take serious)\Portfolio\wwwroot\css\skel.css
+C:\Users\Technolife\Desktop\ASP.NET practices(take serious)\Portfolio\wwwroot\css\style-large.css
+C:\Users\Technolife\Desktop\ASP.NET practices(take serious)\Portfolio\wwwroot\js\jquery.poptrox.min.js
+C:\Users\Technolife\Desktop\ASP.NET practices(take serious)\Portfolio\wwwroot\css\style.css
+C:\Users\Technolife\Desktop\ASP.NET practices(take serious)\Portfolio\wwwroot\css\style-small.css
+C:\Users\Technolife\Desktop\ASP.NET practices(take serious)\Portfolio\wwwroot\css\ie\v8.css
+C:\Users\Technolife\Desktop\ASP.NET practices(take serious)\Portfolio\wwwroot\js\jquery.min.js
+C:\Users\Technolife\Desktop\ASP.NET practices(take serious)\Portfolio\wwwroot\fonts\FontAwesome.otf
+wwwroot\css\font-awesome.min.css
+wwwroot\css\ie\backgroundsize.min.htc
+wwwroot\css\ie\html5shiv.js
+wwwroot\css\ie\PIE.htc
+wwwroot\css\ie\v8.css
+wwwroot\css\images\overlay.png
+wwwroot\css\skel.css
+wwwroot\css\style.css
+wwwroot\css\style-large.css
+wwwroot\css\style-medium.css
+wwwroot\css\style-small.css
+wwwroot\css\style-xlarge.css
+wwwroot\css\style-xsmall.css
+wwwroot\favicon.ico
+wwwroot\fonts\FontAwesome.otf
+wwwroot\fonts\fontawesome-webfont.eot
+wwwroot\fonts\fontawesome-webfont.svg
+wwwroot\fonts\fontawesome-webfont.ttf
+wwwroot\fonts\fontawesome-webfont.woff
+wwwroot\images\avatar.jpg
+wwwroot\images\bg.jpg
+wwwroot\images\fulls\01.jpg
+wwwroot\images\fulls\02.jpg
+wwwroot\images\fulls\03.jpg
+wwwroot\images\fulls\04.jpg
+wwwroot\images\fulls\05.jpg
+wwwroot\images\fulls\06.jpg
+wwwroot\images\thumbs\01.jpg
+wwwroot\images\thumbs\02.jpg
+wwwroot\images\thumbs\03.jpg
+wwwroot\images\thumbs\04.jpg
+wwwroot\images\thumbs\05.jpg
+wwwroot\images\thumbs\06.jpg
+wwwroot\js\init.js
+wwwroot\js\jquery.min.js
+wwwroot\js\jquery.poptrox.min.js
+wwwroot\js\skel.min.js
