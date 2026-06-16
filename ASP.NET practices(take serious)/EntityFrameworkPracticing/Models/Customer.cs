@@ -1,12 +1,13 @@
 ﻿namespace EntityFrameworkPracticing.Models
 {
-    public class Guy
+    public class Customer
     {
         public int Id { get; set; }
         public string Name { get; set; }
         public string Description { get; set; }
-        
+
         public bool IsRemoved { get; set; } = false;
-        public Passport Passport { get; set; }
+        public List<Order> Orders { get; set; }
+
     }
 }

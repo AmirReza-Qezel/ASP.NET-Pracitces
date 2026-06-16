@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\EntityFrameworkPracticing.csproj": {}
+    "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\EntityFrameworkPracticing.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\EntityFrameworkPracticing.csproj": {
+    "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\EntityFrameworkPracticing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\EntityFrameworkPracticing.csproj",
+        "projectUniqueName": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\EntityFrameworkPracticing.csproj",
         "projectName": "EntityFrameworkPracticing",
-        "projectPath": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\EntityFrameworkPracticing.csproj",
+        "projectPath": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\EntityFrameworkPracticing.csproj",
         "packagesPath": "C:\\Users\\Technolife\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\obj\\",
+        "outputPath": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,50 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\",
+  "WorkspaceRootPath": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\Migrations\\20260614201454_ConfigsAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260614201454_ConfigsAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\Migrations\\20260616133046_OneToManyRelationAdded2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260616133046_OneToManyRelationAdded2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF4CF7DE-8DF8-4684-A0ED-E8E99187576E}|EntityFrameworkPracticing.csproj|c:\\users\\technolife\\desktop\\asp.net practices(take serious)\\entityframeworkpracticing\\peoplecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF4CF7DE-8DF8-4684-A0ED-E8E99187576E}|EntityFrameworkPracticing.csproj|c:\\users\\technolife\\source\\repos\\asp.net-pracitces\\asp.net practices(take serious)\\entityframeworkpracticing\\peoplecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF4CF7DE-8DF8-4684-A0ED-E8E99187576E}|EntityFrameworkPracticing.csproj|solutionrelative:peoplecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF4CF7DE-8DF8-4684-A0ED-E8E99187576E}|EntityFrameworkPracticing.csproj|c:\\users\\technolife\\desktop\\asp.net practices(take serious)\\entityframeworkpracticing\\mapping\\guyconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF4CF7DE-8DF8-4684-A0ED-E8E99187576E}|EntityFrameworkPracticing.csproj|solutionrelative:mapping\\guyconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\Migrations\\20260616132913_OneToManyRelationAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260616132913_OneToManyRelationAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF4CF7DE-8DF8-4684-A0ED-E8E99187576E}|EntityFrameworkPracticing.csproj|c:\\users\\technolife\\desktop\\asp.net practices(take serious)\\entityframeworkpracticing\\models\\passport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF4CF7DE-8DF8-4684-A0ED-E8E99187576E}|EntityFrameworkPracticing.csproj|solutionrelative:models\\passport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF4CF7DE-8DF8-4684-A0ED-E8E99187576E}|EntityFrameworkPracticing.csproj|c:\\users\\technolife\\source\\repos\\asp.net-pracitces\\asp.net practices(take serious)\\entityframeworkpracticing\\entityconfigurations\\customerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4CF7DE-8DF8-4684-A0ED-E8E99187576E}|EntityFrameworkPracticing.csproj|solutionrelative:entityconfigurations\\customerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF4CF7DE-8DF8-4684-A0ED-E8E99187576E}|EntityFrameworkPracticing.csproj|c:\\users\\technolife\\desktop\\asp.net practices(take serious)\\entityframeworkpracticing\\migrations\\20260612063644_addisremovedtoguytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF4CF7DE-8DF8-4684-A0ED-E8E99187576E}|EntityFrameworkPracticing.csproj|solutionrelative:migrations\\20260612063644_addisremovedtoguytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF4CF7DE-8DF8-4684-A0ED-E8E99187576E}|EntityFrameworkPracticing.csproj|c:\\users\\technolife\\source\\repos\\asp.net-pracitces\\asp.net practices(take serious)\\entityframeworkpracticing\\entityconfigurations\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4CF7DE-8DF8-4684-A0ED-E8E99187576E}|EntityFrameworkPracticing.csproj|solutionrelative:entityconfigurations\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF4CF7DE-8DF8-4684-A0ED-E8E99187576E}|EntityFrameworkPracticing.csproj|c:\\users\\technolife\\desktop\\asp.net practices(take serious)\\entityframeworkpracticing\\migrations\\20260609183644_initdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF4CF7DE-8DF8-4684-A0ED-E8E99187576E}|EntityFrameworkPracticing.csproj|solutionrelative:migrations\\20260609183644_initdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF4CF7DE-8DF8-4684-A0ED-E8E99187576E}|EntityFrameworkPracticing.csproj|c:\\users\\technolife\\source\\repos\\asp.net-pracitces\\asp.net practices(take serious)\\entityframeworkpracticing\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4CF7DE-8DF8-4684-A0ED-E8E99187576E}|EntityFrameworkPracticing.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF4CF7DE-8DF8-4684-A0ED-E8E99187576E}|EntityFrameworkPracticing.csproj|c:\\users\\technolife\\desktop\\asp.net practices(take serious)\\entityframeworkpracticing\\models\\guy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF4CF7DE-8DF8-4684-A0ED-E8E99187576E}|EntityFrameworkPracticing.csproj|solutionrelative:models\\guy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF4CF7DE-8DF8-4684-A0ED-E8E99187576E}|EntityFrameworkPracticing.csproj|c:\\users\\technolife\\desktop\\asp.net practices(take serious)\\entityframeworkpracticing\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF4CF7DE-8DF8-4684-A0ED-E8E99187576E}|EntityFrameworkPracticing.csproj|c:\\users\\technolife\\source\\repos\\asp.net-pracitces\\asp.net practices(take serious)\\entityframeworkpracticing\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF4CF7DE-8DF8-4684-A0ED-E8E99187576E}|EntityFrameworkPracticing.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF4CF7DE-8DF8-4684-A0ED-E8E99187576E}|EntityFrameworkPracticing.csproj|c:\\users\\technolife\\desktop\\asp.net practices(take serious)\\entityframeworkpracticing\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FF4CF7DE-8DF8-4684-A0ED-E8E99187576E}|EntityFrameworkPracticing.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FF4CF7DE-8DF8-4684-A0ED-E8E99187576E}|EntityFrameworkPracticing.csproj|c:\\users\\technolife\\source\\repos\\asp.net-pracitces\\asp.net practices(take serious)\\entityframeworkpracticing\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4CF7DE-8DF8-4684-A0ED-E8E99187576E}|EntityFrameworkPracticing.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF4CF7DE-8DF8-4684-A0ED-E8E99187576E}|EntityFrameworkPracticing.csproj|c:\\users\\technolife\\desktop\\asp.net practices(take serious)\\entityframeworkpracticing\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FF4CF7DE-8DF8-4684-A0ED-E8E99187576E}|EntityFrameworkPracticing.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{FF4CF7DE-8DF8-4684-A0ED-E8E99187576E}|EntityFrameworkPracticing.csproj|c:\\users\\technolife\\source\\repos\\asp.net-pracitces\\asp.net practices(take serious)\\entityframeworkpracticing\\models\\passport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4CF7DE-8DF8-4684-A0ED-E8E99187576E}|EntityFrameworkPracticing.csproj|solutionrelative:models\\passport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF4CF7DE-8DF8-4684-A0ED-E8E99187576E}|EntityFrameworkPracticing.csproj|c:\\users\\technolife\\desktop\\asp.net practices(take serious)\\entityframeworkpracticing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF4CF7DE-8DF8-4684-A0ED-E8E99187576E}|EntityFrameworkPracticing.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF4CF7DE-8DF8-4684-A0ED-E8E99187576E}|EntityFrameworkPracticing.csproj|c:\\users\\technolife\\source\\repos\\asp.net-pracitces\\asp.net practices(take serious)\\entityframeworkpracticing\\models\\guy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4CF7DE-8DF8-4684-A0ED-E8E99187576E}|EntityFrameworkPracticing.csproj|solutionrelative:models\\guy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\Migrations\\20260616124634_RelationsAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260616124634_RelationsAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4CF7DE-8DF8-4684-A0ED-E8E99187576E}|EntityFrameworkPracticing.csproj|c:\\users\\technolife\\source\\repos\\asp.net-pracitces\\asp.net practices(take serious)\\entityframeworkpracticing\\entityconfigurations\\guyconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4CF7DE-8DF8-4684-A0ED-E8E99187576E}|EntityFrameworkPracticing.csproj|solutionrelative:entityconfigurations\\guyconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4CF7DE-8DF8-4684-A0ED-E8E99187576E}|EntityFrameworkPracticing.csproj|c:\\users\\technolife\\source\\repos\\asp.net-pracitces\\asp.net practices(take serious)\\entityframeworkpracticing\\entityconfigurations\\passportconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4CF7DE-8DF8-4684-A0ED-E8E99187576E}|EntityFrameworkPracticing.csproj|solutionrelative:entityconfigurations\\passportconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,152 +62,180 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20260614201454_ConfigsAdded.cs",
-              "DocumentMoniker": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\Migrations\\20260614201454_ConfigsAdded.cs",
-              "RelativeDocumentMoniker": "Migrations\\20260614201454_ConfigsAdded.cs",
-              "ToolTip": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\Migrations\\20260614201454_ConfigsAdded.cs",
-              "RelativeToolTip": "Migrations\\20260614201454_ConfigsAdded.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "20260616133046_OneToManyRelationAdded2.cs",
+              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\Migrations\\20260616133046_OneToManyRelationAdded2.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260616133046_OneToManyRelationAdded2.cs",
+              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\Migrations\\20260616133046_OneToManyRelationAdded2.cs",
+              "RelativeToolTip": "Migrations\\20260616133046_OneToManyRelationAdded2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-14T20:14:54.157Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GuyConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\Mapping\\GuyConfiguration.cs",
-              "RelativeDocumentMoniker": "Mapping\\GuyConfiguration.cs",
-              "ToolTip": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\Mapping\\GuyConfiguration.cs",
-              "RelativeToolTip": "Mapping\\GuyConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-14T15:43:46.53Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Passport.cs",
-              "DocumentMoniker": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\Models\\Passport.cs",
-              "RelativeDocumentMoniker": "Models\\Passport.cs",
-              "ToolTip": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\Models\\Passport.cs",
-              "RelativeToolTip": "Models\\Passport.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAYAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-14T15:33:28.649Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20260612063644_addIsRemovedToGuyTable.cs",
-              "DocumentMoniker": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\Migrations\\20260612063644_addIsRemovedToGuyTable.cs",
-              "RelativeDocumentMoniker": "Migrations\\20260612063644_addIsRemovedToGuyTable.cs",
-              "ToolTip": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\Migrations\\20260612063644_addIsRemovedToGuyTable.cs",
-              "RelativeToolTip": "Migrations\\20260612063644_addIsRemovedToGuyTable.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-12T06:36:44.994Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "20260609183644_InitDatabase.cs",
-              "DocumentMoniker": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\Migrations\\20260609183644_InitDatabase.cs",
-              "RelativeDocumentMoniker": "Migrations\\20260609183644_InitDatabase.cs",
-              "ToolTip": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\Migrations\\20260609183644_InitDatabase.cs",
-              "RelativeToolTip": "Migrations\\20260609183644_InitDatabase.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAApwAcAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-09T18:36:45.005Z",
+              "WhenOpened": "2026-06-16T13:30:46.607Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "PeopleContext.cs",
-              "DocumentMoniker": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\PeopleContext.cs",
+              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\PeopleContext.cs",
               "RelativeDocumentMoniker": "PeopleContext.cs",
-              "ToolTip": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\PeopleContext.cs",
+              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\PeopleContext.cs",
               "RelativeToolTip": "PeopleContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-02T15:01:55.423Z",
+              "WhenOpened": "2026-06-16T13:29:43.798Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-10T09:15:56.261Z",
+              "DocumentIndex": 2,
+              "Title": "20260616132913_OneToManyRelationAdded.cs",
+              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\Migrations\\20260616132913_OneToManyRelationAdded.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260616132913_OneToManyRelationAdded.cs",
+              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\Migrations\\20260616132913_OneToManyRelationAdded.cs",
+              "RelativeToolTip": "Migrations\\20260616132913_OneToManyRelationAdded.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T13:29:13.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\EntityConfigurations\\CustomerConfiguration.cs",
+              "RelativeDocumentMoniker": "EntityConfigurations\\CustomerConfiguration.cs",
+              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\EntityConfigurations\\CustomerConfiguration.cs",
+              "RelativeToolTip": "EntityConfigurations\\CustomerConfiguration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T13:23:53.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\EntityConfigurations\\OrderConfiguration.cs",
+              "RelativeDocumentMoniker": "EntityConfigurations\\OrderConfiguration.cs",
+              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\EntityConfigurations\\OrderConfiguration.cs",
+              "RelativeToolTip": "EntityConfigurations\\OrderConfiguration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T13:23:39.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T13:01:43.071Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAzwBMAAABIAAAAAAAAAA==",
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-09T18:19:32.212Z",
+              "WhenOpened": "2026-06-16T13:00:34.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20260616124634_RelationsAdded.cs",
+              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\Migrations\\20260616124634_RelationsAdded.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260616124634_RelationsAdded.cs",
+              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\Migrations\\20260616124634_RelationsAdded.cs",
+              "RelativeToolTip": "Migrations\\20260616124634_RelationsAdded.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T12:46:34.212Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Guy.cs",
-              "DocumentMoniker": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\Models\\Guy.cs",
-              "RelativeDocumentMoniker": "Models\\Guy.cs",
-              "ToolTip": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\Models\\Guy.cs",
-              "RelativeToolTip": "Models\\Guy.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAwAgAAAAIAAAAAAAAAA==",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB4AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-02T15:14:21.585Z",
+              "WhenOpened": "2026-06-16T12:45:19.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PassportConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\EntityConfigurations\\PassportConfiguration.cs",
+              "RelativeDocumentMoniker": "EntityConfigurations\\PassportConfiguration.cs",
+              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\EntityConfigurations\\PassportConfiguration.cs",
+              "RelativeToolTip": "EntityConfigurations\\PassportConfiguration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T12:40:50.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GuyConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\EntityConfigurations\\GuyConfiguration.cs",
+              "RelativeDocumentMoniker": "EntityConfigurations\\GuyConfiguration.cs",
+              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\EntityConfigurations\\GuyConfiguration.cs",
+              "RelativeToolTip": "EntityConfigurations\\GuyConfiguration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T12:30:13.014Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-06-02T15:31:42.348Z"
+              "Title": "Guy.cs",
+              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\Models\\Guy.cs",
+              "RelativeDocumentMoniker": "Models\\Guy.cs",
+              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\Models\\Guy.cs",
+              "RelativeToolTip": "Models\\Guy.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T12:29:09.261Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABPAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "Passport.cs",
+              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\Models\\Passport.cs",
+              "RelativeDocumentMoniker": "Models\\Passport.cs",
+              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\Models\\Passport.cs",
+              "RelativeToolTip": "Models\\Passport.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-02T14:58:31.354Z"
+              "WhenOpened": "2026-06-16T12:28:51.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             }
           ]
         }

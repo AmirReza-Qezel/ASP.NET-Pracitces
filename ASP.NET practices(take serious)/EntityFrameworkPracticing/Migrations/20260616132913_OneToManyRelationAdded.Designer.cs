@@ -3,6 +3,7 @@ using EntityFrameworkPracticing;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -10,9 +11,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace EntityFrameworkPracticing.Migrations
 {
     [DbContext(typeof(PeopleContext))]
-    partial class PeopleContextModelSnapshot : ModelSnapshot
+    [Migration("20260616132913_OneToManyRelationAdded")]
+    partial class OneToManyRelationAdded
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -20,30 +23,6 @@ namespace EntityFrameworkPracticing.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
-
-            modelBuilder.Entity("EntityFrameworkPracticing.Models.Customer", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
-
-                    b.Property<string>("Description")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<bool>("IsRemoved")
-                        .HasColumnType("bit");
-
-                    b.Property<string>("Name")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("Customers");
-                });
 
             modelBuilder.Entity("EntityFrameworkPracticing.Models.Guy", b =>
                 {
@@ -68,28 +47,6 @@ namespace EntityFrameworkPracticing.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Guys");
-                });
-
-            modelBuilder.Entity("EntityFrameworkPracticing.Models.Order", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
-
-                    b.Property<int>("CustomerId")
-                        .HasColumnType("int");
-
-                    b.Property<string>("Product")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.HasKey("Id");
-
-                    b.HasIndex("CustomerId");
-
-                    b.ToTable("Orders");
                 });
 
             modelBuilder.Entity("EntityFrameworkPracticing.Models.Passport", b =>
@@ -118,17 +75,6 @@ namespace EntityFrameworkPracticing.Migrations
                     b.ToTable("Passports");
                 });
 
-            modelBuilder.Entity("EntityFrameworkPracticing.Models.Order", b =>
-                {
-                    b.HasOne("EntityFrameworkPracticing.Models.Customer", "Customer")
-                        .WithMany("Orders")
-                        .HasForeignKey("CustomerId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Customer");
-                });
-
             modelBuilder.Entity("EntityFrameworkPracticing.Models.Passport", b =>
                 {
                     b.HasOne("EntityFrameworkPracticing.Models.Guy", "Guy")
@@ -138,11 +84,6 @@ namespace EntityFrameworkPracticing.Migrations
                         .IsRequired();
 
                     b.Navigation("Guy");
-                });
-
-            modelBuilder.Entity("EntityFrameworkPracticing.Models.Customer", b =>
-                {
-                    b.Navigation("Orders");
                 });
 
             modelBuilder.Entity("EntityFrameworkPracticing.Models.Guy", b =>

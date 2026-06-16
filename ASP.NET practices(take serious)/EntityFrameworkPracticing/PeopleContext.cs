@@ -8,6 +8,8 @@ namespace EntityFrameworkPracticing
     {
         public DbSet<Guy> Guys { get; set; }
         public DbSet<Passport> Passports { get; set; }
+        public DbSet<Customer> Customers { get; set; }
+        public DbSet<Order> Orders { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.ApplyConfiguration(new GuyConfiguration());

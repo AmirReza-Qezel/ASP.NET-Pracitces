@@ -5,9 +5,7 @@
         public int Id { get; set; }
         public string Code { get; set; }
         public bool IsRemoved { get; set; } = false;
-        public Passport(string code)
-        {
-            Code = code;    
-        }
+        public int GuyId { get; set; }
+        public Guy Guy { get; set; }
     }
 }

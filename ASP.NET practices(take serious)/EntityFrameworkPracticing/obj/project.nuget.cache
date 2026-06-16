@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SwcMDb582u4=",
+  "dgSpecHash": "ZzadCoMOfn8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\EntityFrameworkPracticing.csproj",
+  "projectFilePath": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\EntityFrameworkPracticing\\EntityFrameworkPracticing.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Technolife\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Technolife\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
