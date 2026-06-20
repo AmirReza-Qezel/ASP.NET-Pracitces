@@ -1,4 +1,5 @@
-﻿using EntityFrameworkPracticing.Mapping;
+﻿using EntityFrameworkPracticing.EntityConfigurations;
+using EntityFrameworkPracticing.Mapping;
 using EntityFrameworkPracticing.Models;
 using Microsoft.EntityFrameworkCore;
 
@@ -10,9 +11,12 @@ namespace EntityFrameworkPracticing
         public DbSet<Passport> Passports { get; set; }
         public DbSet<Customer> Customers { get; set; }
         public DbSet<Order> Orders { get; set; }
+        public DbSet<Category> Categories { get; set; }
+        public DbSet<Book> Books { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.ApplyConfiguration(new GuyConfiguration());
+            modelBuilder.ApplyConfiguration(new CategoryConfiguration());
         }
     }
 }
