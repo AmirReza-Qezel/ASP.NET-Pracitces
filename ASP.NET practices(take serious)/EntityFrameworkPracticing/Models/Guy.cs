@@ -7,6 +7,6 @@
         public string Description { get; set; }
         
         public bool IsRemoved { get; set; } = false;
-        public Passport Passport { get; set; }
+        public virtual Passport Passport { get; set; }
     }
 }

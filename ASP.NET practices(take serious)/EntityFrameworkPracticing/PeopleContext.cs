@@ -2,6 +2,7 @@
 using EntityFrameworkPracticing.Mapping;
 using EntityFrameworkPracticing.Models;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Proxies;
 
 namespace EntityFrameworkPracticing
 {
@@ -17,6 +18,14 @@ namespace EntityFrameworkPracticing
         {
             modelBuilder.ApplyConfiguration(new GuyConfiguration());
             modelBuilder.ApplyConfiguration(new CategoryConfiguration());
+        }
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            var configuration = new ConfigurationBuilder()
+                .SetBasePath(Directory.GetCurrentDirectory()) // ✅ tells it where to look
+                .AddJsonFile("appsettings.json")
+                .Build();
+            optionsBuilder.UseLazyLoadingProxies().UseSqlServer(configuration.GetConnectionString("PeopleDbContext"));
         }
     }
 }

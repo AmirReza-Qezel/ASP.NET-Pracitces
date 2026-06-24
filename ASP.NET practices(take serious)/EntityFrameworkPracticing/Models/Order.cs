@@ -7,6 +7,6 @@
         public string Product { get; set; }
 
         public int CustomerId { get; set; }      // foreign key
-        public Customer Customer { get; set; }
+        public virtual Customer Customer { get; set; }
     }
 }

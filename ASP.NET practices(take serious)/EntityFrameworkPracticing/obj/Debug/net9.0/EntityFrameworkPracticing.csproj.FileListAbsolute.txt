@@ -463,3 +463,5 @@ C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take seriou
 C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\EntityFrameworkPracticing\obj\Debug\net9.0\EntityFr.DF264069.Up2Date
 C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\EntityFrameworkPracticing\obj\Debug\net9.0\EntityFrameworkPracticing.genruntimeconfig.cache
 C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\EntityFrameworkPracticing\obj\Debug\net9.0\ref\EntityFrameworkPracticing.dll
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\EntityFrameworkPracticing\bin\Debug\net9.0\Castle.Core.dll
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\EntityFrameworkPracticing\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Proxies.dll

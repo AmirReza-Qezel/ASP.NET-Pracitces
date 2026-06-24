@@ -7,7 +7,7 @@
         public string Description { get; set; }
 
         public bool IsRemoved { get; set; } = false;
-        public List<Order> Orders { get; set; }
+        public virtual List<Order> Orders { get; set; }
 
     }
 }

@@ -9,6 +9,7 @@ namespace EntityFrameworkPracticing.EntityConfigurations
         public void Configure(EntityTypeBuilder<Book> builder)
         {
             builder.HasKey(x => x.Id);
+            builder.Property<DateTime>("CreatedAt");
         }
     }
 }

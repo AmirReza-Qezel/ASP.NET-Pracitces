@@ -6,6 +6,6 @@
         public string Code { get; set; }
         public bool IsRemoved { get; set; } = false;
         public int GuyId { get; set; }
-        public Guy Guy { get; set; }
+        public virtual Guy Guy { get; set; }
     }
 }
