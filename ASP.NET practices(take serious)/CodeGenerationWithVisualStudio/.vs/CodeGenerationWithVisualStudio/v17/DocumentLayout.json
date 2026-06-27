@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\CodeGenerationWithVisualStudio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA09D88-288A-4406-9150-141B7D87965A}|CodeGenerationWithVisualStudio.csproj|c:\\users\\technolife\\desktop\\asp.net practices(take serious)\\codegenerationwithvisualstudio\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA09D88-288A-4406-9150-141B7D87965A}|CodeGenerationWithVisualStudio.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA09D88-288A-4406-9150-141B7D87965A}|CodeGenerationWithVisualStudio.csproj|c:\\users\\technolife\\desktop\\asp.net practices(take serious)\\codegenerationwithvisualstudio\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA09D88-288A-4406-9150-141B7D87965A}|CodeGenerationWithVisualStudio.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA09D88-288A-4406-9150-141B7D87965A}|CodeGenerationWithVisualStudio.csproj|c:\\users\\technolife\\desktop\\asp.net practices(take serious)\\codegenerationwithvisualstudio\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA09D88-288A-4406-9150-141B7D87965A}|CodeGenerationWithVisualStudio.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA09D88-288A-4406-9150-141B7D87965A}|CodeGenerationWithVisualStudio.csproj|c:\\users\\technolife\\desktop\\asp.net practices(take serious)\\codegenerationwithvisualstudio\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA09D88-288A-4406-9150-141B7D87965A}|CodeGenerationWithVisualStudio.csproj|solutionrelative:controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA09D88-288A-4406-9150-141B7D87965A}|CodeGenerationWithVisualStudio.csproj|c:\\users\\technolife\\desktop\\asp.net practices(take serious)\\codegenerationwithvisualstudio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3EA09D88-288A-4406-9150-141B7D87965A}|CodeGenerationWithVisualStudio.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA09D88-288A-4406-9150-141B7D87965A}|CodeGenerationWithVisualStudio.csproj|c:\\users\\technolife\\desktop\\asp.net practices(take serious)\\codegenerationwithvisualstudio\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EA09D88-288A-4406-9150-141B7D87965A}|CodeGenerationWithVisualStudio.csproj|solutionrelative:views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA09D88-288A-4406-9150-141B7D87965A}|CodeGenerationWithVisualStudio.csproj|c:\\users\\technolife\\desktop\\asp.net practices(take serious)\\codegenerationwithvisualstudio\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EA09D88-288A-4406-9150-141B7D87965A}|CodeGenerationWithVisualStudio.csproj|solutionrelative:views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA09D88-288A-4406-9150-141B7D87965A}|CodeGenerationWithVisualStudio.csproj|c:\\users\\technolife\\desktop\\asp.net practices(take serious)\\codegenerationwithvisualstudio\\migrations\\20260627135657_initdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA09D88-288A-4406-9150-141B7D87965A}|CodeGenerationWithVisualStudio.csproj|solutionrelative:migrations\\20260627135657_initdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA09D88-288A-4406-9150-141B7D87965A}|CodeGenerationWithVisualStudio.csproj|c:\\users\\technolife\\desktop\\asp.net practices(take serious)\\codegenerationwithvisualstudio\\samplecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA09D88-288A-4406-9150-141B7D87965A}|CodeGenerationWithVisualStudio.csproj|solutionrelative:samplecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA09D88-288A-4406-9150-141B7D87965A}|CodeGenerationWithVisualStudio.csproj|c:\\users\\technolife\\desktop\\asp.net practices(take serious)\\codegenerationwithvisualstudio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA09D88-288A-4406-9150-141B7D87965A}|CodeGenerationWithVisualStudio.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\CodeGenerationWithVisualStudio\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\CodeGenerationWithVisualStudio\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T14:18:25.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\CodeGenerationWithVisualStudio\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\CodeGenerationWithVisualStudio\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T14:17:43.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\CodeGenerationWithVisualStudio\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\CodeGenerationWithVisualStudio\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAIwJ0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T14:06:11.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\CodeGenerationWithVisualStudio\\Views\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Orders\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\CodeGenerationWithVisualStudio\\Views\\Orders\\Index.cshtml",
+              "RelativeToolTip": "Views\\Orders\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-27T14:04:35.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\CodeGenerationWithVisualStudio\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\CodeGenerationWithVisualStudio\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Controllers\\OrdersController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwBkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T14:04:00.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20260627135657_initDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\CodeGenerationWithVisualStudio\\Migrations\\20260627135657_initDatabase.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260627135657_initDatabase.cs",
+              "ToolTip": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\CodeGenerationWithVisualStudio\\Migrations\\20260627135657_initDatabase.cs",
+              "RelativeToolTip": "Migrations\\20260627135657_initDatabase.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T13:56:57.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\CodeGenerationWithVisualStudio\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\CodeGenerationWithVisualStudio\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-27T13:43:44.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\CodeGenerationWithVisualStudio\\Views\\Employees\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employees\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\CodeGenerationWithVisualStudio\\Views\\Employees\\Create.cshtml",
+              "RelativeToolTip": "Views\\Employees\\Create.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-27T14:07:51.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SampleContext.cs",
+              "DocumentMoniker": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\CodeGenerationWithVisualStudio\\SampleContext.cs",
+              "RelativeDocumentMoniker": "SampleContext.cs",
+              "ToolTip": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\CodeGenerationWithVisualStudio\\SampleContext.cs",
+              "RelativeToolTip": "SampleContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T13:55:34.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\CodeGenerationWithVisualStudio\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Technolife\\Desktop\\ASP.NET practices(take serious)\\CodeGenerationWithVisualStudio\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T13:45:45.152Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
