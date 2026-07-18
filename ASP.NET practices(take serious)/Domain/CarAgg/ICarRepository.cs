@@ -6,14 +6,14 @@ using System.Threading.Tasks;
 
 namespace Domain.CarAgg
 {
-    internal interface ICarRepository
+    public interface ICarRepository
     {
         Task<Car?> GetByIdAsync(int id);
-        Task<IEnumerable<Car>> GetAllAvailableCarsAsync();
+        Task<IReadOnlyList<Car>> GetAllAvailableCarsAsync();
         Task AddAsync(Car car);
         void Update(Car car);
         void Remove(Car car);
-        Task<bool> ExistsAsync();
+        Task<bool> ExistsAsync(int id);
         Task SaveChanges();
     }
 }

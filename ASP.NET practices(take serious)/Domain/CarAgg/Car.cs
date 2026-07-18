@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Domain.CarTypeAgg;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Domain.CarAgg
 {
-    internal class Car
+    public class Car
     {
         private Car() { }
         public Car(int id, string name, string description)
@@ -23,5 +24,6 @@ namespace Domain.CarAgg
         public string Description { get; set; }
         public bool IsActive { get; set; }
         public bool IsDeleted { get; set; }
+        public IList<CarType> CarTypes { get; private set; } = new List<CarType>();
     }
 }

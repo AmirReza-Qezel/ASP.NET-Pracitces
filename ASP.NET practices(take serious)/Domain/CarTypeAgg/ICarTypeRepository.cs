@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace Domain.CarTypeAgg
 {
-    internal interface ICarTypeRepository
+    public interface ICarTypeRepository
     {
         Task<CarType> GetCarTypeById(int id);
-        Task<IEnumerable<CarType>> GetAllActiveCarTypes();
+        Task<IReadOnlyList<CarType>> GetAllActiveCarTypes();
 
         Task AddAsync (CarType carType);
         void Update(CarType carType);
