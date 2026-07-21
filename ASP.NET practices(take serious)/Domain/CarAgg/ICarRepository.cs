@@ -13,7 +13,7 @@ namespace Domain.CarAgg
         Task AddAsync(Car car);
         void Update(Car car);
         void Remove(Car car);
-        Task<bool> ExistsAsync(int id);
+        Task<bool> ExistsAsync(string name,string description,decimal price);
         Task SaveChanges();
     }
 }

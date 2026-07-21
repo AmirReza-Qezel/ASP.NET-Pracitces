@@ -8,7 +8,7 @@ namespace Domain.CarTypeAgg
 {
     public interface ICarTypeRepository
     {
-        Task<CarType> GetCarTypeById(int id);
+        Task<CarType?> GetCarTypeById(int id);
         Task<IReadOnlyList<CarType>> GetAllActiveCarTypes();
 
         Task AddAsync (CarType carType);

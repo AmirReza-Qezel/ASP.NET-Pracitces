@@ -39,7 +39,6 @@ namespace Infrastructure.Repositories
 
         public async Task<bool> IsCodeUniqueAsync(string code)
         {
-            // Returns true if NO other CarType shares this code
             return !await _context.CarTypes.AnyAsync(ct => ct.Code == code);
         }
 

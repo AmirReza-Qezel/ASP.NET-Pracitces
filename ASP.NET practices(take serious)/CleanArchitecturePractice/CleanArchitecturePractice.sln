@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35506.116 d17.12
+VisualStudioVersion = 17.12.35506.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{59495FA1-F1E6-4DD9-8065-C5EEC36D1AB1}"
 EndProject
@@ -18,6 +18,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "..\Infrastructure\Infrastructure.csproj", "{E44587C2-446B-4D8E-B3AE-B79B81EEDB59}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchitectureProject", "..\CleanArchitectureProject\CleanArchitectureProject.csproj", "{E8C05C00-DAC0-4DB3-9B37-30EE18D2EC8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application.Contract", "Application.Contract\Application.Contract.csproj", "{C7FAE9F2-7AF9-404C-A6AC-780416079D51}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,6 +43,10 @@ Global
 		{E8C05C00-DAC0-4DB3-9B37-30EE18D2EC8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8C05C00-DAC0-4DB3-9B37-30EE18D2EC8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8C05C00-DAC0-4DB3-9B37-30EE18D2EC8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7FAE9F2-7AF9-404C-A6AC-780416079D51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7FAE9F2-7AF9-404C-A6AC-780416079D51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7FAE9F2-7AF9-404C-A6AC-780416079D51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7FAE9F2-7AF9-404C-A6AC-780416079D51}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -50,5 +56,6 @@ Global
 		{9687B4FB-A7CE-4559-B878-7803F0BAEBD9} = {9B5DCBF7-5A8E-41DA-A557-F8C75ED340D7}
 		{E44587C2-446B-4D8E-B3AE-B79B81EEDB59} = {9FA8B51F-B2FA-43F1-8EBF-6ECA9CAA1F2C}
 		{E8C05C00-DAC0-4DB3-9B37-30EE18D2EC8D} = {76040F61-E426-4BBC-A5AB-38631EC8FC5C}
+		{C7FAE9F2-7AF9-404C-A6AC-780416079D51} = {9B5DCBF7-5A8E-41DA-A557-F8C75ED340D7}
 	EndGlobalSection
 EndGlobal

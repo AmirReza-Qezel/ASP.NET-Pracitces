@@ -1,11 +1,46 @@
 {
   "version": 3,
   "targets": {
-    "net9.0": {}
+    "net9.0": {
+      "Application.Contract/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Application.Contract.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Application.Contract.dll": {}
+        }
+      },
+      "Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Application.Contract/1.0.0": {
+      "type": "project",
+      "path": "../CleanArchitecturePractice/Application.Contract/Application.Contract.csproj",
+      "msbuildProject": "../CleanArchitecturePractice/Application.Contract/Application.Contract.csproj"
+    },
+    "Domain/1.0.0": {
+      "type": "project",
+      "path": "../Domain/Domain.csproj",
+      "msbuildProject": "../Domain/Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net9.0": []
+    "net9.0": [
+      "Application.Contract >= 1.0.0",
+      "Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Technolife\\.nuget\\packages\\": {},
@@ -38,7 +73,14 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\CleanArchitecturePractice\\Application.Contract\\Application.Contract.csproj": {
+              "projectPath": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\CleanArchitecturePractice\\Application.Contract\\Application.Contract.csproj"
+            },
+            "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\Domain\\Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -1,29 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\CleanArchitecturePractice\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{E44587C2-446B-4D8E-B3AE-B79B81EEDB59}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\technolife\\source\\repos\\asp.net-pracitces\\asp.net practices(take serious)\\infrastructure\\repositories\\cartyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84566FB1-E48B-405F-B30F-2A1E33444070}|..\\Domain\\Domain.csproj|c:\\users\\technolife\\source\\repos\\asp.net-pracitces\\asp.net practices(take serious)\\domain\\cartypeagg\\cartype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E44587C2-446B-4D8E-B3AE-B79B81EEDB59}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\technolife\\source\\repos\\asp.net-pracitces\\asp.net practices(take serious)\\infrastructure\\repositories\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E44587C2-446B-4D8E-B3AE-B79B81EEDB59}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\technolife\\source\\repos\\asp.net-pracitces\\asp.net practices(take serious)\\infrastructure\\entitiesconfiguration\\cartypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84566FB1-E48B-405F-B30F-2A1E33444070}|..\\Domain\\Domain.csproj|c:\\users\\technolife\\source\\repos\\asp.net-pracitces\\asp.net practices(take serious)\\domain\\caragg\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E44587C2-446B-4D8E-B3AE-B79B81EEDB59}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\technolife\\source\\repos\\asp.net-pracitces\\asp.net practices(take serious)\\infrastructure\\data\\autogallerycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E44587C2-446B-4D8E-B3AE-B79B81EEDB59}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\technolife\\source\\repos\\asp.net-pracitces\\asp.net practices(take serious)\\infrastructure\\entitiesconfiguration\\carconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -31,100 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CarType.cs",
-              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\Domain\\CarTypeAgg\\CarType.cs",
-              "RelativeDocumentMoniker": "..\\Domain\\CarTypeAgg\\CarType.cs",
-              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\Domain\\CarTypeAgg\\CarType.cs",
-              "RelativeToolTip": "..\\Domain\\CarTypeAgg\\CarType.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAsAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-18T20:30:13.428Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CarTypeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\Infrastructure\\Repositories\\CarTypeRepository.cs",
-              "RelativeDocumentMoniker": "..\\Infrastructure\\Repositories\\CarTypeRepository.cs",
-              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\Infrastructure\\Repositories\\CarTypeRepository.cs",
-              "RelativeToolTip": "..\\Infrastructure\\Repositories\\CarTypeRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-18T14:22:08.498Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CarRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\Infrastructure\\Repositories\\CarRepository.cs",
-              "RelativeDocumentMoniker": "..\\Infrastructure\\Repositories\\CarRepository.cs",
-              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\Infrastructure\\Repositories\\CarRepository.cs",
-              "RelativeToolTip": "..\\Infrastructure\\Repositories\\CarRepository.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAowDoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-18T14:21:54.804Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CarTypeConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\Infrastructure\\EntitiesConfiguration\\CarTypeConfiguration.cs",
-              "RelativeDocumentMoniker": "..\\Infrastructure\\EntitiesConfiguration\\CarTypeConfiguration.cs",
-              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\Infrastructure\\EntitiesConfiguration\\CarTypeConfiguration.cs",
-              "RelativeToolTip": "..\\Infrastructure\\EntitiesConfiguration\\CarTypeConfiguration.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAA8wA8AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-18T13:53:19.526Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CarConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\Infrastructure\\EntitiesConfiguration\\CarConfiguration.cs",
-              "RelativeDocumentMoniker": "..\\Infrastructure\\EntitiesConfiguration\\CarConfiguration.cs",
-              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\Infrastructure\\EntitiesConfiguration\\CarConfiguration.cs",
-              "RelativeToolTip": "..\\Infrastructure\\EntitiesConfiguration\\CarConfiguration.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBIAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-18T13:52:59.897Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AutoGalleryContext.cs",
-              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\Infrastructure\\Data\\AutoGalleryContext.cs",
-              "RelativeDocumentMoniker": "..\\Infrastructure\\Data\\AutoGalleryContext.cs",
-              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\Infrastructure\\Data\\AutoGalleryContext.cs",
-              "RelativeToolTip": "..\\Infrastructure\\Data\\AutoGalleryContext.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBUAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-18T13:24:19.565Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ICarRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\Domain\\CarAgg\\ICarRepository.cs",
-              "RelativeDocumentMoniker": "..\\Domain\\CarAgg\\ICarRepository.cs",
-              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\Domain\\CarAgg\\ICarRepository.cs",
-              "RelativeToolTip": "..\\Domain\\CarAgg\\ICarRepository.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAowA8AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-17T14:03:29.239Z",
-              "EditorCaption": ""
             }
           ]
         }

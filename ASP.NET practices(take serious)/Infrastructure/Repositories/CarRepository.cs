@@ -23,9 +23,9 @@ namespace Infrastructure.Repositories
             await _context.Cars.AddAsync(car);
         }
 
-        public async Task<bool> ExistsAsync(int id)
+        public async Task<bool> ExistsAsync(string name, string description, decimal price)
         {
-            return await _context.Cars.AnyAsync(c => c.Id == id);
+            return await _context.Cars.AnyAsync(c => c.Name == name && c.Description == description && c.Price == price);
         }
 
         public async Task<IReadOnlyList<Car>> GetAllAvailableCarsAsync()
