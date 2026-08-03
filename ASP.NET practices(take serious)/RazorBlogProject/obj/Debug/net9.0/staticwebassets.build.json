@@ -1,0 +1,3535 @@
+{
+  "Version": 1,
+  "Hash": "c06WpA7VeOICR7p6ZTARk+xUY/DkWO18ww2l5s+/+6k=",
+  "Source": "RazorBlogProject",
+  "BasePath": "_content/RazorBlogProject",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RazorBlogProject\\wwwroot",
+      "Source": "RazorBlogProject",
+      "ContentRoot": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\",
+      "BasePath": "_content/RazorBlogProject",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\obj\\Debug\\net9.0\\compressed\\3i9zqj431b-qbfir7i70u.gz",
+      "SourceId": "RazorBlogProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/RazorBlogProject",
+      "RelativePath": "style#[.{fingerprint=qbfir7i70u}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\style.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "aip8o1gsmg",
+      "Integrity": "3hBCWw5ttzbxRNIpF8PA1bFvNoClIGz3rYYGuUl0ymI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\obj\\Debug\\net9.0\\compressed\\4foa0zyfol-wq5dp22u0a.gz",
+      "SourceId": "RazorBlogProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/RazorBlogProject",
+      "RelativePath": "create-article#[.{fingerprint=wq5dp22u0a}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\create-article.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "yzc9ra1gbt",
+      "Integrity": "8uJ4pL1CnenuFgtdyEhaCrqvLbUT3uBkrQvQ9kPTgJo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\create-article.html"
+    },
+    {
+      "Identity": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\obj\\Debug\\net9.0\\compressed\\4shgvd1peo-x93xfphp3s.gz",
+      "SourceId": "RazorBlogProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/RazorBlogProject",
+      "RelativePath": "article-details#[.{fingerprint=x93xfphp3s}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\article-details.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "53ls8fv2y5",
+      "Integrity": "P5LZ7Eik7jafXw9q8be7u4/hSHNSfgLk71FLiVUeexs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\article-details.html"
+    },
+    {
+      "Identity": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\obj\\Debug\\net9.0\\compressed\\7g4vgohfed-tkeaf1cmw6.gz",
+      "SourceId": "RazorBlogProject",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/RazorBlogProject",
+      "RelativePath": "RazorBlogProject#[.{fingerprint=tkeaf1cmw6}]?.styles.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\obj\\Debug\\net9.0\\scopedcss\\bundle\\RazorBlogProject.styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "umzi0xl317",
+      "Integrity": "GkfvVrje2uHgjGJldmwCNbfXNzxdXFWU8JALBvdyfA0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\obj\\Debug\\net9.0\\scopedcss\\bundle\\RazorBlogProject.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\obj\\Debug\\net9.0\\compressed\\g54lea24sp-ce16uetzrg.gz",
+      "SourceId": "RazorBlogProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/RazorBlogProject",
+      "RelativePath": "fonts/IranianSans#[.{fingerprint=ce16uetzrg}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\fonts\\IranianSans.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "4fjsdp28uu",
+      "Integrity": "sF3e/DQj30XSOKEzJgorznfHhS14NLGGMAhIyZWJMxw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\fonts\\IranianSans.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\obj\\Debug\\net9.0\\compressed\\kg0see5zm3-tkeaf1cmw6.gz",
+      "SourceId": "RazorBlogProject",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/RazorBlogProject",
+      "RelativePath": "RazorBlogProject#[.{fingerprint=tkeaf1cmw6}]!.bundle.scp.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\RazorBlogProject.bundle.scp.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "umzi0xl317",
+      "Integrity": "GkfvVrje2uHgjGJldmwCNbfXNzxdXFWU8JALBvdyfA0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\RazorBlogProject.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\obj\\Debug\\net9.0\\compressed\\p0nx517y6t-u4hfawxbdq.gz",
+      "SourceId": "RazorBlogProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/RazorBlogProject",
+      "RelativePath": "index#[.{fingerprint=u4hfawxbdq}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "eg0bxiivnf",
+      "Integrity": "8v+uiUBO5pvFHt8T+KWUcyVhFf8YLM0ugBaStxDOqQY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\obj\\Debug\\net9.0\\scopedcss\\bundle\\RazorBlogProject.styles.css",
+      "SourceId": "RazorBlogProject",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\obj\\Debug\\net9.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/RazorBlogProject",
+      "RelativePath": "RazorBlogProject#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "tkeaf1cmw6",
+      "Integrity": "s0R3/YMekLKgk3Xh7Ctr/q/JvXtebnTEjrIsAlz3N1A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\obj\\Debug\\net9.0\\scopedcss\\bundle\\RazorBlogProject.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\RazorBlogProject.bundle.scp.css",
+      "SourceId": "RazorBlogProject",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/RazorBlogProject",
+      "RelativePath": "RazorBlogProject#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "tkeaf1cmw6",
+      "Integrity": "s0R3/YMekLKgk3Xh7Ctr/q/JvXtebnTEjrIsAlz3N1A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\RazorBlogProject.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\article-details.html",
+      "SourceId": "RazorBlogProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\",
+      "BasePath": "_content/RazorBlogProject",
+      "RelativePath": "article-details#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x93xfphp3s",
+      "Integrity": "1VEpJkUqp8E+AEO2LVhtgOl8Zbs3wMvUmDtIVWn2/RY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\article-details.html"
+    },
+    {
+      "Identity": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\create-article.html",
+      "SourceId": "RazorBlogProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\",
+      "BasePath": "_content/RazorBlogProject",
+      "RelativePath": "create-article#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wq5dp22u0a",
+      "Integrity": "WP8A4MvapRVevPNE651ACl2bqcied8RqADKfPDJT/b8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\create-article.html"
+    },
+    {
+      "Identity": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\fonts\\IranianSans.eot",
+      "SourceId": "RazorBlogProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\",
+      "BasePath": "_content/RazorBlogProject",
+      "RelativePath": "fonts/IranianSans#[.{fingerprint}]?.eot",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ct4ce5fjpv",
+      "Integrity": "YFU6YFPAQAZwbZ4yGQi+I7bnbIGMtfbtA9hRSWiYV0E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\fonts\\IranianSans.eot"
+    },
+    {
+      "Identity": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\fonts\\IranianSans.svg",
+      "SourceId": "RazorBlogProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\",
+      "BasePath": "_content/RazorBlogProject",
+      "RelativePath": "fonts/IranianSans#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ce16uetzrg",
+      "Integrity": "bE3Ta5D1G22kAldc7f0I6n+XGzqixzkmRMokza1blwY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\fonts\\IranianSans.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\fonts\\IranianSans.ttf",
+      "SourceId": "RazorBlogProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\",
+      "BasePath": "_content/RazorBlogProject",
+      "RelativePath": "fonts/IranianSans#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ulpzmlung9",
+      "Integrity": "YlYMItGfUkJndhyMjxsWJc51y77EhyBKbH12TkN7MnQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\fonts\\IranianSans.ttf"
+    },
+    {
+      "Identity": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\fonts\\IranianSans.woff",
+      "SourceId": "RazorBlogProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\",
+      "BasePath": "_content/RazorBlogProject",
+      "RelativePath": "fonts/IranianSans#[.{fingerprint}]?.woff",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gtad69gg1c",
+      "Integrity": "/P1GRpTDic6pc8V2M99/yXRGMVzzE3TV61MBtqMpb+I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\fonts\\IranianSans.woff"
+    },
+    {
+      "Identity": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\fonts\\IranianSans.woff2",
+      "SourceId": "RazorBlogProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\",
+      "BasePath": "_content/RazorBlogProject",
+      "RelativePath": "fonts/IranianSans#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pnhn98znf0",
+      "Integrity": "JXIyguoKlMNJr/korp9n6KWzpmM+7V+NKRpwSLly9co=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\fonts\\IranianSans.woff2"
+    },
+    {
+      "Identity": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\images\\camp.jpg",
+      "SourceId": "RazorBlogProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\",
+      "BasePath": "_content/RazorBlogProject",
+      "RelativePath": "images/camp#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zqdnvakt70",
+      "Integrity": "pfMYLYvc05yk2sMtj7kHvH/9UR7fs7jDyk3SG7YG9Q0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\camp.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\images\\cityinlenz.jpg",
+      "SourceId": "RazorBlogProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\",
+      "BasePath": "_content/RazorBlogProject",
+      "RelativePath": "images/cityinlenz#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2rbmv4szjt",
+      "Integrity": "/nO0LmgQnTN1lnpVcze2htNxRiBwTkJpcuLqCIDOvKY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cityinlenz.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\images\\girl.jpg",
+      "SourceId": "RazorBlogProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\",
+      "BasePath": "_content/RazorBlogProject",
+      "RelativePath": "images/girl#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "42lgq1ax74",
+      "Integrity": "nKxEIDZK/MIQ8eS50MSPb0RyRaoXyg7Zf5ov9ywod+c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\girl.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\images\\lake.jpg",
+      "SourceId": "RazorBlogProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\",
+      "BasePath": "_content/RazorBlogProject",
+      "RelativePath": "images/lake#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ixgh8fren1",
+      "Integrity": "9kNCF2ZDdYMnxmCiElKFMMMp0VWCjsinY8zbQ7Z2EIA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\lake.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\images\\lenz.jpg",
+      "SourceId": "RazorBlogProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\",
+      "BasePath": "_content/RazorBlogProject",
+      "RelativePath": "images/lenz#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jc9ax4bg66",
+      "Integrity": "LbF4o80KSzTsFmGThvgYrEA9j+vReVHF80d0iHPcDa8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\lenz.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\images\\phanoos.jpg",
+      "SourceId": "RazorBlogProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\",
+      "BasePath": "_content/RazorBlogProject",
+      "RelativePath": "images/phanoos#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "et938o8yyu",
+      "Integrity": "crxlEXl840MzLeLyCA2wyzPR/KodsCsMNm1y6RXxxEo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\phanoos.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\images\\photography.jpg",
+      "SourceId": "RazorBlogProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\",
+      "BasePath": "_content/RazorBlogProject",
+      "RelativePath": "images/photography#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "azj28vo67n",
+      "Integrity": "WkrFr8GJ6unsNEn8M51z7eW8R+nJHID5GfE5qZRpFz4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\photography.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\index.html",
+      "SourceId": "RazorBlogProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\",
+      "BasePath": "_content/RazorBlogProject",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "u4hfawxbdq",
+      "Integrity": "gmH93nOEZ/nmQqCbX8Voc1IesyFJDsnhSG1OwkVcu54=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\style.css",
+      "SourceId": "RazorBlogProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\",
+      "BasePath": "_content/RazorBlogProject",
+      "RelativePath": "style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qbfir7i70u",
+      "Integrity": "6oo5/3A0miaiS0dCFerEiBimz70isP6Zge/75n1lDV4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "article-details.html",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\obj\\Debug\\net9.0\\compressed\\4shgvd1peo-x93xfphp3s.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000506842372"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1972"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P5LZ7Eik7jafXw9q8be7u4/hSHNSfgLk71FLiVUeexs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Sep 2021 19:33:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"1VEpJkUqp8E+AEO2LVhtgOl8Zbs3wMvUmDtIVWn2/RY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1VEpJkUqp8E+AEO2LVhtgOl8Zbs3wMvUmDtIVWn2/RY="
+        }
+      ]
+    },
+    {
+      "Route": "article-details.html",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\article-details.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10245"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1VEpJkUqp8E+AEO2LVhtgOl8Zbs3wMvUmDtIVWn2/RY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Sep 2021 19:33:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1VEpJkUqp8E+AEO2LVhtgOl8Zbs3wMvUmDtIVWn2/RY="
+        }
+      ]
+    },
+    {
+      "Route": "article-details.html.gz",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\obj\\Debug\\net9.0\\compressed\\4shgvd1peo-x93xfphp3s.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1972"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P5LZ7Eik7jafXw9q8be7u4/hSHNSfgLk71FLiVUeexs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Sep 2021 19:33:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-P5LZ7Eik7jafXw9q8be7u4/hSHNSfgLk71FLiVUeexs="
+        }
+      ]
+    },
+    {
+      "Route": "article-details.x93xfphp3s.html",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\obj\\Debug\\net9.0\\compressed\\4shgvd1peo-x93xfphp3s.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000506842372"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1972"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P5LZ7Eik7jafXw9q8be7u4/hSHNSfgLk71FLiVUeexs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Sep 2021 19:33:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"1VEpJkUqp8E+AEO2LVhtgOl8Zbs3wMvUmDtIVWn2/RY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x93xfphp3s"
+        },
+        {
+          "Name": "label",
+          "Value": "article-details.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1VEpJkUqp8E+AEO2LVhtgOl8Zbs3wMvUmDtIVWn2/RY="
+        }
+      ]
+    },
+    {
+      "Route": "article-details.x93xfphp3s.html",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\article-details.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10245"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1VEpJkUqp8E+AEO2LVhtgOl8Zbs3wMvUmDtIVWn2/RY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Sep 2021 19:33:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x93xfphp3s"
+        },
+        {
+          "Name": "label",
+          "Value": "article-details.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1VEpJkUqp8E+AEO2LVhtgOl8Zbs3wMvUmDtIVWn2/RY="
+        }
+      ]
+    },
+    {
+      "Route": "article-details.x93xfphp3s.html.gz",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\obj\\Debug\\net9.0\\compressed\\4shgvd1peo-x93xfphp3s.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1972"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P5LZ7Eik7jafXw9q8be7u4/hSHNSfgLk71FLiVUeexs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Sep 2021 19:33:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x93xfphp3s"
+        },
+        {
+          "Name": "label",
+          "Value": "article-details.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-P5LZ7Eik7jafXw9q8be7u4/hSHNSfgLk71FLiVUeexs="
+        }
+      ]
+    },
+    {
+      "Route": "create-article.html",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\obj\\Debug\\net9.0\\compressed\\4foa0zyfol-wq5dp22u0a.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000643915003"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1552"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8uJ4pL1CnenuFgtdyEhaCrqvLbUT3uBkrQvQ9kPTgJo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Sep 2021 19:33:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"WP8A4MvapRVevPNE651ACl2bqcied8RqADKfPDJT/b8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WP8A4MvapRVevPNE651ACl2bqcied8RqADKfPDJT/b8="
+        }
+      ]
+    },
+    {
+      "Route": "create-article.html",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\create-article.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4533"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WP8A4MvapRVevPNE651ACl2bqcied8RqADKfPDJT/b8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Sep 2021 19:33:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WP8A4MvapRVevPNE651ACl2bqcied8RqADKfPDJT/b8="
+        }
+      ]
+    },
+    {
+      "Route": "create-article.html.gz",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\obj\\Debug\\net9.0\\compressed\\4foa0zyfol-wq5dp22u0a.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1552"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8uJ4pL1CnenuFgtdyEhaCrqvLbUT3uBkrQvQ9kPTgJo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Sep 2021 19:33:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8uJ4pL1CnenuFgtdyEhaCrqvLbUT3uBkrQvQ9kPTgJo="
+        }
+      ]
+    },
+    {
+      "Route": "create-article.wq5dp22u0a.html",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\obj\\Debug\\net9.0\\compressed\\4foa0zyfol-wq5dp22u0a.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000643915003"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1552"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8uJ4pL1CnenuFgtdyEhaCrqvLbUT3uBkrQvQ9kPTgJo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Sep 2021 19:33:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"WP8A4MvapRVevPNE651ACl2bqcied8RqADKfPDJT/b8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wq5dp22u0a"
+        },
+        {
+          "Name": "label",
+          "Value": "create-article.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WP8A4MvapRVevPNE651ACl2bqcied8RqADKfPDJT/b8="
+        }
+      ]
+    },
+    {
+      "Route": "create-article.wq5dp22u0a.html",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\create-article.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4533"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WP8A4MvapRVevPNE651ACl2bqcied8RqADKfPDJT/b8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Sep 2021 19:33:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wq5dp22u0a"
+        },
+        {
+          "Name": "label",
+          "Value": "create-article.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WP8A4MvapRVevPNE651ACl2bqcied8RqADKfPDJT/b8="
+        }
+      ]
+    },
+    {
+      "Route": "create-article.wq5dp22u0a.html.gz",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\obj\\Debug\\net9.0\\compressed\\4foa0zyfol-wq5dp22u0a.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1552"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8uJ4pL1CnenuFgtdyEhaCrqvLbUT3uBkrQvQ9kPTgJo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Sep 2021 19:33:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wq5dp22u0a"
+        },
+        {
+          "Name": "label",
+          "Value": "create-article.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8uJ4pL1CnenuFgtdyEhaCrqvLbUT3uBkrQvQ9kPTgJo="
+        }
+      ]
+    },
+    {
+      "Route": "fonts/IranianSans.ce16uetzrg.svg",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\obj\\Debug\\net9.0\\compressed\\g54lea24sp-ce16uetzrg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000019691629"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50782"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sF3e/DQj30XSOKEzJgorznfHhS14NLGGMAhIyZWJMxw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Aug 2021 09:17:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"bE3Ta5D1G22kAldc7f0I6n+XGzqixzkmRMokza1blwY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ce16uetzrg"
+        },
+        {
+          "Name": "label",
+          "Value": "fonts/IranianSans.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bE3Ta5D1G22kAldc7f0I6n+XGzqixzkmRMokza1blwY="
+        }
+      ]
+    },
+    {
+      "Route": "fonts/IranianSans.ce16uetzrg.svg",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\fonts\\IranianSans.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "257351"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bE3Ta5D1G22kAldc7f0I6n+XGzqixzkmRMokza1blwY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Aug 2021 09:17:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ce16uetzrg"
+        },
+        {
+          "Name": "label",
+          "Value": "fonts/IranianSans.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bE3Ta5D1G22kAldc7f0I6n+XGzqixzkmRMokza1blwY="
+        }
+      ]
+    },
+    {
+      "Route": "fonts/IranianSans.ce16uetzrg.svg.gz",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\obj\\Debug\\net9.0\\compressed\\g54lea24sp-ce16uetzrg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50782"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sF3e/DQj30XSOKEzJgorznfHhS14NLGGMAhIyZWJMxw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Aug 2021 09:17:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ce16uetzrg"
+        },
+        {
+          "Name": "label",
+          "Value": "fonts/IranianSans.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sF3e/DQj30XSOKEzJgorznfHhS14NLGGMAhIyZWJMxw="
+        }
+      ]
+    },
+    {
+      "Route": "fonts/IranianSans.ct4ce5fjpv.eot",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\fonts\\IranianSans.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "62320"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YFU6YFPAQAZwbZ4yGQi+I7bnbIGMtfbtA9hRSWiYV0E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Aug 2021 09:17:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ct4ce5fjpv"
+        },
+        {
+          "Name": "label",
+          "Value": "fonts/IranianSans.eot"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YFU6YFPAQAZwbZ4yGQi+I7bnbIGMtfbtA9hRSWiYV0E="
+        }
+      ]
+    },
+    {
+      "Route": "fonts/IranianSans.eot",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\fonts\\IranianSans.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "62320"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YFU6YFPAQAZwbZ4yGQi+I7bnbIGMtfbtA9hRSWiYV0E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Aug 2021 09:17:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YFU6YFPAQAZwbZ4yGQi+I7bnbIGMtfbtA9hRSWiYV0E="
+        }
+      ]
+    },
+    {
+      "Route": "fonts/IranianSans.gtad69gg1c.woff",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\fonts\\IranianSans.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30640"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/P1GRpTDic6pc8V2M99/yXRGMVzzE3TV61MBtqMpb+I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Aug 2021 09:17:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gtad69gg1c"
+        },
+        {
+          "Name": "label",
+          "Value": "fonts/IranianSans.woff"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/P1GRpTDic6pc8V2M99/yXRGMVzzE3TV61MBtqMpb+I="
+        }
+      ]
+    },
+    {
+      "Route": "fonts/IranianSans.pnhn98znf0.woff2",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\fonts\\IranianSans.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23932"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JXIyguoKlMNJr/korp9n6KWzpmM+7V+NKRpwSLly9co=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Aug 2021 09:17:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pnhn98znf0"
+        },
+        {
+          "Name": "label",
+          "Value": "fonts/IranianSans.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JXIyguoKlMNJr/korp9n6KWzpmM+7V+NKRpwSLly9co="
+        }
+      ]
+    },
+    {
+      "Route": "fonts/IranianSans.svg",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\obj\\Debug\\net9.0\\compressed\\g54lea24sp-ce16uetzrg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000019691629"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50782"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sF3e/DQj30XSOKEzJgorznfHhS14NLGGMAhIyZWJMxw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Aug 2021 09:17:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"bE3Ta5D1G22kAldc7f0I6n+XGzqixzkmRMokza1blwY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bE3Ta5D1G22kAldc7f0I6n+XGzqixzkmRMokza1blwY="
+        }
+      ]
+    },
+    {
+      "Route": "fonts/IranianSans.svg",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\fonts\\IranianSans.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "257351"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bE3Ta5D1G22kAldc7f0I6n+XGzqixzkmRMokza1blwY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Aug 2021 09:17:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bE3Ta5D1G22kAldc7f0I6n+XGzqixzkmRMokza1blwY="
+        }
+      ]
+    },
+    {
+      "Route": "fonts/IranianSans.svg.gz",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\obj\\Debug\\net9.0\\compressed\\g54lea24sp-ce16uetzrg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50782"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sF3e/DQj30XSOKEzJgorznfHhS14NLGGMAhIyZWJMxw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Aug 2021 09:17:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sF3e/DQj30XSOKEzJgorznfHhS14NLGGMAhIyZWJMxw="
+        }
+      ]
+    },
+    {
+      "Route": "fonts/IranianSans.ttf",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\fonts\\IranianSans.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "62132"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YlYMItGfUkJndhyMjxsWJc51y77EhyBKbH12TkN7MnQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Aug 2021 09:17:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YlYMItGfUkJndhyMjxsWJc51y77EhyBKbH12TkN7MnQ="
+        }
+      ]
+    },
+    {
+      "Route": "fonts/IranianSans.ulpzmlung9.ttf",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\fonts\\IranianSans.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "62132"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YlYMItGfUkJndhyMjxsWJc51y77EhyBKbH12TkN7MnQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Aug 2021 09:17:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ulpzmlung9"
+        },
+        {
+          "Name": "label",
+          "Value": "fonts/IranianSans.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YlYMItGfUkJndhyMjxsWJc51y77EhyBKbH12TkN7MnQ="
+        }
+      ]
+    },
+    {
+      "Route": "fonts/IranianSans.woff",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\fonts\\IranianSans.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30640"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/P1GRpTDic6pc8V2M99/yXRGMVzzE3TV61MBtqMpb+I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Aug 2021 09:17:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/P1GRpTDic6pc8V2M99/yXRGMVzzE3TV61MBtqMpb+I="
+        }
+      ]
+    },
+    {
+      "Route": "fonts/IranianSans.woff2",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\fonts\\IranianSans.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23932"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JXIyguoKlMNJr/korp9n6KWzpmM+7V+NKRpwSLly9co=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Aug 2021 09:17:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JXIyguoKlMNJr/korp9n6KWzpmM+7V+NKRpwSLly9co="
+        }
+      ]
+    },
+    {
+      "Route": "images/camp.jpg",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\images\\camp.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "85214"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pfMYLYvc05yk2sMtj7kHvH/9UR7fs7jDyk3SG7YG9Q0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Aug 2021 09:17:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pfMYLYvc05yk2sMtj7kHvH/9UR7fs7jDyk3SG7YG9Q0="
+        }
+      ]
+    },
+    {
+      "Route": "images/camp.zqdnvakt70.jpg",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\images\\camp.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "85214"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pfMYLYvc05yk2sMtj7kHvH/9UR7fs7jDyk3SG7YG9Q0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Aug 2021 09:17:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zqdnvakt70"
+        },
+        {
+          "Name": "label",
+          "Value": "images/camp.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pfMYLYvc05yk2sMtj7kHvH/9UR7fs7jDyk3SG7YG9Q0="
+        }
+      ]
+    },
+    {
+      "Route": "images/cityinlenz.2rbmv4szjt.jpg",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\images\\cityinlenz.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "57254"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/nO0LmgQnTN1lnpVcze2htNxRiBwTkJpcuLqCIDOvKY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Aug 2021 09:17:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2rbmv4szjt"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cityinlenz.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/nO0LmgQnTN1lnpVcze2htNxRiBwTkJpcuLqCIDOvKY="
+        }
+      ]
+    },
+    {
+      "Route": "images/cityinlenz.jpg",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\images\\cityinlenz.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "57254"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/nO0LmgQnTN1lnpVcze2htNxRiBwTkJpcuLqCIDOvKY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Aug 2021 09:17:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/nO0LmgQnTN1lnpVcze2htNxRiBwTkJpcuLqCIDOvKY="
+        }
+      ]
+    },
+    {
+      "Route": "images/girl.42lgq1ax74.jpg",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\images\\girl.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "49411"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nKxEIDZK/MIQ8eS50MSPb0RyRaoXyg7Zf5ov9ywod+c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Aug 2021 09:17:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "42lgq1ax74"
+        },
+        {
+          "Name": "label",
+          "Value": "images/girl.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nKxEIDZK/MIQ8eS50MSPb0RyRaoXyg7Zf5ov9ywod+c="
+        }
+      ]
+    },
+    {
+      "Route": "images/girl.jpg",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\images\\girl.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "49411"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nKxEIDZK/MIQ8eS50MSPb0RyRaoXyg7Zf5ov9ywod+c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Aug 2021 09:17:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nKxEIDZK/MIQ8eS50MSPb0RyRaoXyg7Zf5ov9ywod+c="
+        }
+      ]
+    },
+    {
+      "Route": "images/lake.ixgh8fren1.jpg",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\images\\lake.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "563492"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9kNCF2ZDdYMnxmCiElKFMMMp0VWCjsinY8zbQ7Z2EIA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Aug 2021 09:17:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ixgh8fren1"
+        },
+        {
+          "Name": "label",
+          "Value": "images/lake.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9kNCF2ZDdYMnxmCiElKFMMMp0VWCjsinY8zbQ7Z2EIA="
+        }
+      ]
+    },
+    {
+      "Route": "images/lake.jpg",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\images\\lake.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "563492"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9kNCF2ZDdYMnxmCiElKFMMMp0VWCjsinY8zbQ7Z2EIA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Aug 2021 09:17:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9kNCF2ZDdYMnxmCiElKFMMMp0VWCjsinY8zbQ7Z2EIA="
+        }
+      ]
+    },
+    {
+      "Route": "images/lenz.jc9ax4bg66.jpg",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\images\\lenz.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "54730"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LbF4o80KSzTsFmGThvgYrEA9j+vReVHF80d0iHPcDa8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Aug 2021 09:17:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jc9ax4bg66"
+        },
+        {
+          "Name": "label",
+          "Value": "images/lenz.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LbF4o80KSzTsFmGThvgYrEA9j+vReVHF80d0iHPcDa8="
+        }
+      ]
+    },
+    {
+      "Route": "images/lenz.jpg",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\images\\lenz.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "54730"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LbF4o80KSzTsFmGThvgYrEA9j+vReVHF80d0iHPcDa8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Aug 2021 09:17:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LbF4o80KSzTsFmGThvgYrEA9j+vReVHF80d0iHPcDa8="
+        }
+      ]
+    },
+    {
+      "Route": "images/phanoos.et938o8yyu.jpg",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\images\\phanoos.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67250"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"crxlEXl840MzLeLyCA2wyzPR/KodsCsMNm1y6RXxxEo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Aug 2021 09:17:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "et938o8yyu"
+        },
+        {
+          "Name": "label",
+          "Value": "images/phanoos.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-crxlEXl840MzLeLyCA2wyzPR/KodsCsMNm1y6RXxxEo="
+        }
+      ]
+    },
+    {
+      "Route": "images/phanoos.jpg",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\images\\phanoos.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67250"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"crxlEXl840MzLeLyCA2wyzPR/KodsCsMNm1y6RXxxEo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Aug 2021 09:17:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-crxlEXl840MzLeLyCA2wyzPR/KodsCsMNm1y6RXxxEo="
+        }
+      ]
+    },
+    {
+      "Route": "images/photography.azj28vo67n.jpg",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\images\\photography.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68770"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WkrFr8GJ6unsNEn8M51z7eW8R+nJHID5GfE5qZRpFz4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Aug 2021 09:17:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "azj28vo67n"
+        },
+        {
+          "Name": "label",
+          "Value": "images/photography.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WkrFr8GJ6unsNEn8M51z7eW8R+nJHID5GfE5qZRpFz4="
+        }
+      ]
+    },
+    {
+      "Route": "images/photography.jpg",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\images\\photography.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68770"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WkrFr8GJ6unsNEn8M51z7eW8R+nJHID5GfE5qZRpFz4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Aug 2021 09:17:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WkrFr8GJ6unsNEn8M51z7eW8R+nJHID5GfE5qZRpFz4="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\obj\\Debug\\net9.0\\compressed\\p0nx517y6t-u4hfawxbdq.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000602046960"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1660"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8v+uiUBO5pvFHt8T+KWUcyVhFf8YLM0ugBaStxDOqQY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Aug 2021 18:54:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gmH93nOEZ/nmQqCbX8Voc1IesyFJDsnhSG1OwkVcu54=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gmH93nOEZ/nmQqCbX8Voc1IesyFJDsnhSG1OwkVcu54="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7494"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gmH93nOEZ/nmQqCbX8Voc1IesyFJDsnhSG1OwkVcu54=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Aug 2021 18:54:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gmH93nOEZ/nmQqCbX8Voc1IesyFJDsnhSG1OwkVcu54="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\obj\\Debug\\net9.0\\compressed\\p0nx517y6t-u4hfawxbdq.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1660"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8v+uiUBO5pvFHt8T+KWUcyVhFf8YLM0ugBaStxDOqQY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Aug 2021 18:54:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8v+uiUBO5pvFHt8T+KWUcyVhFf8YLM0ugBaStxDOqQY="
+        }
+      ]
+    },
+    {
+      "Route": "index.u4hfawxbdq.html",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\obj\\Debug\\net9.0\\compressed\\p0nx517y6t-u4hfawxbdq.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000602046960"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1660"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8v+uiUBO5pvFHt8T+KWUcyVhFf8YLM0ugBaStxDOqQY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Aug 2021 18:54:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gmH93nOEZ/nmQqCbX8Voc1IesyFJDsnhSG1OwkVcu54=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u4hfawxbdq"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gmH93nOEZ/nmQqCbX8Voc1IesyFJDsnhSG1OwkVcu54="
+        }
+      ]
+    },
+    {
+      "Route": "index.u4hfawxbdq.html",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7494"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gmH93nOEZ/nmQqCbX8Voc1IesyFJDsnhSG1OwkVcu54=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Aug 2021 18:54:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u4hfawxbdq"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gmH93nOEZ/nmQqCbX8Voc1IesyFJDsnhSG1OwkVcu54="
+        }
+      ]
+    },
+    {
+      "Route": "index.u4hfawxbdq.html.gz",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\obj\\Debug\\net9.0\\compressed\\p0nx517y6t-u4hfawxbdq.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1660"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8v+uiUBO5pvFHt8T+KWUcyVhFf8YLM0ugBaStxDOqQY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Aug 2021 18:54:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u4hfawxbdq"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8v+uiUBO5pvFHt8T+KWUcyVhFf8YLM0ugBaStxDOqQY="
+        }
+      ]
+    },
+    {
+      "Route": "RazorBlogProject.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\obj\\Debug\\net9.0\\compressed\\kg0see5zm3-tkeaf1cmw6.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001838235294"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "543"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GkfvVrje2uHgjGJldmwCNbfXNzxdXFWU8JALBvdyfA0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Aug 2026 12:54:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"s0R3/YMekLKgk3Xh7Ctr/q/JvXtebnTEjrIsAlz3N1A=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-s0R3/YMekLKgk3Xh7Ctr/q/JvXtebnTEjrIsAlz3N1A="
+        }
+      ]
+    },
+    {
+      "Route": "RazorBlogProject.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\RazorBlogProject.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1134"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s0R3/YMekLKgk3Xh7Ctr/q/JvXtebnTEjrIsAlz3N1A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Aug 2026 12:54:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-s0R3/YMekLKgk3Xh7Ctr/q/JvXtebnTEjrIsAlz3N1A="
+        }
+      ]
+    },
+    {
+      "Route": "RazorBlogProject.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\obj\\Debug\\net9.0\\compressed\\kg0see5zm3-tkeaf1cmw6.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "543"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GkfvVrje2uHgjGJldmwCNbfXNzxdXFWU8JALBvdyfA0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Aug 2026 12:54:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GkfvVrje2uHgjGJldmwCNbfXNzxdXFWU8JALBvdyfA0="
+        }
+      ]
+    },
+    {
+      "Route": "RazorBlogProject.styles.css",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\obj\\Debug\\net9.0\\compressed\\7g4vgohfed-tkeaf1cmw6.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001838235294"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "543"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GkfvVrje2uHgjGJldmwCNbfXNzxdXFWU8JALBvdyfA0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Aug 2026 12:54:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"s0R3/YMekLKgk3Xh7Ctr/q/JvXtebnTEjrIsAlz3N1A=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-s0R3/YMekLKgk3Xh7Ctr/q/JvXtebnTEjrIsAlz3N1A="
+        }
+      ]
+    },
+    {
+      "Route": "RazorBlogProject.styles.css",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\obj\\Debug\\net9.0\\scopedcss\\bundle\\RazorBlogProject.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1134"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s0R3/YMekLKgk3Xh7Ctr/q/JvXtebnTEjrIsAlz3N1A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Aug 2026 12:54:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-s0R3/YMekLKgk3Xh7Ctr/q/JvXtebnTEjrIsAlz3N1A="
+        }
+      ]
+    },
+    {
+      "Route": "RazorBlogProject.styles.css.gz",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\obj\\Debug\\net9.0\\compressed\\7g4vgohfed-tkeaf1cmw6.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "543"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GkfvVrje2uHgjGJldmwCNbfXNzxdXFWU8JALBvdyfA0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Aug 2026 12:54:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GkfvVrje2uHgjGJldmwCNbfXNzxdXFWU8JALBvdyfA0="
+        }
+      ]
+    },
+    {
+      "Route": "RazorBlogProject.tkeaf1cmw6.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\obj\\Debug\\net9.0\\compressed\\kg0see5zm3-tkeaf1cmw6.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001838235294"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "543"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GkfvVrje2uHgjGJldmwCNbfXNzxdXFWU8JALBvdyfA0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Aug 2026 12:54:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"s0R3/YMekLKgk3Xh7Ctr/q/JvXtebnTEjrIsAlz3N1A=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tkeaf1cmw6"
+        },
+        {
+          "Name": "label",
+          "Value": "RazorBlogProject.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-s0R3/YMekLKgk3Xh7Ctr/q/JvXtebnTEjrIsAlz3N1A="
+        }
+      ]
+    },
+    {
+      "Route": "RazorBlogProject.tkeaf1cmw6.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\RazorBlogProject.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1134"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s0R3/YMekLKgk3Xh7Ctr/q/JvXtebnTEjrIsAlz3N1A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Aug 2026 12:54:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tkeaf1cmw6"
+        },
+        {
+          "Name": "label",
+          "Value": "RazorBlogProject.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-s0R3/YMekLKgk3Xh7Ctr/q/JvXtebnTEjrIsAlz3N1A="
+        }
+      ]
+    },
+    {
+      "Route": "RazorBlogProject.tkeaf1cmw6.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\obj\\Debug\\net9.0\\compressed\\kg0see5zm3-tkeaf1cmw6.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "543"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GkfvVrje2uHgjGJldmwCNbfXNzxdXFWU8JALBvdyfA0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Aug 2026 12:54:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tkeaf1cmw6"
+        },
+        {
+          "Name": "label",
+          "Value": "RazorBlogProject.bundle.scp.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GkfvVrje2uHgjGJldmwCNbfXNzxdXFWU8JALBvdyfA0="
+        }
+      ]
+    },
+    {
+      "Route": "RazorBlogProject.tkeaf1cmw6.styles.css",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\obj\\Debug\\net9.0\\compressed\\7g4vgohfed-tkeaf1cmw6.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001838235294"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "543"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GkfvVrje2uHgjGJldmwCNbfXNzxdXFWU8JALBvdyfA0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Aug 2026 12:54:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"s0R3/YMekLKgk3Xh7Ctr/q/JvXtebnTEjrIsAlz3N1A=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tkeaf1cmw6"
+        },
+        {
+          "Name": "label",
+          "Value": "RazorBlogProject.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-s0R3/YMekLKgk3Xh7Ctr/q/JvXtebnTEjrIsAlz3N1A="
+        }
+      ]
+    },
+    {
+      "Route": "RazorBlogProject.tkeaf1cmw6.styles.css",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\obj\\Debug\\net9.0\\scopedcss\\bundle\\RazorBlogProject.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1134"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s0R3/YMekLKgk3Xh7Ctr/q/JvXtebnTEjrIsAlz3N1A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Aug 2026 12:54:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tkeaf1cmw6"
+        },
+        {
+          "Name": "label",
+          "Value": "RazorBlogProject.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-s0R3/YMekLKgk3Xh7Ctr/q/JvXtebnTEjrIsAlz3N1A="
+        }
+      ]
+    },
+    {
+      "Route": "RazorBlogProject.tkeaf1cmw6.styles.css.gz",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\obj\\Debug\\net9.0\\compressed\\7g4vgohfed-tkeaf1cmw6.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "543"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GkfvVrje2uHgjGJldmwCNbfXNzxdXFWU8JALBvdyfA0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Aug 2026 12:54:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tkeaf1cmw6"
+        },
+        {
+          "Name": "label",
+          "Value": "RazorBlogProject.styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GkfvVrje2uHgjGJldmwCNbfXNzxdXFWU8JALBvdyfA0="
+        }
+      ]
+    },
+    {
+      "Route": "style.css",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\obj\\Debug\\net9.0\\compressed\\3i9zqj431b-qbfir7i70u.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004000000000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "249"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3hBCWw5ttzbxRNIpF8PA1bFvNoClIGz3rYYGuUl0ymI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Aug 2021 09:17:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"6oo5/3A0miaiS0dCFerEiBimz70isP6Zge/75n1lDV4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6oo5/3A0miaiS0dCFerEiBimz70isP6Zge/75n1lDV4="
+        }
+      ]
+    },
+    {
+      "Route": "style.css",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "567"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6oo5/3A0miaiS0dCFerEiBimz70isP6Zge/75n1lDV4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Aug 2021 09:17:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6oo5/3A0miaiS0dCFerEiBimz70isP6Zge/75n1lDV4="
+        }
+      ]
+    },
+    {
+      "Route": "style.css.gz",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\obj\\Debug\\net9.0\\compressed\\3i9zqj431b-qbfir7i70u.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "249"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3hBCWw5ttzbxRNIpF8PA1bFvNoClIGz3rYYGuUl0ymI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Aug 2021 09:17:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3hBCWw5ttzbxRNIpF8PA1bFvNoClIGz3rYYGuUl0ymI="
+        }
+      ]
+    },
+    {
+      "Route": "style.qbfir7i70u.css",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\obj\\Debug\\net9.0\\compressed\\3i9zqj431b-qbfir7i70u.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004000000000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "249"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3hBCWw5ttzbxRNIpF8PA1bFvNoClIGz3rYYGuUl0ymI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Aug 2021 09:17:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"6oo5/3A0miaiS0dCFerEiBimz70isP6Zge/75n1lDV4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qbfir7i70u"
+        },
+        {
+          "Name": "label",
+          "Value": "style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6oo5/3A0miaiS0dCFerEiBimz70isP6Zge/75n1lDV4="
+        }
+      ]
+    },
+    {
+      "Route": "style.qbfir7i70u.css",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "567"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6oo5/3A0miaiS0dCFerEiBimz70isP6Zge/75n1lDV4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Aug 2021 09:17:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qbfir7i70u"
+        },
+        {
+          "Name": "label",
+          "Value": "style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6oo5/3A0miaiS0dCFerEiBimz70isP6Zge/75n1lDV4="
+        }
+      ]
+    },
+    {
+      "Route": "style.qbfir7i70u.css.gz",
+      "AssetFile": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\obj\\Debug\\net9.0\\compressed\\3i9zqj431b-qbfir7i70u.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "249"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3hBCWw5ttzbxRNIpF8PA1bFvNoClIGz3rYYGuUl0ymI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Aug 2021 09:17:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qbfir7i70u"
+        },
+        {
+          "Name": "label",
+          "Value": "style.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3hBCWw5ttzbxRNIpF8PA1bFvNoClIGz3rYYGuUl0ymI="
+        }
+      ]
+    }
+  ]
+}

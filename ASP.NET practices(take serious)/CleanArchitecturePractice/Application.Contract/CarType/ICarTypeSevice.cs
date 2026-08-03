@@ -11,10 +11,10 @@ namespace Application.Contract.CarType
 {
     public interface ICarTypeSevice
     {
-        void Create(CreateCarType command);
-        void Edit(EditCarType command);
-        void Remove(RemoveCarType command);
-        CarTypeViewModel GetCarTypeById(int id);
-        List<CarViewModel> GetAllCarTypes();
+        Task Create(CreateCarType command);
+        Task Edit(EditCarType command);
+        Task Remove(RemoveCarType command);
+        Task<CarTypeViewModel> GetCarTypeById(int id);
+        Task<IEnumerable<CarTypeViewModel>> GetAllCarTypes();
     }
 }

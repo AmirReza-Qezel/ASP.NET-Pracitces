@@ -1,0 +1,21 @@
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\RazorBlogProject\wwwroot\style.css
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\RazorBlogProject\wwwroot\create-article.html
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\RazorBlogProject\wwwroot\article-details.html
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\RazorBlogProject\wwwroot\fonts\IranianSans.svg
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\RazorBlogProject\wwwroot\index.html
+wwwroot\article-details.html
+wwwroot\create-article.html
+wwwroot\fonts\IranianSans.eot
+wwwroot\fonts\IranianSans.svg
+wwwroot\fonts\IranianSans.ttf
+wwwroot\fonts\IranianSans.woff
+wwwroot\fonts\IranianSans.woff2
+wwwroot\images\camp.jpg
+wwwroot\images\cityinlenz.jpg
+wwwroot\images\girl.jpg
+wwwroot\images\lake.jpg
+wwwroot\images\lenz.jpg
+wwwroot\images\phanoos.jpg
+wwwroot\images\photography.jpg
+wwwroot\index.html
+wwwroot\style.css

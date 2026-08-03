@@ -1,0 +1,208 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/RazorBlogProject/article-details.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\article-details.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-1VEpJkUqp8E\u002BAEO2LVhtgOl8Zbs3wMvUmDtIVWn2/RY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"10245"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u00221VEpJkUqp8E\u002BAEO2LVhtgOl8Zbs3wMvUmDtIVWn2/RY=\u0022"},{"Name":"Last-Modified","Value":"Wed, 22 Sep 2021 19:33:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RazorBlogProject/article-details.x93xfphp3s.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\article-details.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"x93xfphp3s"},{"Name":"integrity","Value":"sha256-1VEpJkUqp8E\u002BAEO2LVhtgOl8Zbs3wMvUmDtIVWn2/RY="},{"Name":"label","Value":"_content/RazorBlogProject/article-details.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10245"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u00221VEpJkUqp8E\u002BAEO2LVhtgOl8Zbs3wMvUmDtIVWn2/RY=\u0022"},{"Name":"Last-Modified","Value":"Wed, 22 Sep 2021 19:33:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RazorBlogProject/create-article.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\create-article.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-WP8A4MvapRVevPNE651ACl2bqcied8RqADKfPDJT/b8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4533"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022WP8A4MvapRVevPNE651ACl2bqcied8RqADKfPDJT/b8=\u0022"},{"Name":"Last-Modified","Value":"Wed, 22 Sep 2021 19:33:15 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RazorBlogProject/create-article.wq5dp22u0a.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\create-article.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wq5dp22u0a"},{"Name":"integrity","Value":"sha256-WP8A4MvapRVevPNE651ACl2bqcied8RqADKfPDJT/b8="},{"Name":"label","Value":"_content/RazorBlogProject/create-article.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4533"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022WP8A4MvapRVevPNE651ACl2bqcied8RqADKfPDJT/b8=\u0022"},{"Name":"Last-Modified","Value":"Wed, 22 Sep 2021 19:33:15 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RazorBlogProject/fonts/IranianSans.ce16uetzrg.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\IranianSans.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ce16uetzrg"},{"Name":"integrity","Value":"sha256-bE3Ta5D1G22kAldc7f0I6n\u002BXGzqixzkmRMokza1blwY="},{"Name":"label","Value":"_content/RazorBlogProject/fonts/IranianSans.svg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"257351"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022bE3Ta5D1G22kAldc7f0I6n\u002BXGzqixzkmRMokza1blwY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Aug 2021 09:17:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RazorBlogProject/fonts/IranianSans.ct4ce5fjpv.eot">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\IranianSans.eot'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ct4ce5fjpv"},{"Name":"integrity","Value":"sha256-YFU6YFPAQAZwbZ4yGQi\u002BI7bnbIGMtfbtA9hRSWiYV0E="},{"Name":"label","Value":"_content/RazorBlogProject/fonts/IranianSans.eot"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"62320"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022YFU6YFPAQAZwbZ4yGQi\u002BI7bnbIGMtfbtA9hRSWiYV0E=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Aug 2021 09:17:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RazorBlogProject/fonts/IranianSans.eot">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\IranianSans.eot'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-YFU6YFPAQAZwbZ4yGQi\u002BI7bnbIGMtfbtA9hRSWiYV0E="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"62320"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022YFU6YFPAQAZwbZ4yGQi\u002BI7bnbIGMtfbtA9hRSWiYV0E=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Aug 2021 09:17:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RazorBlogProject/fonts/IranianSans.gtad69gg1c.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\IranianSans.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"gtad69gg1c"},{"Name":"integrity","Value":"sha256-/P1GRpTDic6pc8V2M99/yXRGMVzzE3TV61MBtqMpb\u002BI="},{"Name":"label","Value":"_content/RazorBlogProject/fonts/IranianSans.woff"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"30640"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022/P1GRpTDic6pc8V2M99/yXRGMVzzE3TV61MBtqMpb\u002BI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Aug 2021 09:17:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RazorBlogProject/fonts/IranianSans.pnhn98znf0.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\IranianSans.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"pnhn98znf0"},{"Name":"integrity","Value":"sha256-JXIyguoKlMNJr/korp9n6KWzpmM\u002B7V\u002BNKRpwSLly9co="},{"Name":"label","Value":"_content/RazorBlogProject/fonts/IranianSans.woff2"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"23932"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022JXIyguoKlMNJr/korp9n6KWzpmM\u002B7V\u002BNKRpwSLly9co=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Aug 2021 09:17:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RazorBlogProject/fonts/IranianSans.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\IranianSans.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-bE3Ta5D1G22kAldc7f0I6n\u002BXGzqixzkmRMokza1blwY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"257351"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022bE3Ta5D1G22kAldc7f0I6n\u002BXGzqixzkmRMokza1blwY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Aug 2021 09:17:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RazorBlogProject/fonts/IranianSans.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\IranianSans.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-YlYMItGfUkJndhyMjxsWJc51y77EhyBKbH12TkN7MnQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"62132"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022YlYMItGfUkJndhyMjxsWJc51y77EhyBKbH12TkN7MnQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Aug 2021 09:17:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RazorBlogProject/fonts/IranianSans.ulpzmlung9.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\IranianSans.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ulpzmlung9"},{"Name":"integrity","Value":"sha256-YlYMItGfUkJndhyMjxsWJc51y77EhyBKbH12TkN7MnQ="},{"Name":"label","Value":"_content/RazorBlogProject/fonts/IranianSans.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"62132"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022YlYMItGfUkJndhyMjxsWJc51y77EhyBKbH12TkN7MnQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Aug 2021 09:17:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RazorBlogProject/fonts/IranianSans.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\IranianSans.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-/P1GRpTDic6pc8V2M99/yXRGMVzzE3TV61MBtqMpb\u002BI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"30640"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022/P1GRpTDic6pc8V2M99/yXRGMVzzE3TV61MBtqMpb\u002BI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Aug 2021 09:17:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RazorBlogProject/fonts/IranianSans.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\IranianSans.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-JXIyguoKlMNJr/korp9n6KWzpmM\u002B7V\u002BNKRpwSLly9co="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"23932"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022JXIyguoKlMNJr/korp9n6KWzpmM\u002B7V\u002BNKRpwSLly9co=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Aug 2021 09:17:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RazorBlogProject/images/camp.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\camp.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-pfMYLYvc05yk2sMtj7kHvH/9UR7fs7jDyk3SG7YG9Q0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"85214"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022pfMYLYvc05yk2sMtj7kHvH/9UR7fs7jDyk3SG7YG9Q0=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Aug 2021 09:17:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RazorBlogProject/images/camp.zqdnvakt70.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\camp.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zqdnvakt70"},{"Name":"integrity","Value":"sha256-pfMYLYvc05yk2sMtj7kHvH/9UR7fs7jDyk3SG7YG9Q0="},{"Name":"label","Value":"_content/RazorBlogProject/images/camp.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"85214"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022pfMYLYvc05yk2sMtj7kHvH/9UR7fs7jDyk3SG7YG9Q0=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Aug 2021 09:17:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RazorBlogProject/images/cityinlenz.2rbmv4szjt.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cityinlenz.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2rbmv4szjt"},{"Name":"integrity","Value":"sha256-/nO0LmgQnTN1lnpVcze2htNxRiBwTkJpcuLqCIDOvKY="},{"Name":"label","Value":"_content/RazorBlogProject/images/cityinlenz.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"57254"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022/nO0LmgQnTN1lnpVcze2htNxRiBwTkJpcuLqCIDOvKY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Aug 2021 09:17:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RazorBlogProject/images/cityinlenz.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cityinlenz.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-/nO0LmgQnTN1lnpVcze2htNxRiBwTkJpcuLqCIDOvKY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"57254"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022/nO0LmgQnTN1lnpVcze2htNxRiBwTkJpcuLqCIDOvKY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Aug 2021 09:17:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RazorBlogProject/images/girl.42lgq1ax74.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\girl.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"42lgq1ax74"},{"Name":"integrity","Value":"sha256-nKxEIDZK/MIQ8eS50MSPb0RyRaoXyg7Zf5ov9ywod\u002Bc="},{"Name":"label","Value":"_content/RazorBlogProject/images/girl.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"49411"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022nKxEIDZK/MIQ8eS50MSPb0RyRaoXyg7Zf5ov9ywod\u002Bc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Aug 2021 09:17:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RazorBlogProject/images/girl.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\girl.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-nKxEIDZK/MIQ8eS50MSPb0RyRaoXyg7Zf5ov9ywod\u002Bc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"49411"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022nKxEIDZK/MIQ8eS50MSPb0RyRaoXyg7Zf5ov9ywod\u002Bc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Aug 2021 09:17:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RazorBlogProject/images/lake.ixgh8fren1.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\lake.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ixgh8fren1"},{"Name":"integrity","Value":"sha256-9kNCF2ZDdYMnxmCiElKFMMMp0VWCjsinY8zbQ7Z2EIA="},{"Name":"label","Value":"_content/RazorBlogProject/images/lake.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"563492"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00229kNCF2ZDdYMnxmCiElKFMMMp0VWCjsinY8zbQ7Z2EIA=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Aug 2021 09:17:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RazorBlogProject/images/lake.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\lake.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-9kNCF2ZDdYMnxmCiElKFMMMp0VWCjsinY8zbQ7Z2EIA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"563492"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00229kNCF2ZDdYMnxmCiElKFMMMp0VWCjsinY8zbQ7Z2EIA=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Aug 2021 09:17:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RazorBlogProject/images/lenz.jc9ax4bg66.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\lenz.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jc9ax4bg66"},{"Name":"integrity","Value":"sha256-LbF4o80KSzTsFmGThvgYrEA9j\u002BvReVHF80d0iHPcDa8="},{"Name":"label","Value":"_content/RazorBlogProject/images/lenz.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"54730"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022LbF4o80KSzTsFmGThvgYrEA9j\u002BvReVHF80d0iHPcDa8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Aug 2021 09:17:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RazorBlogProject/images/lenz.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\lenz.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-LbF4o80KSzTsFmGThvgYrEA9j\u002BvReVHF80d0iHPcDa8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"54730"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022LbF4o80KSzTsFmGThvgYrEA9j\u002BvReVHF80d0iHPcDa8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Aug 2021 09:17:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RazorBlogProject/images/phanoos.et938o8yyu.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phanoos.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"et938o8yyu"},{"Name":"integrity","Value":"sha256-crxlEXl840MzLeLyCA2wyzPR/KodsCsMNm1y6RXxxEo="},{"Name":"label","Value":"_content/RazorBlogProject/images/phanoos.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"67250"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022crxlEXl840MzLeLyCA2wyzPR/KodsCsMNm1y6RXxxEo=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Aug 2021 09:17:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RazorBlogProject/images/phanoos.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phanoos.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-crxlEXl840MzLeLyCA2wyzPR/KodsCsMNm1y6RXxxEo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"67250"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022crxlEXl840MzLeLyCA2wyzPR/KodsCsMNm1y6RXxxEo=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Aug 2021 09:17:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RazorBlogProject/images/photography.azj28vo67n.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\photography.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"azj28vo67n"},{"Name":"integrity","Value":"sha256-WkrFr8GJ6unsNEn8M51z7eW8R\u002BnJHID5GfE5qZRpFz4="},{"Name":"label","Value":"_content/RazorBlogProject/images/photography.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"68770"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022WkrFr8GJ6unsNEn8M51z7eW8R\u002BnJHID5GfE5qZRpFz4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Aug 2021 09:17:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RazorBlogProject/images/photography.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\photography.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-WkrFr8GJ6unsNEn8M51z7eW8R\u002BnJHID5GfE5qZRpFz4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"68770"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022WkrFr8GJ6unsNEn8M51z7eW8R\u002BnJHID5GfE5qZRpFz4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Aug 2021 09:17:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RazorBlogProject/index.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-gmH93nOEZ/nmQqCbX8Voc1IesyFJDsnhSG1OwkVcu54="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"7494"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022gmH93nOEZ/nmQqCbX8Voc1IesyFJDsnhSG1OwkVcu54=\u0022"},{"Name":"Last-Modified","Value":"Wed, 11 Aug 2021 18:54:02 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RazorBlogProject/index.u4hfawxbdq.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"u4hfawxbdq"},{"Name":"integrity","Value":"sha256-gmH93nOEZ/nmQqCbX8Voc1IesyFJDsnhSG1OwkVcu54="},{"Name":"label","Value":"_content/RazorBlogProject/index.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7494"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022gmH93nOEZ/nmQqCbX8Voc1IesyFJDsnhSG1OwkVcu54=\u0022"},{"Name":"Last-Modified","Value":"Wed, 11 Aug 2021 18:54:02 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RazorBlogProject/RazorBlogProject.bundle.scp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\RazorBlogProject.tkeaf1cmw6.bundle.scp.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-s0R3/YMekLKgk3Xh7Ctr/q/JvXtebnTEjrIsAlz3N1A="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1134"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022s0R3/YMekLKgk3Xh7Ctr/q/JvXtebnTEjrIsAlz3N1A=\u0022"},{"Name":"Last-Modified","Value":"Sun, 02 Aug 2026 12:54:14 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RazorBlogProject/RazorBlogProject.tkeaf1cmw6.bundle.scp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\RazorBlogProject.tkeaf1cmw6.bundle.scp.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"tkeaf1cmw6"},{"Name":"integrity","Value":"sha256-s0R3/YMekLKgk3Xh7Ctr/q/JvXtebnTEjrIsAlz3N1A="},{"Name":"label","Value":"_content/RazorBlogProject/RazorBlogProject.bundle.scp.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1134"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022s0R3/YMekLKgk3Xh7Ctr/q/JvXtebnTEjrIsAlz3N1A=\u0022"},{"Name":"Last-Modified","Value":"Sun, 02 Aug 2026 12:54:14 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RazorBlogProject/style.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\style.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-6oo5/3A0miaiS0dCFerEiBimz70isP6Zge/75n1lDV4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"567"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00226oo5/3A0miaiS0dCFerEiBimz70isP6Zge/75n1lDV4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Aug 2021 09:17:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RazorBlogProject/style.qbfir7i70u.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\style.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"qbfir7i70u"},{"Name":"integrity","Value":"sha256-6oo5/3A0miaiS0dCFerEiBimz70isP6Zge/75n1lDV4="},{"Name":"label","Value":"_content/RazorBlogProject/style.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"567"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00226oo5/3A0miaiS0dCFerEiBimz70isP6Zge/75n1lDV4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Aug 2021 09:17:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

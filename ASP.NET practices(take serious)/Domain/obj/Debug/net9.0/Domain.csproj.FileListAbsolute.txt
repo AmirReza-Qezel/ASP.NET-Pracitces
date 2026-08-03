@@ -1,0 +1,12 @@
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\Domain\bin\Debug\net9.0\Domain.deps.json
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\Domain\bin\Debug\net9.0\Domain.dll
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\Domain\bin\Debug\net9.0\Domain.pdb
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\Domain\obj\Debug\net9.0\Domain.sourcelink.json
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\Domain\obj\Debug\net9.0\Domain.dll
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\Domain\obj\Debug\net9.0\refint\Domain.dll
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\Domain\obj\Debug\net9.0\Domain.pdb
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\Domain\obj\Debug\net9.0\ref\Domain.dll

@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3B2A4C-44AA-44E5-B05E-22D0F69F068E}|RazorBlogProject.csproj|c:\\users\\technolife\\source\\repos\\asp.net-pracitces\\asp.net practices(take serious)\\razorblogproject\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA3B2A4C-44AA-44E5-B05E-22D0F69F068E}|RazorBlogProject.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3B2A4C-44AA-44E5-B05E-22D0F69F068E}|RazorBlogProject.csproj|c:\\users\\technolife\\source\\repos\\asp.net-pracitces\\asp.net practices(take serious)\\razorblogproject\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3B2A4C-44AA-44E5-B05E-22D0F69F068E}|RazorBlogProject.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3B2A4C-44AA-44E5-B05E-22D0F69F068E}|RazorBlogProject.csproj|c:\\users\\technolife\\source\\repos\\asp.net-pracitces\\asp.net practices(take serious)\\razorblogproject\\pages\\postdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA3B2A4C-44AA-44E5-B05E-22D0F69F068E}|RazorBlogProject.csproj|solutionrelative:pages\\postdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3B2A4C-44AA-44E5-B05E-22D0F69F068E}|RazorBlogProject.csproj|c:\\users\\technolife\\source\\repos\\asp.net-pracitces\\asp.net practices(take serious)\\razorblogproject\\pages\\postdetail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3B2A4C-44AA-44E5-B05E-22D0F69F068E}|RazorBlogProject.csproj|solutionrelative:pages\\postdetail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3B2A4C-44AA-44E5-B05E-22D0F69F068E}|RazorBlogProject.csproj|c:\\users\\technolife\\source\\repos\\asp.net-pracitces\\asp.net practices(take serious)\\razorblogproject\\models\\postviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3B2A4C-44AA-44E5-B05E-22D0F69F068E}|RazorBlogProject.csproj|solutionrelative:models\\postviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PostDetail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\Pages\\PostDetail.cshtml",
+              "RelativeDocumentMoniker": "Pages\\PostDetail.cshtml",
+              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\Pages\\PostDetail.cshtml",
+              "RelativeToolTip": "Pages\\PostDetail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-03T10:42:11.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PostViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\Models\\PostViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\PostViewModel.cs",
+              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\Models\\PostViewModel.cs",
+              "RelativeToolTip": "Models\\PostViewModel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T10:28:30.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwCUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T10:25:44.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-03T10:07:15.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PostDetail.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\Pages\\PostDetail.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\PostDetail.cshtml.cs",
+              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\Pages\\PostDetail.cshtml.cs",
+              "RelativeToolTip": "Pages\\PostDetail.cshtml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA3wB8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T10:46:02.369Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

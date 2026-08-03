@@ -9,7 +9,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Infrastructure.Repositories
 {
-    class CarTypeRepository : ICarTypeRepository
+    public class CarTypeRepository : ICarTypeRepository
     {
         private readonly AutoGalleryContext _context;
 

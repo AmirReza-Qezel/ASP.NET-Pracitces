@@ -1,0 +1,93 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\RazorBlogProject.bundle.scp.css",
+      "PackagePath": "staticwebassets\\RazorBlogProject.tkeaf1cmw6.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\article-details.html",
+      "PackagePath": "staticwebassets\\article-details.html"
+    },
+    {
+      "Id": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\create-article.html",
+      "PackagePath": "staticwebassets\\create-article.html"
+    },
+    {
+      "Id": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\fonts\\IranianSans.eot",
+      "PackagePath": "staticwebassets\\fonts\\IranianSans.eot"
+    },
+    {
+      "Id": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\fonts\\IranianSans.svg",
+      "PackagePath": "staticwebassets\\fonts\\IranianSans.svg"
+    },
+    {
+      "Id": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\fonts\\IranianSans.ttf",
+      "PackagePath": "staticwebassets\\fonts\\IranianSans.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\fonts\\IranianSans.woff",
+      "PackagePath": "staticwebassets\\fonts\\IranianSans.woff"
+    },
+    {
+      "Id": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\fonts\\IranianSans.woff2",
+      "PackagePath": "staticwebassets\\fonts\\IranianSans.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\images\\camp.jpg",
+      "PackagePath": "staticwebassets\\images\\camp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\images\\cityinlenz.jpg",
+      "PackagePath": "staticwebassets\\images\\cityinlenz.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\images\\girl.jpg",
+      "PackagePath": "staticwebassets\\images\\girl.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\images\\lake.jpg",
+      "PackagePath": "staticwebassets\\images\\lake.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\images\\lenz.jpg",
+      "PackagePath": "staticwebassets\\images\\lenz.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\images\\phanoos.jpg",
+      "PackagePath": "staticwebassets\\images\\phanoos.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\images\\photography.jpg",
+      "PackagePath": "staticwebassets\\images\\photography.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\RazorBlogProject\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.RazorBlogProject.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.RazorBlogProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.RazorBlogProject.props",
+      "PackagePath": "build\\RazorBlogProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.RazorBlogProject.props",
+      "PackagePath": "buildMultiTargeting\\RazorBlogProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.RazorBlogProject.props",
+      "PackagePath": "buildTransitive\\RazorBlogProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

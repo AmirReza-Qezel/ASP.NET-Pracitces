@@ -1,0 +1,12 @@
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\CleanArchitecturePractice\Application.Contract\bin\Debug\net9.0\Application.Contract.deps.json
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\CleanArchitecturePractice\Application.Contract\bin\Debug\net9.0\Application.Contract.dll
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\CleanArchitecturePractice\Application.Contract\bin\Debug\net9.0\Application.Contract.pdb
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\CleanArchitecturePractice\Application.Contract\obj\Debug\net9.0\Application.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\CleanArchitecturePractice\Application.Contract\obj\Debug\net9.0\Application.Contract.AssemblyInfoInputs.cache
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\CleanArchitecturePractice\Application.Contract\obj\Debug\net9.0\Application.Contract.AssemblyInfo.cs
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\CleanArchitecturePractice\Application.Contract\obj\Debug\net9.0\Application.Contract.csproj.CoreCompileInputs.cache
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\CleanArchitecturePractice\Application.Contract\obj\Debug\net9.0\Application.Contract.sourcelink.json
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\CleanArchitecturePractice\Application.Contract\obj\Debug\net9.0\Application.Contract.dll
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\CleanArchitecturePractice\Application.Contract\obj\Debug\net9.0\refint\Application.Contract.dll
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\CleanArchitecturePractice\Application.Contract\obj\Debug\net9.0\Application.Contract.pdb
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\CleanArchitecturePractice\Application.Contract\obj\Debug\net9.0\ref\Application.Contract.dll

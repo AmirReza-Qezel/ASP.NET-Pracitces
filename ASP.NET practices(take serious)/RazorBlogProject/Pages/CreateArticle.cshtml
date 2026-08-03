@@ -1,0 +1,42 @@
+﻿@page
+@model CreateArticleModel
+@{
+}
+
+<div class="row">
+    <form method="post" class="mr-auto ml-auto">
+        <div class="form-row">
+            <div class="form-group col-md-6">
+                <label asp-for=@Model.Command.Title></label>
+                <input class="form-control" asp-for=@Model.Command.Title>
+                <span asp-validation-for=@Model.Command.Title class="text-danger"></span>
+            </div>
+            <div class="form-group col-md-6">
+                <label asp-for=@Model.Command.PicturePath></label>
+                <input class="form-control" asp-for=@Model.Command.PicturePath>
+                <span asp-validation-for=@Model.Command.PicturePath class="text-danger"></span>
+            </div>
+            <div class="form-group col-md-6">
+                <label asp-for=@Model.Command.AltPicturePath></label>
+                <input class="form-control" asp-for=@Model.Command.AltPicturePath>
+                <span asp-validation-for=@Model.Command.AltPicturePath class="text-danger"></span>
+            </div>
+            <div class="form-group col-md-6">
+                <label asp-for=@Model.Command.PictureTitle></label>
+                <input class="form-control" asp-for=@Model.Command.PictureTitle>
+                <span asp-validation-for=@Model.Command.PictureTitle class="text-danger"></span>
+            </div>
+            <div class="form-group col-md-12">
+                <label asp-for=@Model.Command.ShortSummary></label>
+                <textarea class="form-control" asp-for=@Model.Command.ShortSummary></textarea>
+                <span asp-validation-for=@Model.Command.ShortSummary class="text-danger"></span>
+            </div>
+        </div>
+        <div class="form-group">
+            <label asp-for=@Model.Command.Description></label>
+            <textarea rows="5" type="text" class="form-control" asp-for=@Model.Command.Description></textarea>
+            <span asp-validation-for=@Model.Command.Description class="text-danger"></span>
+        </div>
+        <button type="submit" class="btn btn-success">ارسال</button>
+    </form>
+</div>

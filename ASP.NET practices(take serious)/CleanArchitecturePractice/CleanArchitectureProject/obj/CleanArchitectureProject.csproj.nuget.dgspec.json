@@ -1,0 +1,390 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\CleanArchitecturePractice\\CleanArchitectureProject\\CleanArchitectureProject.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\Application\\Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\Application\\Application.csproj",
+        "projectName": "Application",
+        "projectPath": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\Technolife\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Technolife\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\CleanArchitecturePractice\\Application.Contract\\Application.Contract.csproj": {
+                "projectPath": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\CleanArchitecturePractice\\Application.Contract\\Application.Contract.csproj"
+              },
+              "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\CleanArchitecturePractice\\Application.Contract\\Application.Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\CleanArchitecturePractice\\Application.Contract\\Application.Contract.csproj",
+        "projectName": "Application.Contract",
+        "projectPath": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\CleanArchitecturePractice\\Application.Contract\\Application.Contract.csproj",
+        "packagesPath": "C:\\Users\\Technolife\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\CleanArchitecturePractice\\Application.Contract\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Technolife\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\CleanArchitecturePractice\\CleanArchitectureProject\\CleanArchitectureProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\CleanArchitecturePractice\\CleanArchitectureProject\\CleanArchitectureProject.csproj",
+        "projectName": "CleanArchitectureProject",
+        "projectPath": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\CleanArchitecturePractice\\CleanArchitectureProject\\CleanArchitectureProject.csproj",
+        "packagesPath": "C:\\Users\\Technolife\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\CleanArchitecturePractice\\CleanArchitectureProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Technolife\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\Application\\Application.csproj"
+              },
+              "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\CleanArchitecturePractice\\Application.Contract\\Application.Contract.csproj": {
+                "projectPath": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\CleanArchitecturePractice\\Application.Contract\\Application.Contract.csproj"
+              },
+              "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\Domain\\Domain.csproj"
+              },
+              "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\Infrastructure\\Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Technolife\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Technolife\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\Infrastructure\\Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\Infrastructure\\Infrastructure.csproj",
+        "projectName": "Infrastructure",
+        "projectPath": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Technolife\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Technolife\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

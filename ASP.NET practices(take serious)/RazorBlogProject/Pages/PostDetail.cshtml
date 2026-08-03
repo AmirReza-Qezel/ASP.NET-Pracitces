@@ -1,0 +1,17 @@
+﻿@page "{id:int}"
+@model RazorBlogProject.Pages.PostDetailModel
+@{
+}
+<div class="row">
+    <div class="col-12 mb-3">
+        <h1>@Model.Post.Title</h1>
+    </div>
+    <div class="col-12 mb-3">
+        <img src="@Model.Post.PicturePath" alt="@Model.Post.AltPicturePath" class="img-fluid" title="@Model.Post.PictureTitle">
+    </div>
+    <div class="col-12">
+        <p class="article-content text-justify">
+            @Model.Post.Description
+        </p>
+    </div>
+</div>

@@ -1,0 +1,46 @@
+﻿@model List<Application.Contract.Car.CarViewModel>
+
+@{
+    ViewData["Title"] = "Cars";
+}
+
+<h2>Cars</h2>
+
+@if (Model == null || Model.Count == 0)
+{
+    <p>No cars found.</p>
+}
+else
+{
+    <table class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Description</th>
+                <th>Price</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var car in Model)
+            {
+                <tr>
+                    <td>@car.Id</td>
+                    <td>@car.Description</td>
+                    <td>@car.Price</td>
+                    <td>
+                        <a asp-action="Details" asp-route-id="@car.Id" class="btn btn-info btn-sm">Details</a>
+                        <form asp-action="Remove" asp-route-id="@car.Id" method="post" style="display:inline;">
+                            @Html.AntiForgeryToken()
+                            <button type="submit"
+                                    class="btn btn-danger btn-sm"
+                                    onclick="return confirm('Are you sure you want to remove this car?');">
+                                Remove
+                            </button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

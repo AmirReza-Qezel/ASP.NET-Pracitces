@@ -45,19 +45,19 @@ namespace Application.CarTypes
 
         }
 
-        public async Task<List<CarTypeViewModel>> GetAllCars()
+        public async Task<IEnumerable<CarTypeViewModel>> GetAllCarTypes()
         {
             var cars = await _carTypeRepository.GetAllActiveCarTypes();
             return cars.MapToViewModelList();
         }
 
-        public async Task<CarTypeViewModel> GetCarDetailsById(int id)
+        public async Task<CarTypeViewModel> GetCarTypeById(int id)
         {
             var carType = await _carTypeRepository.GetCarTypeById(id);
             return carType.MapToViewModel();
         }
 
-        public async void Remove(RemoveCarType command)
+        public async Task Remove(RemoveCarType command)
         {
             var carType = await _carTypeRepository.GetCarTypeById(command.Id);
             if (carType == null) return;

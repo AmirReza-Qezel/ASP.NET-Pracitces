@@ -3,22 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\CleanArchitecturePractice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9687B4FB-A7CE-4559-B878-7803F0BAEBD9}|..\\Application\\Application.csproj|c:\\users\\technolife\\source\\repos\\asp.net-pracitces\\asp.net practices(take serious)\\application\\car\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C7A6494F-80E1-4124-925F-C8D9007B07F4}|CleanArchitectureProject\\CleanArchitectureProject.csproj|c:\\users\\technolife\\source\\repos\\asp.net-pracitces\\asp.net practices(take serious)\\cleanarchitecturepractice\\cleanarchitectureproject\\views\\car\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7A6494F-80E1-4124-925F-C8D9007B07F4}|CleanArchitectureProject\\CleanArchitectureProject.csproj|solutionrelative:cleanarchitectureproject\\views\\car\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7FAE9F2-7AF9-404C-A6AC-780416079D51}|Application.Contract\\Application.Contract.csproj|c:\\users\\technolife\\source\\repos\\asp.net-pracitces\\asp.net practices(take serious)\\cleanarchitecturepractice\\application.contract\\car\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7FAE9F2-7AF9-404C-A6AC-780416079D51}|Application.Contract\\Application.Contract.csproj|solutionrelative:application.contract\\car\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7FAE9F2-7AF9-404C-A6AC-780416079D51}|Application.Contract\\Application.Contract.csproj|c:\\users\\technolife\\source\\repos\\asp.net-pracitces\\asp.net practices(take serious)\\cleanarchitecturepractice\\application.contract\\cartype\\cartypeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7FAE9F2-7AF9-404C-A6AC-780416079D51}|Application.Contract\\Application.Contract.csproj|solutionrelative:application.contract\\cartype\\cartypeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7FAE9F2-7AF9-404C-A6AC-780416079D51}|Application.Contract\\Application.Contract.csproj|c:\\users\\technolife\\source\\repos\\asp.net-pracitces\\asp.net practices(take serious)\\cleanarchitecturepractice\\application.contract\\cartype\\icartypesevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7FAE9F2-7AF9-404C-A6AC-780416079D51}|Application.Contract\\Application.Contract.csproj|solutionrelative:application.contract\\cartype\\icartypesevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84566FB1-E48B-405F-B30F-2A1E33444070}|..\\Domain\\Domain.csproj|c:\\users\\technolife\\source\\repos\\asp.net-pracitces\\asp.net practices(take serious)\\domain\\cartypeagg\\cartype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C7A6494F-80E1-4124-925F-C8D9007B07F4}|CleanArchitectureProject\\CleanArchitectureProject.csproj|c:\\users\\technolife\\source\\repos\\asp.net-pracitces\\asp.net practices(take serious)\\cleanarchitecturepractice\\cleanarchitectureproject\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7A6494F-80E1-4124-925F-C8D9007B07F4}|CleanArchitectureProject\\CleanArchitectureProject.csproj|solutionrelative:cleanarchitectureproject\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,76 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ICarTypeSevice.cs",
-              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\CleanArchitecturePractice\\Application.Contract\\CarType\\ICarTypeSevice.cs",
-              "RelativeDocumentMoniker": "Application.Contract\\CarType\\ICarTypeSevice.cs",
-              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\CleanArchitecturePractice\\Application.Contract\\CarType\\ICarTypeSevice.cs",
-              "RelativeToolTip": "Application.Contract\\CarType\\ICarTypeSevice.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-19T11:55:01.98Z",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\CleanArchitecturePractice\\CleanArchitectureProject\\Views\\Car\\Create.cshtml",
+              "RelativeDocumentMoniker": "CleanArchitectureProject\\Views\\Car\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\CleanArchitecturePractice\\CleanArchitectureProject\\Views\\Car\\Create.cshtml*",
+              "RelativeToolTip": "CleanArchitectureProject\\Views\\Car\\Create.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-21T13:28:26.819Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ICarService.cs",
-              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\CleanArchitecturePractice\\Application.Contract\\Car\\ICarService.cs",
-              "RelativeDocumentMoniker": "Application.Contract\\Car\\ICarService.cs",
-              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\CleanArchitecturePractice\\Application.Contract\\Car\\ICarService.cs",
-              "RelativeToolTip": "Application.Contract\\Car\\ICarService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "CarController.cs",
+              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\CleanArchitecturePractice\\CleanArchitectureProject\\Controllers\\CarController.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureProject\\Controllers\\CarController.cs",
+              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\CleanArchitecturePractice\\CleanArchitectureProject\\Controllers\\CarController.cs",
+              "RelativeToolTip": "CleanArchitectureProject\\Controllers\\CarController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAD4vxgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-19T11:54:48.781Z",
+              "WhenOpened": "2026-07-21T13:26:53.394Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CarService.cs",
-              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\Application\\Car\\CarService.cs",
-              "RelativeDocumentMoniker": "..\\Application\\Car\\CarService.cs",
-              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\Application\\Car\\CarService.cs",
-              "RelativeToolTip": "..\\Application\\Car\\CarService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-19T11:54:46.641Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CarTypeViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\CleanArchitecturePractice\\Application.Contract\\CarType\\CarTypeViewModel.cs",
-              "RelativeDocumentMoniker": "Application.Contract\\CarType\\CarTypeViewModel.cs",
-              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\CleanArchitecturePractice\\Application.Contract\\CarType\\CarTypeViewModel.cs",
-              "RelativeToolTip": "Application.Contract\\CarType\\CarTypeViewModel.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-19T11:52:35.509Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CarType.cs",
-              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\Domain\\CarTypeAgg\\CarType.cs",
-              "RelativeDocumentMoniker": "..\\Domain\\CarTypeAgg\\CarType.cs",
-              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\Domain\\CarTypeAgg\\CarType.cs",
-              "RelativeToolTip": "..\\Domain\\CarTypeAgg\\CarType.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-19T11:52:21.774Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             }
           ]
         }

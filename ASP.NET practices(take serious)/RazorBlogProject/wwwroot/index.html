@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Razor Template</title>
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
+        integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body class="dir-rtl">
+
+    <div class="container-fluid">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <a class="navbar-brand" href="#">RazorPages</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01"
+                aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarColor01">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="index.html">صفحه اصلی <span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="create-article.html">ایجاد مقاله</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+
+        <div class="jumbotron jumbotron-fluid">
+            <div class="container">
+                <h1 class="display-4">آموزش Razor Pages</h1>
+                <p class="lead">
+                    در این بخض به آموزش Razor Pages در ASP.NET Core 5 به زبان ساده و به همراه یک مثال کاربردی می
+                    پردازیم.
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-12 mb-3">
+                <div class="row">
+                    <div class="border-bottom col-3 ml-auto mr-auto text-center">
+                        <h2>تازه ترین مقالات</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="col-4 mb-2">
+                <div class="card">
+                    <img src="./images/lenz.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">عنوان مقاله</h5>
+                        <p class="card-text">
+                            لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است
+                        </p>
+                        <a href="./article-details.html" class="btn btn-primary">ادامه مطلب</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-4 mb-2">
+                <div class="card">
+                    <img src="./images/camp.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">عنوان مقاله</h5>
+                        <p class="card-text">
+                            لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است
+                        </p>
+                        <a href="#" class="btn btn-primary">ادامه مطلب</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-4 mb-2">
+                <div class="card">
+                    <img src="./images/phanoos.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">عنوان مقاله</h5>
+                        <p class="card-text">
+                            لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است
+                        </p>
+                        <a href="#" class="btn btn-primary">ادامه مطلب</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-4 mb-2">
+                <div class="card">
+                    <img src="./images/photography.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">عنوان مقاله</h5>
+                        <p class="card-text">
+                            لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است
+                        </p>
+                        <a href="#" class="btn btn-primary">ادامه مطلب</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-4 mb-2">
+                <div class="card">
+                    <img src="./images/cityinlenz.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">عنوان مقاله</h5>
+                        <p class="card-text">
+                            لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است
+                        </p>
+                        <a href="#" class="btn btn-primary">ادامه مطلب</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-4 mb-2">
+                <div class="card">
+                    <img src="./images/camp.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">عنوان مقاله</h5>
+                        <p class="card-text">
+                            لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است
+                        </p>
+                        <a href="#" class="btn btn-primary">ادامه مطلب</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer class="bg-dark mt-5">
+        <div class="text-center text-light py-3">تمامی حقوق برای 
+            <a href="#" target="blank"> خودم</a> محفوظ است.
+        </div>
+    </footer>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous">
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous">
+    </script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"
+        integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous">
+    </script>
+
+</body>
+
+</html>

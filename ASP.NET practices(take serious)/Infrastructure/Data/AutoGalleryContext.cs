@@ -9,7 +9,7 @@ using Domain.CarTypeAgg;
 
 namespace Infrastructure.Data
 {
-    internal class AutoGalleryContext : DbContext
+    public class AutoGalleryContext : DbContext
     {
         public AutoGalleryContext(DbContextOptions<AutoGalleryContext> options)
             : base(options)
