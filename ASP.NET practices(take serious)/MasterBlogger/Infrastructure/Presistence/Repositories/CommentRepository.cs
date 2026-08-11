@@ -13,5 +13,6 @@ namespace Infrastructure.Presistence.Repositories
         public CommentRepository(MasterBloggerContext context) : base(context)
         {
         }
+
     }
 }

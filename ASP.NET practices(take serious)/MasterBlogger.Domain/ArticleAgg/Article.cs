@@ -32,9 +32,10 @@ namespace Domain.ArticleAgg
         public int ArticleCategoryId { get; set; }
         public ArticleCategory ArticleCategory { get; set; }
         public ICollection<Comment> Comments { get; set; } = new List<Comment>();
-        public void Edit(string title)
+        public void Edit(string title, string content)
         { 
             Title = title;
+            Content = content;
         }
         public void Delete()
         {
