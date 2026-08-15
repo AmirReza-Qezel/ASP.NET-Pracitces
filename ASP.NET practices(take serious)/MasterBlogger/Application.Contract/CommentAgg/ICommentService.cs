@@ -6,6 +6,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Application.Contract.CommentAgg.Commands___DTOs;
 
 namespace Application.Contract.CommentAgg
 {
@@ -17,8 +18,8 @@ namespace Application.Contract.CommentAgg
             CancellationToken cancellationToken = default);
         Task Delete(DeleteCommentCommand delete,
             CancellationToken cancellationToken = default);
-        Task<Article> GetByIdAsync(int id,
+        Task<CommentDTO> GetByIdAsync(int id,
             CancellationToken cancellationToken = default);
-        Task<IReadOnlyList<Article>> GetAllAsync(CancellationToken cancellationToken = default);
+        Task<IReadOnlyList<CommentDTO>> GetAllAsync(CancellationToken cancellationToken = default);
     }
 }

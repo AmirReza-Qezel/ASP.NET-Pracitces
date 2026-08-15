@@ -18,14 +18,27 @@ namespace Domain.CommentAgg
         }
 
         public int Id { get; set; }
+        public string AuthorName { get; set; } = null!;
 
-        public string Content { get; set; }
+        public string Content { get; set; } = null!;
 
         public DateTime CreationDate { get; set; }
 
-        public string AuthorName { get; set; }
-
+        public bool IsDeleted { get; set; }
         public int ArticleId { get; set; }
         public Article Article { get; set; } = null!;
+
+        public void Edit(string content)
+        {
+            Content = content;
+        }
+        public void Delete()
+        {
+            IsDeleted = true;
+        }
+        public void Activate()
+        {
+            IsDeleted = false;
+        }
     }
 }

@@ -1,4 +1,5 @@
 ﻿using Application.Contract.ArticleAgg.Commands;
+using Application.Contract.ArticleAgg.Commands___DTOs;
 using Domain.ArticleAgg;
 using System;
 using System.Collections.Generic;
@@ -16,8 +17,8 @@ namespace Application.Contract.ArticleAgg
             CancellationToken cancellationToken = default);
         Task Delete(DeleteArticleCommand delete,
             CancellationToken cancellationToken = default);
-        Task<Article> GetByIdAsync(int id,
+        Task<ArticleDTO> GetByIdAsync(int id,
             CancellationToken cancellationToken = default);
-        Task<IReadOnlyList<Article>> GetAllAsync(CancellationToken cancellationToken = default);
+        Task<IReadOnlyList<ArticleDTO>> GetAllAsync(CancellationToken cancellationToken = default);
     }
 }

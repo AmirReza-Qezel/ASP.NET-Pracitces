@@ -29,6 +29,19 @@ namespace Domain.JournalistAgg
         public bool IsDeleted { get; set; }
         public DateTime MembershipDate { get; set; }
         public ICollection<Article> Articles { get; set; }
+        public void Edit(string firstName, string lastName)
+        {
+            FirstName = firstName;
+            LastName = lastName;
+        }
+        public void Delete()
+        {
+            IsDeleted = true;
+        }
+        public void Activate()
+        {
+            IsDeleted = false;
+        }
 
     }
 }

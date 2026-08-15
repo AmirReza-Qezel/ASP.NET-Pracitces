@@ -22,5 +22,17 @@ namespace Domain.ArticleCategoryAgg
         public DateTime CreationDate { get; set; }
 
         public ICollection<Article> Articles { get; set; }
+        public void Edit(string title)
+        {
+            Title = title;
+        }
+        public void Delete()
+        {
+            IsDeleted = true;
+        }
+        public void Activate()
+        {
+            IsDeleted = false;
+        }
     }
 }

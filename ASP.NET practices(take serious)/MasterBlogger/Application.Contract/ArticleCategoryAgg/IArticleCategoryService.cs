@@ -6,6 +6,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Domain.ArticleCategoryAgg;
+using Application.Contract.ArticleCategoryAgg.Commands___DTOs;
 
 namespace Application.Contract.ArticleCategoryAgg
 {
@@ -17,8 +19,8 @@ namespace Application.Contract.ArticleCategoryAgg
             CancellationToken cancellationToken = default);
         Task Delete(DeleteArticleCategoryCommand delete,
             CancellationToken cancellationToken = default);
-        Task<Article> GetByIdAsync(int id,
+        Task<ArticleCategoryDTO> GetByIdAsync(int id,
             CancellationToken cancellationToken = default);
-        Task<IReadOnlyList<Article>> GetAllAsync(CancellationToken cancellationToken = default);
+        Task<IReadOnlyList<ArticleCategoryDTO>> GetAllAsync(CancellationToken cancellationToken = default);
     }
 }

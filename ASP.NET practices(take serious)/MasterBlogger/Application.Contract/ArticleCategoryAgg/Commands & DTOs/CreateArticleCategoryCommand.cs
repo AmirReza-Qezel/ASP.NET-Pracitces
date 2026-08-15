@@ -9,5 +9,6 @@ namespace Application.Contract.ArticleAgg.Commands
     public class CreateArticleCategoryCommand
     {
         public string Title { get; set; } = null!;
+        public string Content { get; set; } = null!;
     }
 }
