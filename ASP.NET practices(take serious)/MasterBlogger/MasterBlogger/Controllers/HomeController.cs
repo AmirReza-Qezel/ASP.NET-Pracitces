@@ -1,3 +1,4 @@
+using Application.ArticleAgg;
 using MasterBlogger.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
@@ -6,6 +7,7 @@ namespace MasterBlogger.Controllers
 {
     public class HomeController : Controller
     {
+        private readonly ArticleService _articleService;
         private readonly ILogger<HomeController> _logger;
 
         public HomeController(ILogger<HomeController> logger)
@@ -15,7 +17,8 @@ namespace MasterBlogger.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            var articles = _articleService.GetAllAsync();
+            return View(articles);
         }
 
         public IActionResult Privacy()

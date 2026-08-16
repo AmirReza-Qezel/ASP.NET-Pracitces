@@ -1,0 +1,72 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<div class="mb-3">
+    <a href="/Articles" class="btn btn-outline-secondary">
+        <i class="bi bi-arrow-left"></i> Back to List
+    </a>
+</div>
+
+<div class="card shadow-sm">
+    <div class="card-header bg-primary text-white">
+        <h3 class="card-title mb-0"><i class="bi bi-pencil"></i> Edit Article</h3>
+    </div>
+    <div class="card-body">
+        <form action="/Articles/Edit" method="post">
+            <!-- Hidden ID field -->
+            <input type="hidden" id="Id" name="Id" value="1" />
+
+            <!-- Validation summary -->
+            <div class="alert alert-danger" style="display:none;">
+                <!-- Validation errors go here -->
+            </div>
+
+            <div class="mb-3">
+                <label for="Title" class="form-label fw-bold">Title</label>
+                <input type="text" id="Title" name="Title" class="form-control" placeholder="Enter article title..." value="Sample Title" />
+                <span class="text-danger" id="Title-error"></span>
+            </div>
+
+            <div class="mb-3">
+                <label for="Content" class="form-label fw-bold">Content</label>
+                <textarea id="Content" name="Content" class="form-control" rows="8"
+                          placeholder="Write your article content here...">Sample content</textarea>
+                <span class="text-danger" id="Content-error"></span>
+            </div>
+
+            <div class="mb-3">
+                <label for="CategoryId" class="form-label fw-bold">Category</label>
+                <select id="CategoryId" name="CategoryId" class="form-select">
+                    <option value="">Select a category...</option>
+                    <option value="1" selected>Technology</option>
+                    <option value="2">Business</option>
+                    <option value="3">Health</option>
+                    <option value="4">Education</option>
+                </select>
+                <span class="text-danger" id="CategoryId-error"></span>
+            </div>
+
+            <div class="mb-3 form-check">
+                <input type="checkbox" id="IsPublished" name="IsPublished" class="form-check-input" />
+                <label for="IsPublished" class="form-check-label fw-bold">
+                    <i class="bi bi-globe"></i> Publish this article
+                </label>
+                <span class="text-danger" id="IsPublished-error"></span>
+            </div>
+
+            <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+                <a href="/Articles/Details/1" class="btn btn-info">
+                    <i class="bi bi-eye"></i> View
+                </a>
+                <button type="reset" class="btn btn-secondary">
+                    <i class="bi bi-x-circle"></i> Reset
+                </button>
+                <button type="submit" class="btn btn-primary">
+                    <i class="bi bi-save"></i> Save Changes
+                </button>
+            </div>
+        </form>
+    </div>
+</div>

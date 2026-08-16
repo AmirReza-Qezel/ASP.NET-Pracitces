@@ -1,0 +1,51 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<div class="d-flex justify-content-between align-items-center mb-4">
+    <h2><i class="bi bi-newspaper"></i> Articles</h2>
+    <a href="/Articles/Create" class="btn btn-primary">
+        <i class="bi bi-plus-circle"></i> Create New Article
+    </a>
+</div>
+
+<!-- No articles message -->
+<div class="alert alert-info text-center">
+    <i class="bi bi-info-circle"></i> No articles found.
+    <a href="/Articles/Create">Create your first article</a>
+</div>
+
+<!-- Articles grid -->
+<div class="row">
+    <div class="col-md-6 col-lg-4 mb-4">
+        <div class="card h-100 shadow-sm">
+            <div class="card-body">
+                <h5 class="card-title">Article Title</h5>
+                <p class="card-text text-muted">
+                    Article content preview...
+                </p>
+                <div class="mb-2">
+                    <span class="badge bg-success">Published</span>
+                    <span class="badge bg-secondary">Category</span>
+                </div>
+                <small class="text-muted">
+                    <i class="bi bi-calendar"></i> Jan 01, 2024
+                </small>
+            </div>
+            <div class="card-footer bg-transparent">
+                <div class="btn-group w-100">
+                    <a href="#" class="btn btn-sm btn-outline-info">
+                        <i class="bi bi-eye"></i>
+                    </a>
+                    <a href="#" class="btn btn-sm btn-outline-primary">
+                        <i class="bi bi-pencil"></i>
+                    </a>
+                    <a href="#" class="btn btn-sm btn-outline-danger">
+                        <i class="bi bi-trash"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
