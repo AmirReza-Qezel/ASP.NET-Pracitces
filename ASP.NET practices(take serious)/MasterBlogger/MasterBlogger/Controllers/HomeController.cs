@@ -1,4 +1,5 @@
 using Application.ArticleAgg;
+using Application.Contract.ArticleAgg.Commands___DTOs;
 using MasterBlogger.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
@@ -15,10 +16,11 @@ namespace MasterBlogger.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            var articles = _articleService.GetAllAsync();
-            return View(articles);
+            var articles = await _articleService.GetAllAsync();
+            ViewBag.NoArticleFound = (articles == null || articles.Count() == 0);
+            return View(articles ?? new List<ArticleDTO>());
         }
 
         public IActionResult Privacy()

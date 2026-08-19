@@ -12,11 +12,12 @@ namespace Domain.ArticleAgg
 {
     public class Article
     {
-        public Article(string title,string content)
+        public Article(string title,string content,int articleCategoryId)
         {
             Title = title;
             Content = content;
             IsDeleted = false;
+            ArticleCategoryId = articleCategoryId;
             CreationDate = DateTime.Now;
         }
 

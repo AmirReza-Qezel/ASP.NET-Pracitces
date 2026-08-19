@@ -19,6 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\MasterBlogger.Domain\Domain.csproj" />
     <ProjectReference Include="..\Application\Application.csproj" />
   </ItemGroup>
 

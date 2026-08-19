@@ -12,12 +12,12 @@
     </a>
 </div>
 
-@if (!Model.Any())
+@if (ViewBag.NoArticleFound)
 {
 <!-- No articles message -->
 <div class="alert alert-info text-center">
     <i class="bi bi-info-circle"></i> No articles found.
-    <a href="/Articles/Create">Create your first article</a>
+    <a asp-controller="Article" asp-action="Create">Create your first article</a>
 </div>    
 }
 

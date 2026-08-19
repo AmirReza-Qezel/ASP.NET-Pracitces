@@ -10,5 +10,6 @@ namespace Application.Contract.ArticleAgg.Commands
     {
         public string Title { get; set; }
         public string Content { get; set; }
+        public int ArticleCategoryId { get; set; }
     }
 }

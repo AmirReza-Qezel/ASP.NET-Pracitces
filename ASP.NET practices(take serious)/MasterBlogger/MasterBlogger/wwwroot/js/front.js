@@ -102,4 +102,19 @@ $(document).ready(function () {
         $('.navbar-toggler').toggleClass('active');
     });
 
+    function resetForm() {
+        // Clear all input fields
+        document.querySelectorAll('input, textarea, select').forEach(element => {
+            if (element.tagName === 'SELECT') {
+                element.selectedIndex = 0; // Select first option
+            } else {
+                element.value = '';
+            }
+        });
+
+        // Clear validation errors
+        document.querySelectorAll('.text-danger').forEach(el => el.textContent = '');
+        document.querySelector('.alert-danger').style.display = 'none';
+    }
+
 });

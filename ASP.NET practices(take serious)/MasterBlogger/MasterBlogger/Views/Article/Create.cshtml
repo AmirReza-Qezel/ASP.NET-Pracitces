@@ -1,4 +1,6 @@
-﻿@*
+﻿@using Application.Contract.ArticleAgg.Commands
+@model CreateArticleCommand
+@*
     For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 *@
 @{
@@ -13,40 +15,45 @@
     <div class="card-header bg-success text-white">
         <h3 class="card-title mb-0"><i class="bi bi-plus-circle"></i> Create New Article</h3>
     </div>
+    @if (TempData["Success"] != null)
+    {
+        <div class="alert alert-success alert-dismissible fade show">
+            @TempData["Success"]
+            <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+        </div>
+    }
     <div class="card-body">
-        <form action="/Articles/Create" method="post">
+        <form asp-action="Create" method="post">
+            @Html.AntiForgeryToken()
             <!-- Validation summary -->
             <div class="alert alert-danger" style="display:none;">
-                <!-- Validation errors go here -->
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             </div>
 
-            <div class="mb-3">
-                <label for="Title" class="form-label fw-bold">Title</label>
-                <input type="text" id="Title" name="Title" class="form-control" placeholder="Enter article title..." />
-                <span class="text-danger" id="Title-error"></span>
+            <div class="form-group mb-3">
+                <label asp-for="Title" class="form-label fw-bold">Title</label>
+                <input asp-for="Title" class="form-control" placeholder="Enter article title..." />
+                <span asp-validation-for="Title" class="text-danger"></span>
             </div>
 
-            <div class="mb-3">
-                <label for="Content" class="form-label fw-bold">Content</label>
-                <textarea id="Content" name="Content" class="form-control" rows="8"
+            <div class="form-group mb-3">
+                <label asp-for="Content" class="form-label fw-bold">Content</label>
+                <textarea asp-for="Content" class="form-control" rows="8"
                           placeholder="Write your article content here..."></textarea>
-                <span class="text-danger" id="Content-error"></span>
+                <span asp-validation-for="Content" class="text-danger"></span>
             </div>
 
-            <div class="mb-3">
-                <label for="CategoryId" class="form-label fw-bold">Category</label>
-                <select id="CategoryId" name="CategoryId" class="form-select">
+            <div class="form-group mb-3">
+                <label asp-for="ArticleCategoryId" class="form-label fw-bold">Category</label>
+                <select asp-for="ArticleCategoryId" asp-items=@ViewBag.Categories class="form-select">
                     <option value="">Select a category...</option>
-                    <option value="1">Technology</option>
-                    <option value="2">Business</option>
-                    <option value="3">Health</option>
-                    <option value="4">Education</option>
+
                 </select>
                 <span class="text-danger" id="CategoryId-error"></span>
             </div>
 
             <div class="d-grid gap-2 d-md-flex justify-content-md-end">
-                <button type="reset" class="btn btn-secondary">
+                <button type="button" class="btn btn-secondary" onclick="resetForm()">
                     <i class="bi bi-x-circle"></i> Reset
                 </button>
                 <button type="submit" class="btn btn-success">
