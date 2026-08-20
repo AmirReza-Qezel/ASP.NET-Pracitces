@@ -1,4 +1,5 @@
 ﻿using Application.ArticleAgg;
+using Application.Common;
 using Application.Contract.ArticleAgg.Commands;
 using Application.Contract.ArticleAgg.Commands___DTOs;
 using Application.Contract.ArticleCategoryAgg;
@@ -56,6 +57,41 @@ namespace MasterBlogger.Controllers
         public IActionResult Edit()
         {
             return View();
+        }
+        [HttpGet]
+        public async Task<IActionResult> Delete(int id)
+        {
+            var article = await _articleService.GetByIdAsync(id);
+            return View(article);
+        }
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Delete(int id, bool confirm = true)
+        {
+            try
+            {
+                var article = await _articleService.GetByIdAsync(id);
+                if (article == null || article.Id <= 0)
+                {
+                    TempData["ArticleNotFound"] = "No article exists with this information";
+                    return RedirectToAction("Index");
+                }
+                await _articleService.Delete(new DeleteArticleCommand { Id = id });
+                TempData["Success"] = "Article was successfully removed";
+                return RedirectToAction("Index");
+            }
+            catch (NotFoundException ex)
+            {
+                TempData["Error"] = $"An error occurred : {ex.Message.Substring(0, 20)} ...";
+                return RedirectToAction("Index");
+            }
+            catch (Exception ex)
+            {
+                TempData["Error"] = $"An error occurred : {ex.Message.Substring(0, 20)} ...";
+                return RedirectToAction("Index");
+            }
+
+
         }
     }
 }

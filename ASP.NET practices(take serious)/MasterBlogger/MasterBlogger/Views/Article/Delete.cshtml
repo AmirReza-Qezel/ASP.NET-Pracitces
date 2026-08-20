@@ -1,10 +1,12 @@
-﻿@*
+﻿@model ArticleDTO
+@*
     For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 *@
 @{
+    ViewData["Title"] = "Delete Article";
 }
 <div class="mb-3">
-    <a href="/Articles" class="btn btn-outline-secondary">
+    <a asp-action="Index" class="btn btn-outline-secondary">
         <i class="bi bi-arrow-left"></i> Back to List
     </a>
 </div>
@@ -22,13 +24,13 @@
 
         <dl class="row">
             <dt class="col-sm-3">Title</dt>
-            <dd class="col-sm-9">Sample Article Title</dd>
+            <dd class="col-sm-9">@Model.Title</dd>
 
             <dt class="col-sm-3">Category</dt>
-            <dd class="col-sm-9">Technology</dd>
+            <dd class="col-sm-9">@Model.Category</dd>
 
             <dt class="col-sm-3">Author</dt>
-            <dd class="col-sm-9">John Doe</dd>
+            <dd class="col-sm-9">@Model.JournalistFullName</dd>
 
             <dt class="col-sm-3">Status</dt>
             <dd class="col-sm-9">
@@ -36,16 +38,17 @@
             </dd>
 
             <dt class="col-sm-3">Created</dt>
-            <dd class="col-sm-9">Jan 01, 2024</dd>
+            <dd class="col-sm-9">@Model.CreationDate.ToString("yyyy-MM-dd HH:mm")</dd>
         </dl>
 
-        <form action="/Articles/Delete/1" method="post">
-            <input type="hidden" name="id" value="1" />
+        <form asp-action="Delete" method="post">
+            @Html.AntiForgeryToken()
+            <input type="hidden" asp-for="Id" />
             <div class="d-grid gap-2 d-md-flex justify-content-md-end">
-                <a href="/Articles/Details/1" class="btn btn-info">
+                <a asp-action="Details" asp-controller="Article" class="btn btn-info">
                     <i class="bi bi-eye"></i> View
                 </a>
-                <button type="submit" class="btn btn-danger">
+                <button type="submit" class="btn btn-danger" onclick="return confirm('Are You Sure To Proceed ?')">
                     <i class="bi bi-trash"></i> Confirm Delete
                 </button>
             </div>

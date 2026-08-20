@@ -25,7 +25,7 @@ namespace Application.ArticleAgg
 
             if (string.IsNullOrWhiteSpace(create.Content))
                 throw new ValidationException("Content is required.");
-            var article = new Article(create.Title, create.Content);
+            var article = new Article(create.Title, create.Content, create.ArticleCategoryId);
             await _repository.AddAsync(article,cancellationToken);
             await _repository.SaveChangesAsync();
         }
@@ -55,8 +55,8 @@ namespace Application.ArticleAgg
         public async Task<ArticleDTO> GetByIdAsync(int id, CancellationToken cancellationToken = default)
         {
             var article = await _repository.GetByIdAsync(id);
-            if (article != null || article.IsDeleted)
-                throw new NotFoundException($"Article with ID of {id} was not found");
+            if (article == null || article.IsDeleted)
+                throw new NotFoundException($"Article with ID of {id} was not found or either is deleted");
             return _mapper.Map<ArticleDTO>(article);
         }
 
