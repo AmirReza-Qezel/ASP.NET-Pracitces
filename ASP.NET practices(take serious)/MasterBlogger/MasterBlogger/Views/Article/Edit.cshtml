@@ -1,4 +1,5 @@
-﻿@*
+﻿@model UpdateArticleCommand
+@*
     For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 *@
 @{
@@ -14,50 +15,38 @@
         <h3 class="card-title mb-0"><i class="bi bi-pencil"></i> Edit Article</h3>
     </div>
     <div class="card-body">
-        <form action="/Articles/Edit" method="post">
+        <form asp-action="Edit" method="post">
+            @Html.AntiForgeryToken()
             <!-- Hidden ID field -->
-            <input type="hidden" id="Id" name="Id" value="1" />
+            <input type="hidden" asp-for="Id" />
 
             <!-- Validation summary -->
-            <div class="alert alert-danger" style="display:none;">
-                <!-- Validation errors go here -->
+            <div asp-validation-summary="ModelOnly" class="alert alert-danger">
             </div>
 
             <div class="mb-3">
-                <label for="Title" class="form-label fw-bold">Title</label>
-                <input type="text" id="Title" name="Title" class="form-control" placeholder="Enter article title..." value="Sample Title" />
-                <span class="text-danger" id="Title-error"></span>
+                <label asp-for="Title" class="form-label fw-bold">Title</label>
+                <input type="text" asp-for="Title" class="form-control" placeholder=@Model.Title value="Sample Title" />
+                <span asp-validation-for="Title" class="text-danger"></span>
             </div>
 
             <div class="mb-3">
-                <label for="Content" class="form-label fw-bold">Content</label>
-                <textarea id="Content" name="Content" class="form-control" rows="8"
-                          placeholder="Write your article content here...">Sample content</textarea>
-                <span class="text-danger" id="Content-error"></span>
+                <label asp-for="Content" class="form-label fw-bold">Content</label>
+                <textarea asp-for="Content" class="form-control" rows="8"
+                placeholder=@Model.Content></textarea>
+                <span asp-validation-for="Content" id="Content-error"></span>
             </div>
 
             <div class="mb-3">
-                <label for="CategoryId" class="form-label fw-bold">Category</label>
-                <select id="CategoryId" name="CategoryId" class="form-select">
+                <label asp-for="ArticleCategoryId" class="form-label fw-bold">Category</label>
+                <select asp-for="ArticleCategoryId" class="form-select" asp-items="ViewBag.Categories">
                     <option value="">Select a category...</option>
-                    <option value="1" selected>Technology</option>
-                    <option value="2">Business</option>
-                    <option value="3">Health</option>
-                    <option value="4">Education</option>
                 </select>
-                <span class="text-danger" id="CategoryId-error"></span>
-            </div>
-
-            <div class="mb-3 form-check">
-                <input type="checkbox" id="IsPublished" name="IsPublished" class="form-check-input" />
-                <label for="IsPublished" class="form-check-label fw-bold">
-                    <i class="bi bi-globe"></i> Publish this article
-                </label>
-                <span class="text-danger" id="IsPublished-error"></span>
+                <span asp-validation-for="ArticleCategoryId" class="text-danger"></span>
             </div>
 
             <div class="d-grid gap-2 d-md-flex justify-content-md-end">
-                <a href="/Articles/Details/1" class="btn btn-info">
+                <a asp-action="Details" asp-route-id="@Model.Id" class="btn btn-info">
                     <i class="bi bi-eye"></i> View
                 </a>
                 <button type="reset" class="btn btn-secondary">
@@ -70,3 +59,9 @@
         </form>
     </div>
 </div>
+@section Scripts
+{
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

@@ -8,6 +8,7 @@ using Domain.ArticleCategoryAgg;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.AspNetCore.Mvc.ViewEngines;
+using System.Security.Cryptography.X509Certificates;
 
 namespace MasterBlogger.Controllers
 {
@@ -17,13 +18,12 @@ namespace MasterBlogger.Controllers
         private readonly IArticleCategoryService _categoryService;
         public async Task<IActionResult> Index()
         {
-            return RedirectToAction("Index","Home");
+            return RedirectToAction("Index", "Home");
         }
         [HttpGet]
         public async Task<IActionResult> Create()
         {
-            var categories = await _categoryService.GetAllAsync();
-            ViewBag.Categories = new SelectList(categories, nameof(ArticleCategory.Id), nameof(ArticleCategory.Title));
+            await LoadCategoryDropdown();
 
             return View(new CreateArticleCommand());
         }
@@ -33,30 +33,70 @@ namespace MasterBlogger.Controllers
         {
             if (!ModelState.IsValid)
             {
-                var categories = await _categoryService.GetAllAsync();
-                ViewBag.Categories = new SelectList(categories, nameof(ArticleCategory.Id),nameof(ArticleCategory.Title));
-                return View(article);
-            }
 
-            try
-            {
-                await _articleService.AddAsync(article);
-                TempData["Success"] = "Article created successfully!";
-                return RedirectToAction("Index", "Home");
+                try
+                {
+                    await _articleService.AddAsync(article);
+                    TempData["Success"] = "Article created successfully!";
+                    return RedirectToAction("Index", "Home");
+                }
+                catch (Exception ex)
+                {
+                    TempData["Error"] = "An error occurred  while creating the article";
+                    return RedirectToAction("Index");
+                }
             }
-            catch (Exception ex)
-            {
-                ModelState.AddModelError("", "An error occurred  while creating the article");
-                var categories = await _categoryService.GetAllAsync();
-                ViewBag.Categories = new SelectList(categories, nameof(ArticleCategory.Id), nameof(ArticleCategory.Title));
-                return View(article);
-            }
+            await LoadCategoryDropdown();
+            return View(article);
 
         }
         [HttpGet]
-        public IActionResult Edit()
+        public async Task<IActionResult> Edit(int id)
         {
-            return View();
+            try
+            {
+                var article = await _articleService.GetByIdAsync(id);
+                await LoadCategoryDropdown();
+                return View(article);
+            }
+            catch (NotFoundException nfex)
+            {
+                TempData["Error"] = "Article not found";
+                return RedirectToAction("Index");
+            }
+            catch (Exception ex)
+            {
+                TempData["Error"] = "An error occurred  while creating the article";
+                return RedirectToAction("Index");
+            }
+        }
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Edit(UpdateArticleCommand update)
+        {
+            if (ModelState.IsValid)
+            {
+                try
+                {
+                    await _articleService.Update(update);
+                    TempData["Success"] = "Article Added Successfully";
+                    return RedirectToAction("Index");
+                }
+                catch (NotFoundException nfex)
+                {
+                    TempData["Error"] = "Article not found";
+                    return RedirectToAction("Index");
+                }
+                catch (Exception ex)
+                {
+                    TempData["Error"] = "An error occurred  while creating the article";
+                    return RedirectToAction("Index");
+                }
+
+
+            }
+            await LoadCategoryDropdown();
+            return View(update);
         }
         [HttpGet]
         public async Task<IActionResult> Delete(int id)
@@ -71,27 +111,48 @@ namespace MasterBlogger.Controllers
             try
             {
                 var article = await _articleService.GetByIdAsync(id);
-                if (article == null || article.Id <= 0)
-                {
-                    TempData["ArticleNotFound"] = "No article exists with this information";
-                    return RedirectToAction("Index");
-                }
                 await _articleService.Delete(new DeleteArticleCommand { Id = id });
                 TempData["Success"] = "Article was successfully removed";
                 return RedirectToAction("Index");
             }
-            catch (NotFoundException ex)
+            catch (NotFoundException nfex)
             {
-                TempData["Error"] = $"An error occurred : {ex.Message.Substring(0, 20)} ...";
+                TempData["Error"] = "Article not found";
                 return RedirectToAction("Index");
             }
             catch (Exception ex)
             {
-                TempData["Error"] = $"An error occurred : {ex.Message.Substring(0, 20)} ...";
+                TempData["Error"] = "An error occurred  while creating the article";
                 return RedirectToAction("Index");
             }
 
+        }
+        [HttpGet]
+        public async Task<IActionResult> Details(int id)
+        {
+            try
+            {
+                var article = await _articleService.GetByIdAsync(id);
+                return View(article);
+            }
+            catch (NotFoundException nfex)
+            {
+                TempData["Error"] = "Article not found";
+                return RedirectToAction("Index");
+            }
+            catch (Exception ex)
+            {
+                TempData["Error"] = "An error occurred  while creating the article";
+                return RedirectToAction("Index");
+            }
 
         }
+        private async Task LoadCategoryDropdown(int? selectedId = null)
+        {
+            // Load categories from service
+            var categories = await _categoryService.GetAllAsync();
+            ViewBag.Categories = new SelectList(categories, "Id", "Name", selectedId);
+        }
+
     }
 }

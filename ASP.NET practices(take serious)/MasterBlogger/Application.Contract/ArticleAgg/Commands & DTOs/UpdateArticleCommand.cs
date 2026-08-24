@@ -1,7 +1,8 @@
 ﻿namespace Application.Contract.ArticleAgg.Commands
 {
-    public class UpdateArticleCommand : CreateArticleCategoryCommand
+    public class UpdateArticleCommand : CreateArticleCommand
     {
         public int Id { get; set; }
+
     }
 }
