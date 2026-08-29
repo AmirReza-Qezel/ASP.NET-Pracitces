@@ -1,4 +1,5 @@
 using Application.ArticleAgg;
+using Application.Contract.ArticleAgg;
 using Application.Contract.ArticleAgg.Commands___DTOs;
 using MasterBlogger.Models;
 using Microsoft.AspNetCore.Mvc;
@@ -8,11 +9,12 @@ namespace MasterBlogger.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ArticleService _articleService;
+        private readonly IArticleService _articleService;
         private readonly ILogger<HomeController> _logger;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(IArticleService articleService, ILogger<HomeController> logger)
         {
+            _articleService = articleService;
             _logger = logger;
         }
 

@@ -3,31 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\MasterBlogger\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{743897B8-F3F1-48EE-A7DD-FB5850BF5888}|MasterBlogger\\MasterBlogger.csproj|c:\\users\\technolife\\source\\repos\\asp.net-pracitces\\asp.net practices(take serious)\\masterblogger\\masterblogger\\views\\article\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{743897B8-F3F1-48EE-A7DD-FB5850BF5888}|MasterBlogger\\MasterBlogger.csproj|solutionrelative:masterblogger\\views\\article\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{743897B8-F3F1-48EE-A7DD-FB5850BF5888}|MasterBlogger\\MasterBlogger.csproj|c:\\users\\technolife\\source\\repos\\asp.net-pracitces\\asp.net practices(take serious)\\masterblogger\\masterblogger\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{743897B8-F3F1-48EE-A7DD-FB5850BF5888}|MasterBlogger\\MasterBlogger.csproj|solutionrelative:masterblogger\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{743897B8-F3F1-48EE-A7DD-FB5850BF5888}|MasterBlogger\\MasterBlogger.csproj|c:\\users\\technolife\\source\\repos\\asp.net-pracitces\\asp.net practices(take serious)\\masterblogger\\masterblogger\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{743897B8-F3F1-48EE-A7DD-FB5850BF5888}|MasterBlogger\\MasterBlogger.csproj|solutionrelative:masterblogger\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BD09434-75E2-46FE-8EA2-4E203B070D70}|Application.Contract\\Application.Contract.csproj|c:\\users\\technolife\\source\\repos\\asp.net-pracitces\\asp.net practices(take serious)\\masterblogger\\application.contract\\articleagg\\commands \u0026 dtos\\createarticlecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BD09434-75E2-46FE-8EA2-4E203B070D70}|Application.Contract\\Application.Contract.csproj|solutionrelative:application.contract\\articleagg\\commands \u0026 dtos\\createarticlecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0BBC8B72-C5D9-4C38-87FC-FD204E8FC634}|..\\MasterBlogger.Domain\\Domain.csproj|c:\\users\\technolife\\source\\repos\\asp.net-pracitces\\asp.net practices(take serious)\\masterblogger.domain\\articleagg\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{743897B8-F3F1-48EE-A7DD-FB5850BF5888}|MasterBlogger\\MasterBlogger.csproj|c:\\users\\technolife\\source\\repos\\asp.net-pracitces\\asp.net practices(take serious)\\masterblogger\\masterblogger\\views\\article\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{743897B8-F3F1-48EE-A7DD-FB5850BF5888}|MasterBlogger\\MasterBlogger.csproj|solutionrelative:masterblogger\\views\\article\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{743897B8-F3F1-48EE-A7DD-FB5850BF5888}|MasterBlogger\\MasterBlogger.csproj|c:\\users\\technolife\\source\\repos\\asp.net-pracitces\\asp.net practices(take serious)\\masterblogger\\masterblogger\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{743897B8-F3F1-48EE-A7DD-FB5850BF5888}|MasterBlogger\\MasterBlogger.csproj|solutionrelative:masterblogger\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DE6D8FF1-E59A-46E1-8A3F-82F7994F66E0}|Infrastructure\\Infrastructure.csproj|c:\\users\\technolife\\source\\repos\\asp.net-pracitces\\asp.net practices(take serious)\\masterblogger\\infrastructure\\presistence\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE6D8FF1-E59A-46E1-8A3F-82F7994F66E0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\presistence\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{71C4DCC6-9782-4077-B23E-8A4EEE2F52CB}|Application\\Application.csproj|c:\\users\\technolife\\source\\repos\\asp.net-pracitces\\asp.net practices(take serious)\\masterblogger\\application\\articleagg\\articleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,12 +15,19 @@
       "RelativeMoniker": "D:0:0:{743897B8-F3F1-48EE-A7DD-FB5850BF5888}|MasterBlogger\\MasterBlogger.csproj|solutionrelative:masterblogger\\controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{743897B8-F3F1-48EE-A7DD-FB5850BF5888}|MasterBlogger\\MasterBlogger.csproj|c:\\users\\technolife\\source\\repos\\asp.net-pracitces\\asp.net practices(take serious)\\masterblogger\\masterblogger\\views\\article\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{743897B8-F3F1-48EE-A7DD-FB5850BF5888}|MasterBlogger\\MasterBlogger.csproj|solutionrelative:masterblogger\\views\\article\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9BD09434-75E2-46FE-8EA2-4E203B070D70}|Application.Contract\\Application.Contract.csproj|c:\\users\\technolife\\source\\repos\\asp.net-pracitces\\asp.net practices(take serious)\\masterblogger\\application.contract\\articleagg\\commands \u0026 dtos\\articledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD09434-75E2-46FE-8EA2-4E203B070D70}|Application.Contract\\Application.Contract.csproj|solutionrelative:application.contract\\articleagg\\commands \u0026 dtos\\articledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{743897B8-F3F1-48EE-A7DD-FB5850BF5888}|MasterBlogger\\MasterBlogger.csproj|c:\\users\\technolife\\source\\repos\\asp.net-pracitces\\asp.net practices(take serious)\\masterblogger\\masterblogger\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{743897B8-F3F1-48EE-A7DD-FB5850BF5888}|MasterBlogger\\MasterBlogger.csproj|solutionrelative:masterblogger\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{743897B8-F3F1-48EE-A7DD-FB5850BF5888}|MasterBlogger\\MasterBlogger.csproj|c:\\users\\technolife\\source\\repos\\asp.net-pracitces\\asp.net practices(take serious)\\masterblogger\\masterblogger\\views\\article\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{743897B8-F3F1-48EE-A7DD-FB5850BF5888}|MasterBlogger\\MasterBlogger.csproj|solutionrelative:masterblogger\\views\\article\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71C4DCC6-9782-4077-B23E-8A4EEE2F52CB}|Application\\Application.csproj|c:\\users\\technolife\\source\\repos\\asp.net-pracitces\\asp.net practices(take serious)\\masterblogger\\application\\articleagg\\articlemappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71C4DCC6-9782-4077-B23E-8A4EEE2F52CB}|Application\\Application.csproj|solutionrelative:application\\articleagg\\articlemappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BBC8B72-C5D9-4C38-87FC-FD204E8FC634}|..\\MasterBlogger.Domain\\Domain.csproj|c:\\users\\technolife\\source\\repos\\asp.net-pracitces\\asp.net practices(take serious)\\masterblogger.domain\\articleagg\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,14 +42,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\MasterBlogger\\MasterBlogger\\Views\\Article\\Details.cshtml",
-              "RelativeDocumentMoniker": "MasterBlogger\\Views\\Article\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\MasterBlogger\\MasterBlogger\\Views\\Article\\Details.cshtml",
-              "RelativeToolTip": "MasterBlogger\\Views\\Article\\Details.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACwAAABmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-22T16:26:07.959Z",
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\MasterBlogger\\Infrastructure\\Presistence\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Presistence\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\MasterBlogger\\Infrastructure\\Presistence\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Infrastructure\\Presistence\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T12:56:50.74Z",
               "EditorCaption": ""
             },
             {
@@ -74,132 +58,81 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\MasterBlogger\\MasterBlogger\\Views\\Article\\Delete.cshtml",
-              "RelativeDocumentMoniker": "MasterBlogger\\Views\\Article\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\MasterBlogger\\MasterBlogger\\Views\\Article\\Delete.cshtml",
-              "RelativeToolTip": "MasterBlogger\\Views\\Article\\Delete.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAADIAAABvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-20T11:30:05.961Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ArticleController.cs",
-              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\MasterBlogger\\MasterBlogger\\Controllers\\ArticleController.cs",
-              "RelativeDocumentMoniker": "MasterBlogger\\Controllers\\ArticleController.cs",
-              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\MasterBlogger\\MasterBlogger\\Controllers\\ArticleController.cs",
-              "RelativeToolTip": "MasterBlogger\\Controllers\\ArticleController.cs",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAwwGAAAAAuAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "ArticleMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\MasterBlogger\\Application\\ArticleAgg\\ArticleMappingProfile.cs",
+              "RelativeDocumentMoniker": "Application\\ArticleAgg\\ArticleMappingProfile.cs",
+              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\MasterBlogger\\Application\\ArticleAgg\\ArticleMappingProfile.cs",
+              "RelativeToolTip": "Application\\ArticleAgg\\ArticleMappingProfile.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAWwBAAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-18T17:48:50.3Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ArticleService.cs",
-              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\MasterBlogger\\Application\\ArticleAgg\\ArticleService.cs",
-              "RelativeDocumentMoniker": "Application\\ArticleAgg\\ArticleService.cs",
-              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\MasterBlogger\\Application\\ArticleAgg\\ArticleService.cs",
-              "RelativeToolTip": "Application\\ArticleAgg\\ArticleService.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAtwDoAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-20T10:10:07.316Z",
+              "WhenOpened": "2026-08-26T09:46:55.555Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\MasterBlogger\\MasterBlogger\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "MasterBlogger\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\MasterBlogger\\MasterBlogger\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "MasterBlogger\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-19T11:45:23.674Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\MasterBlogger\\MasterBlogger\\Views\\Article\\Create.cshtml",
-              "RelativeDocumentMoniker": "MasterBlogger\\Views\\Article\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\MasterBlogger\\MasterBlogger\\Views\\Article\\Create.cshtml",
-              "RelativeToolTip": "MasterBlogger\\Views\\Article\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-19T11:19:30.166Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Article.cs",
               "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\MasterBlogger.Domain\\ArticleAgg\\Article.cs",
               "RelativeDocumentMoniker": "..\\MasterBlogger.Domain\\ArticleAgg\\Article.cs",
               "ToolTip": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\MasterBlogger.Domain\\ArticleAgg\\Article.cs",
               "RelativeToolTip": "..\\MasterBlogger.Domain\\ArticleAgg\\Article.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAcwBMAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAA8wCQAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-18T19:19:11.973Z",
+              "WhenOpened": "2026-08-26T09:45:40.141Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CreateArticleCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\MasterBlogger\\Application.Contract\\ArticleAgg\\Commands \u0026 DTOs\\CreateArticleCommand.cs",
-              "RelativeDocumentMoniker": "Application.Contract\\ArticleAgg\\Commands \u0026 DTOs\\CreateArticleCommand.cs",
-              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\MasterBlogger\\Application.Contract\\ArticleAgg\\Commands \u0026 DTOs\\CreateArticleCommand.cs",
-              "RelativeToolTip": "Application.Contract\\ArticleAgg\\Commands \u0026 DTOs\\CreateArticleCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Title": "ArticleDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\MasterBlogger\\Application.Contract\\ArticleAgg\\Commands \u0026 DTOs\\ArticleDTO.cs",
+              "RelativeDocumentMoniker": "Application.Contract\\ArticleAgg\\Commands \u0026 DTOs\\ArticleDTO.cs",
+              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\MasterBlogger\\Application.Contract\\ArticleAgg\\Commands \u0026 DTOs\\ArticleDTO.cs",
+              "RelativeToolTip": "Application.Contract\\ArticleAgg\\Commands \u0026 DTOs\\ArticleDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-18T19:12:47.689Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\MasterBlogger\\MasterBlogger\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "MasterBlogger\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\MasterBlogger\\MasterBlogger\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "MasterBlogger\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-16T19:24:05.495Z",
+              "WhenOpened": "2026-08-26T09:44:28.6Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\MasterBlogger\\MasterBlogger\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "MasterBlogger\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\MasterBlogger\\MasterBlogger\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "MasterBlogger\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-20T11:30:59.736Z",
+              "Title": "ArticleService.cs",
+              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\MasterBlogger\\Application\\ArticleAgg\\ArticleService.cs",
+              "RelativeDocumentMoniker": "Application\\ArticleAgg\\ArticleService.cs",
+              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\MasterBlogger\\Application\\ArticleAgg\\ArticleService.cs",
+              "RelativeToolTip": "Application\\ArticleAgg\\ArticleService.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwEsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T09:23:27.122Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\MasterBlogger\\MasterBlogger\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "MasterBlogger\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\MasterBlogger\\MasterBlogger\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "MasterBlogger\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ArticleController.cs",
+              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\MasterBlogger\\MasterBlogger\\Controllers\\ArticleController.cs",
+              "RelativeDocumentMoniker": "MasterBlogger\\Controllers\\ArticleController.cs",
+              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\MasterBlogger\\MasterBlogger\\Controllers\\ArticleController.cs",
+              "RelativeToolTip": "MasterBlogger\\Controllers\\ArticleController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAIwE8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T09:21:57.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\MasterBlogger\\MasterBlogger\\Views\\Article\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MasterBlogger\\Views\\Article\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\ASP.NET-Pracitces\\ASP.NET practices(take serious)\\MasterBlogger\\MasterBlogger\\Views\\Article\\Edit.cshtml",
+              "RelativeToolTip": "MasterBlogger\\Views\\Article\\Edit.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-16T19:08:16.392Z"
+              "WhenOpened": "2026-08-26T09:21:46.286Z",
+              "EditorCaption": ""
             }
           ]
         }

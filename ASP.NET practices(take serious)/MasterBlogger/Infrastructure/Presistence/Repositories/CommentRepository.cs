@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Infrastructure.Presistence.Repositories
 {
-    public class CommentRepository : Repository<Article>
+    public class CommentRepository : Repository<Comment>
     {
         public CommentRepository(MasterBloggerContext context) : base(context)
         {

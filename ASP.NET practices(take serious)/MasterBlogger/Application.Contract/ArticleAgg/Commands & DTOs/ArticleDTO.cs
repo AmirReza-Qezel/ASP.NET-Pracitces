@@ -15,5 +15,6 @@ namespace Application.Contract.ArticleAgg.Commands___DTOs
         public DateTime CreationDate { get; set; }
         public string? JournalistFullName { get; set; }
         public string? Category { get; set; }
+        public int ArticleCategoryId { get; set; }
     }
 }

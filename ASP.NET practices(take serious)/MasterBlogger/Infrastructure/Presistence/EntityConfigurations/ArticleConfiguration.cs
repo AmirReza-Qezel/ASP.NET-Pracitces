@@ -16,7 +16,7 @@ namespace Infrastructure.Presistence.EntityConfigurations
             builder.HasKey(x => x.Id);
             builder.Property(a => a.Title).IsRequired().HasMaxLength(100);
             builder.Property(a => a.Content).IsRequired().HasColumnType("nvarchar(max)");
-            builder.Property(a => a.CreationDate).HasDefaultValue("GETDATE()");
+            builder.Property(a => a.CreationDate).HasDefaultValueSql("GETDATE()");
 
             builder.HasOne(a => a.Journalist)
                 .WithMany(j => j.Articles)

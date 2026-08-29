@@ -1,0 +1,219 @@
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\vendor\bootstrap\js\bootstrap.bundle.min.js
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\vendor\popper.js\popper.min.js
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\vendor\font-awesome\fonts\FontAwesome.otf
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\vendor\jquery.cookie\cookie.jquery.json
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\vendor\jquery\jquery.js
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\css\style.violet.css
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\lib\jquery\dist\jquery.min.js
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\vendor\font-awesome\fonts\fontawesome-webfont.svg
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\vendor\font-awesome\HELP-US-OUT.txt
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\vendor\jquery\jquery.slim.js
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\css\style.green.css
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\vendor\jquery.cookie\component.json
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\vendor\popper.js\popper-utils.js
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\lib\jquery\dist\jquery.js
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\vendor\popper.js\umd\popper-utils.js
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\vendor\@fancyapps\fancybox\jquery.fancybox.js
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\vendor\popper.js\esm\popper.js
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\vendor\bootstrap\css\bootstrap-grid.css
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\vendor\@fancyapps\fancybox\jquery.fancybox.css
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\vendor\popper.js\esm\popper-utils.min.js
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\css\style.sea.css
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\icons-reference\icons-reference.html
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\vendor\jquery\jquery.min.js
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\vendor\bootstrap\js\bootstrap.bundle.js
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\vendor\jquery.cookie\MIT-LICENSE.txt
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\vendor\@fancyapps\fancybox\jquery.fancybox.min.js
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\vendor\popper.js\umd\popper-utils.min.js
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\vendor\bootstrap\css\bootstrap-reboot.min.css
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\vendor\@fancyapps\fancybox\jquery.fancybox.min.css
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\icons-reference\fonts\blog.svg
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\lib\jquery-validation\LICENSE.md
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\lib\jquery\LICENSE.txt
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\vendor\jquery\core.js
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\js\front.js
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\vendor\jquery.cookie\jquery.cookie.js
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\vendor\bootstrap\css\bootstrap.min.css
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\vendor\bootstrap\css\bootstrap-reboot.css
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\vendor\bootstrap\js\bootstrap.min.js
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\vendor\popper.js\umd\popper.min.js
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\vendor\jquery\jquery.slim.min.js
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\lib\jquery\dist\jquery.min.map
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\vendor\bootstrap\js\bootstrap.js
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\fonts\blog.svg
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\img\favicon.ico
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\css\fontastic.css
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\vendor\popper.js\popper-utils.min.js
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\vendor\popper.js\umd\popper.js
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\css\custom.css
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\vendor\bootstrap\css\bootstrap.css
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\favicon.ico
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\css\style.pink.css
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\vendor\popper.js\esm\popper-utils.js
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\icons-reference\styles.css
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\vendor\popper.js\esm\popper.min.js
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\css\style.blue.css
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\vendor\popper.js\popper.js
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\img\user.svg
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\css\style.red.css
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\vendor\bootstrap\css\bootstrap-grid.min.css
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\vendor\font-awesome\css\font-awesome.min.css
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\lib\jquery-validation\dist\additional-methods.js
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\css\style.default.css
+C:\Users\Technolife\source\repos\ASP.NET-Pracitces\ASP.NET practices(take serious)\MasterBlogger\MasterBlogger\wwwroot\vendor\font-awesome\css\font-awesome.css
+wwwroot\css\custom.css
+wwwroot\css\fontastic.css
+wwwroot\css\style.blue.css
+wwwroot\css\style.default.css
+wwwroot\css\style.green.css
+wwwroot\css\style.pink.css
+wwwroot\css\style.red.css
+wwwroot\css\style.sea.css
+wwwroot\css\style.violet.css
+wwwroot\favicon.ico
+wwwroot\fonts\blog.eot
+wwwroot\fonts\blog.svg
+wwwroot\fonts\blog.ttf
+wwwroot\fonts\blog.woff
+wwwroot\icons-reference\fonts\blog.eot
+wwwroot\icons-reference\fonts\blog.svg
+wwwroot\icons-reference\fonts\blog.ttf
+wwwroot\icons-reference\fonts\blog.woff
+wwwroot\icons-reference\icons-reference.html
+wwwroot\icons-reference\styles.css
+wwwroot\img\avatar-1.jpg
+wwwroot\img\avatar-2.jpg
+wwwroot\img\avatar-3.jpg
+wwwroot\img\blog-1.jpg
+wwwroot\img\blog-2.jpg
+wwwroot\img\blog-3.jpg
+wwwroot\img\blog-post-1.jpeg
+wwwroot\img\blog-post-2.jpg
+wwwroot\img\blog-post-3.jpeg
+wwwroot\img\blog-post-4.jpeg
+wwwroot\img\blog-post-5.jpg
+wwwroot\img\blog-post-6.jpeg
+wwwroot\img\divider-bg.jpg
+wwwroot\img\favicon.ico
+wwwroot\img\featured-pic-1.jpeg
+wwwroot\img\featured-pic-2.jpeg
+wwwroot\img\featured-pic-3.jpeg
+wwwroot\img\gallery-1.jpg
+wwwroot\img\gallery-2.jpeg
+wwwroot\img\gallery-2.jpg
+wwwroot\img\gallery-3.jpg
+wwwroot\img\gallery-4.jpg
+wwwroot\img\hero.jpg
+wwwroot\img\hero-bg.jpg
+wwwroot\img\logo.png
+wwwroot\img\logo-white.png
+wwwroot\img\small-thumbnail-1.jpg
+wwwroot\img\small-thumbnail-2.jpg
+wwwroot\img\small-thumbnail-3.jpg
+wwwroot\img\template-mac.png
+wwwroot\img\user.svg
+wwwroot\js\front.js
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery\dist\jquery.js
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\lib\jquery\dist\jquery.min.map
+wwwroot\lib\jquery\LICENSE.txt
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
+wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\vendor\@fancyapps\fancybox\jquery.fancybox.css
+wwwroot\vendor\@fancyapps\fancybox\jquery.fancybox.js
+wwwroot\vendor\@fancyapps\fancybox\jquery.fancybox.min.css
+wwwroot\vendor\@fancyapps\fancybox\jquery.fancybox.min.js
+wwwroot\vendor\bootstrap\css\bootstrap.css
+wwwroot\vendor\bootstrap\css\bootstrap.min.css
+wwwroot\vendor\bootstrap\css\bootstrap-grid.css
+wwwroot\vendor\bootstrap\css\bootstrap-grid.min.css
+wwwroot\vendor\bootstrap\css\bootstrap-reboot.css
+wwwroot\vendor\bootstrap\css\bootstrap-reboot.min.css
+wwwroot\vendor\bootstrap\js\bootstrap.bundle.js
+wwwroot\vendor\bootstrap\js\bootstrap.bundle.min.js
+wwwroot\vendor\bootstrap\js\bootstrap.js
+wwwroot\vendor\bootstrap\js\bootstrap.min.js
+wwwroot\vendor\font-awesome\css\font-awesome.css
+wwwroot\vendor\font-awesome\css\font-awesome.min.css
+wwwroot\vendor\font-awesome\fonts\FontAwesome.otf
+wwwroot\vendor\font-awesome\fonts\fontawesome-webfont.eot
+wwwroot\vendor\font-awesome\fonts\fontawesome-webfont.svg
+wwwroot\vendor\font-awesome\fonts\fontawesome-webfont.ttf
+wwwroot\vendor\font-awesome\fonts\fontawesome-webfont.woff
+wwwroot\vendor\font-awesome\fonts\fontawesome-webfont.woff2
+wwwroot\vendor\font-awesome\HELP-US-OUT.txt
+wwwroot\vendor\jquery.cookie\component.json
+wwwroot\vendor\jquery.cookie\cookie.jquery.json
+wwwroot\vendor\jquery.cookie\jquery.cookie.js
+wwwroot\vendor\jquery.cookie\MIT-LICENSE.txt
+wwwroot\vendor\jquery\core.js
+wwwroot\vendor\jquery\jquery.js
+wwwroot\vendor\jquery\jquery.min.js
+wwwroot\vendor\jquery\jquery.slim.js
+wwwroot\vendor\jquery\jquery.slim.min.js
+wwwroot\vendor\popper.js\esm\popper.js
+wwwroot\vendor\popper.js\esm\popper.min.js
+wwwroot\vendor\popper.js\esm\popper-utils.js
+wwwroot\vendor\popper.js\esm\popper-utils.min.js
+wwwroot\vendor\popper.js\popper.js
+wwwroot\vendor\popper.js\popper.min.js
+wwwroot\vendor\popper.js\popper-utils.js
+wwwroot\vendor\popper.js\popper-utils.min.js
+wwwroot\vendor\popper.js\umd\popper.js
+wwwroot\vendor\popper.js\umd\popper.min.js
+wwwroot\vendor\popper.js\umd\popper-utils.js
+wwwroot\vendor\popper.js\umd\popper-utils.min.js
+wwwroot\vendor\popper.js\umd\poppper.js.flow

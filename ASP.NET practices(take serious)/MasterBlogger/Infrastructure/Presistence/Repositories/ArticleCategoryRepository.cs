@@ -8,8 +8,7 @@ using System.Threading.Tasks;
 
 namespace Infrastructure.Presistence.Repositories
 {
-    public class ArticleCategoryRepository : Rep
-        ository<ArticleCategory>
+    public class ArticleCategoryRepository : Repository<ArticleCategory>
     {
         public ArticleCategoryRepository(MasterBloggerContext context) : base(context)
         {

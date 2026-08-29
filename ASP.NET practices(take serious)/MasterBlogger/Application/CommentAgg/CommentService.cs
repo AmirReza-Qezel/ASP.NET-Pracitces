@@ -1,5 +1,4 @@
 ﻿using Application.Common;
-using Application.Contract.CommentAgg.Commands;
 using Application.Contract.CommentAgg.Commands___DTOs;
 using Application.Contract.CommentAgg;
 using AutoMapper;
@@ -12,13 +11,21 @@ using System.Text;
 using System.Threading.Tasks;
 using Application.Contract.ArticleAgg.Commands;
 using Application.Contract.ArticleAgg;
+using Domain.Common;
 
 namespace Application.CommentAgg
 {
     public class CommentService : ICommentService
     {
-        private readonly ICommentRepository _repository;
+        private readonly IRepository<Comment> _repository;
         private readonly IMapper _mapper;
+
+        public CommentService(IRepository<Comment> repository, IMapper mapper)
+        {
+            _repository = repository;
+            _mapper = mapper;
+        }
+
         public async Task AddAsync(CreateCommentCommand create, CancellationToken cancellationToken = default)
         {
             if (string.IsNullOrWhiteSpace(create.AuthorName))

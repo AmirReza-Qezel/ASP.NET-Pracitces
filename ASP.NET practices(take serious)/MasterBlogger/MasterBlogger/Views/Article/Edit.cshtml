@@ -23,10 +23,17 @@
             <!-- Validation summary -->
             <div asp-validation-summary="ModelOnly" class="alert alert-danger">
             </div>
+            @if (TempData["Error"] != null)
+            {
+                <div class="alert alert-success alert-dismissible fade show">
+                    @TempData["Error"]
+                    <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+                </div>
+            }
 
             <div class="mb-3">
                 <label asp-for="Title" class="form-label fw-bold">Title</label>
-                <input type="text" asp-for="Title" class="form-control" placeholder=@Model.Title value="Sample Title" />
+                <input type="text" asp-for="Title" class="form-control" placeholder=@Model.Title/>
                 <span asp-validation-for="Title" class="text-danger"></span>
             </div>
 
@@ -59,9 +66,3 @@
         </form>
     </div>
 </div>
-@section Scripts
-{
-    @{
-        await Html.RenderPartialAsync("_ValidationScriptsPartial");
-    }
-}

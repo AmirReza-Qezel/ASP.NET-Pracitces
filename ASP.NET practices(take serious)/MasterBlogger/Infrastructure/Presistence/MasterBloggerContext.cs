@@ -15,7 +15,8 @@ namespace Infrastructure.Presistence
 {
     public class MasterBloggerContext : DbContext
     {
-        public MasterBloggerContext() { }
+        public MasterBloggerContext(DbContextOptions options) : base(options) {
+        }
         public DbSet<Comment> Comments { get; set; }
         public DbSet<Journalist> Journalists { get; set; }
         public DbSet<Article> Articles { get; set; }

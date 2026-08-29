@@ -19,6 +19,7 @@ namespace Domain.ArticleAgg
             IsDeleted = false;
             ArticleCategoryId = articleCategoryId;
             CreationDate = DateTime.Now;
+            JournalistId = 1;
         }
 
         public int Id { get; set; }
@@ -33,10 +34,11 @@ namespace Domain.ArticleAgg
         public int ArticleCategoryId { get; set; }
         public ArticleCategory ArticleCategory { get; set; }
         public ICollection<Comment> Comments { get; set; } = new List<Comment>();
-        public void Edit(string title, string content)
+        public void Edit(string title, string content,int articleCategoryId)
         { 
             Title = title;
             Content = content;
+            ArticleCategoryId = articleCategoryId;
         }
         public void Delete()
         {

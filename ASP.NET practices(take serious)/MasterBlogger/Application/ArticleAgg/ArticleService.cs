@@ -16,8 +16,15 @@ namespace Application.ArticleAgg
 {
     public class ArticleService : IArticleService
     {
-        private readonly IArticleRepository _repository;
+        private readonly IRepository<Article> _repository;
         private readonly IMapper _mapper;
+
+        public ArticleService(IRepository<Article> repository, IMapper mapper)
+        {
+            _repository = repository;
+            _mapper = mapper;
+        }
+
         public async Task AddAsync(CreateArticleCommand create, CancellationToken cancellationToken = default)
         {
             if (string.IsNullOrWhiteSpace(create.Title))
@@ -48,7 +55,7 @@ namespace Application.ArticleAgg
         public async Task<IReadOnlyList<ArticleDTO>> GetAllAsync(CancellationToken cancellationToken = default)
         {
             var articles = await _repository.GetAllAsync(cancellationToken);
-            var filtered = articles.Where(a => !a.IsDeleted).ToList;
+            var filtered = articles.Where(a => !a.IsDeleted).ToList();
             return _mapper.Map<List<ArticleDTO>>(filtered);
         }
 
@@ -63,7 +70,10 @@ namespace Application.ArticleAgg
         public async Task Update(UpdateArticleCommand update, CancellationToken cancellationToken = default)
         {
             var article = await _repository.GetByIdAsync(update.Id);
-            article.Edit(update.Title, update.Content);
+            if (article == null || article.IsDeleted)
+                throw new NotFoundException($"Article with ID of {update.Id} was not found or either is deleted");
+                article.Edit(update.Title, update.Content, update.ArticleCategoryId);
+            await _repository.SaveChangesAsync();
         }
     }
 }

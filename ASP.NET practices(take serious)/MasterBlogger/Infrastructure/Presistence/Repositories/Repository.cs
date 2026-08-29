@@ -27,7 +27,7 @@ namespace Infrastructure.Presistence.Repositories
 
         public async Task<IEnumerable<T>> GetAllAsync(CancellationToken cancellationToken)
         {
-            return await _dbset.ToListAsync(cancellationToken);
+            return await _dbset.AsNoTracking().ToListAsync(cancellationToken);
         }
 
         public async Task<T?> GetByIdAsync(int id, CancellationToken cancellationToken)

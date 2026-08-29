@@ -5,6 +5,7 @@ using Application.Contract.ArticleCategoryAgg;
 using Application.Contract.ArticleCategoryAgg.Commands___DTOs;
 using AutoMapper;
 using Domain.ArticleCategoryAgg;
+using Domain.Common;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
@@ -14,10 +15,17 @@ using System.Threading.Tasks;
 
 namespace Application.ArticleCategoryCategoryAgg
 {
-    public class ArticleCategoryCategoryService : IArticleCategoryService
+    public class ArticleCategoryService : IArticleCategoryService
     {
-        private readonly IArticleCategoryRepository _repository;
+        private readonly IRepository<ArticleCategory> _repository;
         private readonly IMapper _mapper;
+
+        public ArticleCategoryService(IRepository<ArticleCategory> repository, IMapper mapper)
+        {
+            _repository = repository;
+            _mapper = mapper;
+        }
+
         public async Task AddAsync(CreateArticleCategoryCommand create, CancellationToken cancellationToken = default)
         {
             if (string.IsNullOrWhiteSpace(create.Title))
@@ -47,8 +55,8 @@ namespace Application.ArticleCategoryCategoryAgg
 
         public async Task<IReadOnlyList<ArticleCategoryDTO>> GetAllAsync(CancellationToken cancellationToken = default)
         {
-            var categories = await _repository.GetAllAsync(cancellationToken);
-            var filtered = categories.Where(a => !a.IsDeleted).ToList;
+            var categories = await _repository.GetAllAsync();
+            var filtered = categories.Where(a => !a.IsDeleted).ToList();
             return _mapper.Map<List<ArticleCategoryDTO>>(filtered);
         }
 
@@ -56,7 +64,7 @@ namespace Application.ArticleCategoryCategoryAgg
         {
             var category = await _repository.GetByIdAsync(id);
 
-            if (category != null || category.IsDeleted)
+            if (category == null || category.IsDeleted)
                 throw new NotFoundException($"ArticleCategory with ID of {id} was not found");
 
             return _mapper.Map<ArticleCategoryDTO>(category);

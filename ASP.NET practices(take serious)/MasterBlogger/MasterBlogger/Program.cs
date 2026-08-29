@@ -1,8 +1,17 @@
+using Application.ArticleAgg;
+using Application.ArticleCategoryCategoryAgg;
+using Application.Contract.ArticleAgg;
+using Application.Contract.ArticleCategoryAgg;
+using Infrastructure.Core;
+using Microsoft.Extensions.DependencyInjection;
 var builder = WebApplication.CreateBuilder(args);
-
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-
+builder.Services.RegisterAll(builder.Configuration);
+builder.Services.AddAutoMapper(cfg => { }, typeof(ArticleMappingProfile));
+builder.Services.AddScoped<IArticleService, ArticleService>();
+builder.Services.AddScoped<IArticleCategoryService, ArticleCategoryService>();
+builder.Services.AddSession();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

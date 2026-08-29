@@ -16,7 +16,7 @@ namespace Infrastructure.Presistence.EntityConfigurations
             builder.HasKey(j => j.Id);
             builder.Property(j => j.FirstName).IsRequired().HasMaxLength(100);
             builder.Property(j => j.LastName).IsRequired().HasMaxLength(100);
-            builder.Property(j => j.MembershipDate).HasDefaultValue("GETDATE()");
+            builder.Property(j => j.MembershipDate).HasDefaultValueSql("GETDATE()");
         }
     }
 }

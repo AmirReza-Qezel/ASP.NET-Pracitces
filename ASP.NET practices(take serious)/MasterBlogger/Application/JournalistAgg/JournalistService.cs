@@ -11,13 +11,21 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Application.Contract.JournalistAgg;
+using Domain.Common;
 
 namespace Application.JournalistAgg
 {
     public class JournalistService : IJournalistService
     {
-        private readonly IJournalistRepository _repository;
+        private readonly IRepository<Journalist> _repository;
         private readonly IMapper _mapper;
+
+        public JournalistService(IRepository<Journalist> repository, IMapper mapper)
+        {
+            _repository = repository;
+            _mapper = mapper;
+        }
+
         public async Task AddAsync(CreateJournalistCommand create, CancellationToken cancellationToken = default)
         {
             if (string.IsNullOrWhiteSpace(create.FirstName))
